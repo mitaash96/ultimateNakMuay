@@ -41,3 +41,15 @@ def transform_wiki_events_ufc(**kwargs):
     df = pd.concat(list(map(get_events_df, [past_events_table, scheduled_events_table])), ignore_index=True)
 
     return df
+
+
+def transform_wiki_events_onefc(**kwargs):
+    url = kwargs["url"]
+    response = requests.get(url)
+
+    soup = BeautifulSoup(response.text, 'html.parser')
+    events_table = soup.find('table', class_='wikitable')
+
+    df = get_events_df(events_table)
+
+    return df

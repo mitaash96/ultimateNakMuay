@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Job Raw",
+            "name": "Python: Build Raw Layer",
             "type": "python",
             "request": "launch",
             "module": "src.transforms.raw.job_raw",
@@ -10,7 +10,7 @@
             "justMyCode": true
         },
         {
-            "name": "Python: Job Processed",
+            "name": "Python: Build Processed Layer",
             "type": "python",
             "request": "launch",
             "module": "src.transforms.processed.job_processed",
