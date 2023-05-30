@@ -75,3 +75,7 @@ def transform_wiki_events_bellator(**kwargs):
     df = pd.DataFrame(rows, columns=headers)
 
     return df
+
+
+def transform_wiki_events_glory(**kwargs):
+    return transform_wiki_events_onefc(**kwargs)
