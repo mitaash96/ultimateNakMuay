@@ -53,3 +53,25 @@ def transform_wiki_events_onefc(**kwargs):
     df = get_events_df(events_table)
 
     return df
+
+
+def transform_wiki_events_bellator(**kwargs):
+    url = kwargs["url"]
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    events_table = soup.find('table', class_='wikitable')
+
+    headers = [th.text.strip() for th in events_table.find_all("th", scope="col")[1:]]
+    headers = ["EventID", *headers]
+
+    rows = []
+    for tr in events_table.find_all('tr')[1:]:
+        row = [tr.find('th').text.strip()]  if tr.find('th') != None else []
+        for td in tr.find_all('td'):
+            row.append(td.text.strip())
+        rows.append(row)
+    
+    df = pd.DataFrame(rows, columns=headers)
+
+    return df

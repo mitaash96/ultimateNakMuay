@@ -1,0 +1,318 @@
+EventID,Event,Date,Venue,Location,Attendance
+305,Bellator 299,"September 23, 2023",3Arena,"Dublin, Ireland",
+304,Bellator 298,"August 11, 2023",Sanford Pentagon,"Sioux Falls, South Dakota, U.S.",
+303,Bellator MMA x Rizin 2,"July 30, 2023",Saitama Super Arena,"Saitama, Japan",
+302,Bellator 297,"June 16, 2023",Wintrust Arena,"Chicago, Illinois, U.S.",
+301,Bellator 296,"May 12, 2023",Accor Arena,"Paris, France",
+300,Bellator 295,"April 22, 2023",Neal S. Blaisdell Arena,"Honolulu, Hawaii, U.S.",
+299,Bellator 294,"April 21, 2023",,,
+298,Bellator 293,"March 31, 2023",Pechanga Resort and Casino,"Temecula, California, U.S.",
+297,Bellator 292,"March 10, 2023",SAP Center,"San Jose, California, U.S.",
+296,Bellator 291,"February 24, 2023",3Arena,"Dublin, Ireland",
+295,Bellator 290,"February 4, 2023",Kia Forum,"Inglewood, California, U.S.",
+294,Bellator MMA vs. Rizin,"December 31, 2022",Saitama Super Arena,"Saitama, Japan",
+293,Bellator 289,"December 9, 2022",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+292,Bellator 288,"November 18, 2022",Wintrust Arena,"Chicago, Illinois, U.S.",
+291,Bellator 287,"October 29, 2022",Allianz Cloud Arena,"Milan, Italy",
+290,Bellator 286,"October 1, 2022",Long Beach Arena,"Long Beach, California, U.S.",
+289,Bellator 285,"September 23, 2022",3Arena,"Dublin, Ireland",
+288,Bellator 284,"August 12, 2022",Sanford Pentagon,"Sioux Falls, South Dakota, U.S.","2,900"
+287,Bellator 283,"July 22, 2022",Emerald Queen Casino and Hotel,"Tacoma, Washington, U.S.","1,012"
+286,Bellator 282,"June 24, 2022",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","10,000"
+285,Bellator 281,"May 13, 2022",SSE Arena,"London, England","8,779"
+284,Bellator 280,"May 6, 2022",AccorHotels Arena,"Paris, France","13,131"
+283,Bellator 279,"April 23, 2022",Neal S. Blaisdell Arena,"Honolulu, Hawaii, U.S.","6,516"
+282,Bellator 278,"April 22, 2022","6,516",,
+281,Bellator 277,"April 15, 2022",SAP Center,"San Jose, California, U.S.","13,950"
+280,Bellator 276,"March 12, 2022",Family Arena,"St. Louis, Missouri, U.S.","7,053"
+279,Bellator 275,"February 25, 2022",3Arena,"Dublin, Ireland","8,806"
+278,Bellator 274,"February 19, 2022",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","11,454"
+277,Bellator 273,"January 29, 2022",Footprint Center,"Phoenix, Arizona, U.S.",12.077
+276,Bellator 272,"December 3, 2021",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","7,600"
+275,Bellator 271,"November 12, 2021",Seminole Hard Rock Hotel & Casino Hollywood,"Hollywood, Florida, U.S.","2,411"
+274,Bellator 270,"November 5, 2021",3Arena,"Dublin, Ireland",10.932
+273,Bellator 269,"October 23, 2021",VTB Arena,"Moscow, Russia","11,900"
+272,Bellator 268,"October 16, 2021",Footprint Center,"Phoenix, Arizona, U.S.","9,902"
+271,Bellator 267,"October 1, 2021",Wembley Arena,"London, England","8,867"
+270,Bellator 266,"September 18, 2021",SAP Center,"San Jose, California, U.S.","14,147"
+269,Bellator 265,"August 20, 2021",Sanford Pentagon,"Sioux Falls, South Dakota, U.S.","2,900"
+268,Bellator 264,"August 13, 2021",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","10,000"
+267,Bellator 263,"July 31, 2021",The Forum,"Inglewood, California, U.S.","7,024"
+266,Bellator 262,"July 16, 2021",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","12,000"
+265,Bellator 261,"June 25, 2021","9,112",,
+264,Bellator 260,"June 11, 2021","5,667",,
+263,Bellator 259,"May 21, 2021",0,,
+262,Bellator 258,"May 7, 2021",,,
+261,Bellator 257,"April 16, 2021",,,
+260,Bellator 256,"April 9, 2021",,,
+259,Bellator 255,"April 2, 2021",,,
+258,Bellator 254,"December 10, 2020",,,
+257,Bellator 253,"November 19, 2020",,,
+256,Bellator 252,"November 12, 2020",,,
+255,Bellator 251,"November 5, 2020",,,
+254,Bellator 250,"October 29, 2020",,,
+253,Bellator 249,"October 15, 2020",,,
+252,Bellator Paris/248,"October 10, 2020",AccorHotels Arena,"Paris, France","1,000"
+251,Bellator Milan 3,"October 3, 2020",Ex Palalido (Allianz Cloud),"Milan, Italy",0
+—,Bellator Dublin 3 (Cancelled),"October 3, 2020",3Arena,"Dublin, Ireland",Cancelled
+250,Bellator 247,"October 1, 2020",Ex Palalido (Allianz Cloud),"Milan, Italy",0
+249,Bellator Milan 2,"September 26, 2020",,,
+248,Bellator 246,"September 12, 2020",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+247,Bellator 245,"September 11, 2020",,,
+246,Bellator 244,"August 21, 2020",,,
+245,Bellator 243,"August 7, 2020",,,
+244,Bellator 242,"July 24, 2020",,,
+—,Bellator 244 (Cancelled),"June 6, 2020",Wintrust Arena,"Chicago, Illinois, U.S.",Cancelled
+—,Bellator 243 (Cancelled),"May 29, 2020",Pechanga Resort and Casino,"Temecula, California, U.S.",
+—,Bellator London 3 (Cancelled),"May 16, 2020",SSE Arena,"London, England",
+—,Bellator 242 (Cancelled),"May 9, 2020",SAP Center,"San Jose, California, U.S.",
+—,Bellator 241 (Cancelled),"March 13, 2020",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+243,Bellator Dublin 2/240,"February 22, 2020",3Arena,"Dublin, Ireland",
+242,Bellator 239,"February 21, 2020",WinStar World Casino,"Thackerville, Oklahoma, U.S.",
+241,Bellator 238,"January 25, 2020",The Forum,"Inglewood, California, U.S.",
+240,Bellator & Rizin: Japan/237,"December 29, 2019",Saitama Super Arena,"Saitama, Japan",
+239,Bellator 236,"December 21, 2019",Neal S. Blaisdell Arena,"Honolulu, Hawaii, U.S.",
+238,Bellator 235,"December 20, 2019",,,
+237,Bellator London 2,"November 23, 2019",SSE Arena,"London, England",
+236,Bellator 234,"November 14, 2019",Menora Mivtachim Arena,"Tel Aviv, Israel",
+235,Bellator 233,"November 8, 2019",WinStar World Casino,"Thackerville, Oklahoma, U.S.",
+234,Bellator 232,"October 26, 2019",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+233,Bellator 231,"October 25, 2019",,,
+232,Bellator Milan/230,"October 12, 2019",Ex Palalido (Allianz Cloud),"Milan, Italy",
+231,Bellator 229,"October 4, 2019",Pechanga Resort and Casino,"Temecula, California, U.S.",
+230,Bellator 228,"September 28, 2019",The Forum,"Inglewood, California, U.S.",
+229,Bellator Dublin/227,"September 27, 2019",3Arena,"Dublin, Ireland",
+228,Bellator 226,"September 7, 2019",SAP Center,"San Jose, California, U.S.",
+227,Bellator 225,"August 24, 2019",Webster Bank Arena,"Bridgeport, Connecticut, U.S.",
+226,Bellator 224,"July 12, 2019",WinStar World Casino,"Thackerville, Oklahoma, U.S.",
+225,Bellator London/223,"June 22, 2019",SSE Arena,"London, England",
+224,Bellator 222,"June 14, 2019",Madison Square Garden,"New York City, U.S.",
+223,Bellator 221,"May 11, 2019",Allstate Arena,"Rosemont, Illinois, U.S.",
+222,Bellator Birmingham,"May 4, 2019",Resorts World Arena,"Birmingham, England",
+221,Bellator 220,"April 27, 2019",SAP Center,"San Jose, California, U.S.",
+220,Bellator 219,"March 29, 2019",Pechanga Resort and Casino,"Temecula, California, U.S.",
+219,Bellator 218,"March 22, 2019",WinStar World Casino,"Thackerville, Oklahoma, U.S.",
+218,Bellator 217,"February 23, 2019",3Arena,"Dublin, Ireland",
+217,Bellator 216,"February 16, 2019",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+216,Bellator 215,"February 15, 2019",,,
+215,Bellator Newcastle,"February 9, 2019",Metro Radio Arena,"Newcastle upon Tyne, England",
+214,Bellator 214,"January 26, 2019",The Forum,"Inglewood, California, U.S.",
+213,Bellator 213,"December 15, 2018",Neal S. Blaisdell Arena,"Honolulu, Hawaii, U.S.",
+212,Bellator 212,"December 14, 2018",,,
+211,Bellator 211,"December 1, 2018",RDS Stadium,"Genoa, Italy",
+210,Bellator 210,"November 30, 2018",WinStar World Casino,"Thackerville, Oklahoma, U.S.",
+209,Bellator 209,"November 15, 2018",Menora Mivtachim Arena,"Tel Aviv, Israel",
+208,Bellator 208,"October 13, 2018",Nassau Coliseum,"Uniondale, New York, U.S.",
+207,Bellator 207,"October 12, 2018",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+206,Bellator 206,"September 29, 2018",SAP Center,"San Jose, California, U.S.",
+205,Bellator 205,"September 21, 2018",CenturyLink Arena,"Boise, Idaho, U.S.",
+204,Bellator 204,"August 17, 2018",Sanford Pentagon,"Sioux Falls, South Dakota, U.S.",
+203,Bellator 203,"July 14, 2018",Foro Italico,"Rome, Italy",
+202,Bellator 202,"July 13, 2018",WinStar World Casino,"Thackerville, Oklahoma, U.S.",
+201,Bellator 201,"June 29, 2018",Pechanga Resort and Casino,"Temecula, California, U.S.",
+200,Bellator 200,"May 25, 2018","The SSE Arena, Wembley","London, England",
+199,Bellator 199,"May 12, 2018",SAP Center,"San Jose, California, U.S.",
+198,Bellator 198,"April 28, 2018",Allstate Arena,"Rosemont, Illinois, U.S.",
+197,Bellator 197,"April 13, 2018",Family Arena,"St. Charles, Missouri, U.S.",
+196,Bellator 196,"April 6, 2018",BOK Hall,"Budapest, Hungary",
+—,Bellator: Monster Energy Fight Series: Atlanta,"March 3, 2018",Georgia World Congress Center,"Atlanta, Georgia, U.S.",—
+195,Bellator 195,"March 2, 2018",WinStar World Casino,"Thackerville, Oklahoma, U.S.",
+194,Bellator 194,"February 16, 2018",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+193,Bellator 193,"January 26, 2018",Pechanga Resort and Casino,"Temecula, California, U.S.",
+192,Bellator 192,"January 20, 2018",The Forum,"Inglewood, California, U.S.",
+191,Bellator 191,"December 15, 2017",Metro Radio Arena,"Newcastle, England, UK",
+190,Bellator 190,"December 9, 2017",Nelson Mandela Forum,"Florence, Italy",
+189,Bellator 189,"December 1, 2017",WinStar World Casino,"Thackerville, Oklahoma, U.S.",
+—,Bellator: Monster Energy Fight Series: Homestead,"November 19, 2017",Homestead-Miami Speedway,"Homestead, Florida, U.S.",—
+188,Bellator 188,"November 16, 2017",Menora Mivtachim Arena,"Tel Aviv, Israel",
+187,Bellator 187,"November 10, 2017",3Arena,"Dublin, Ireland",
+186,Bellator 186,"November 3, 2017",Bryce Jordan Center,"University Park, Pennsylvania, U.S.",
+185,Bellator 185,"October 20, 2017",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","8,346"
+—,Bellator: Monster Energy Fight Series: Talladega,"October 13, 2017",Talladega Superspeedway,"Lincoln, Alabama, U.S.",—
+184,Bellator 184,"October 6, 2017",WinStar World Casino,"Thackerville, Oklahoma, U.S.","1,247"
+183,Bellator 183,"September 23, 2017",SAP Center,"San Jose, California, U.S.","5,897"
+182,Bellator 182,"August 25, 2017",Turning Stone Resort & Casino,"Verona, New York, U.S.","4,390"
+—,Bellator: Monster Energy Fight Series: Bristol,"August 19, 2017",Bristol Motor Speedway,"Bristol, Tennessee, U.S.",—
+181,Bellator 181,"July 14, 2017",WinStar World Casino,"Thackerville, Oklahoma, U.S.","1,247"
+180,Bellator NYC,"June 24, 2017",Madison Square Garden,"New York City, U.S.","12,133"
+—,Bellator: Monster Energy Fight Series: Charlotte,"May 20, 2017",Charlotte Motor Speedway,"Charlotte, North Carolina, U.S.",—
+179,Bellator 179,"May 19, 2017","The SSE Arena, Wembley","London, England, UK","11,872"
+178,Bellator 178,"April 21, 2017",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","9,010"
+177,Bellator 177,"April 14, 2017",Budapest Sports Arena,"Budapest, Hungary","11,439"
+176,Bellator 176,"April 8, 2017",Pala Alpitour,"Torino, Italy","9,216"
+175,Bellator 175,"March 31, 2017",Allstate Arena,"Rosemont, Illinois, U.S.","11,807"
+174,Bellator 174,"March 3, 2017",WinStar World Casino,"Thackerville, Oklahoma, U.S.","1,211"
+173,Bellator 173,"February 24, 2017",SSE Arena Belfast,"Belfast, UK","10,461"
+172,Bellator 172,"February 18, 2017",SAP Center,"San Jose, California, U.S.","7,273"
+171,Bellator 171,"January 27, 2017",Kansas Star Casino,"Mulvane, Kansas, U.S.","3,206"
+170,Bellator 170,"January 21, 2017",The Forum,"Inglewood, California, U.S.","11,972"
+169,Bellator 169,"December 16, 2016",3Arena,"Dublin, Ireland","12,184"
+168,Bellator 168,"December 10, 2016",Nelson Mandela Forum,"Florence, Italy","8,113"
+167,Bellator 167,"December 3, 2016",WinStar World Casino,"Thackerville, Oklahoma, U.S.","1,274"
+166,Bellator 166,"December 2, 2016","1,350",,
+165,Bellator 165,"November 19, 2016",SAP Center,"San Jose, California, U.S.","13,156"
+164,Bellator 164,"November 10, 2016",Menora Mivtachim Arena,"Tel Aviv, Israel","8,937"
+163,Bellator 163,"November 4, 2016",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","9,156"
+162,Bellator 162,"October 21, 2016",FedEx Forum,"Memphis, Tennessee, U.S.","9,140"
+—,Bellator Kickboxing 3,"September 17, 2016",SYMA Hall,"Budapest, Hungary",
+161,Bellator 161,"September 16, 2016",H-E-B Center at Cedar Park,"Cedar Park, Texas, U.S.","8,632"
+160,Bellator 160,"August 26, 2016",Honda Center,"Anaheim, California, U.S.","9,139"
+159,Bellator 159,"July 23, 2016",Kansas Star Arena,"Mulvane, Kansas, U.S.","3,124"
+158,Bellator 158,"July 16, 2016",O2 Arena,"London, England","12,311"
+157,Bellator 157: Dynamite 2,"June 24, 2016",Scottrade Center,"St.Louis, Missouri, U.S.","11,982"
+156,Bellator 156,"June 17, 2016",Save Mart Center,"Fresno, California, U.S.","5,552"
+155,Bellator 155,"May 20, 2016",CenturyLink Arena,"Boise, Idaho, U.S.","6,120"
+154,Bellator 154,"May 14, 2016",SAP Center,"San Jose, California, U.S.","11,084"
+153,Bellator 153,"April 22, 2016",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","9,043"
+152,Bellator 152,"April 16, 2016",Pala Alpitour,"Torino, Italy","13,867"
+151,Bellator 151,"March 4, 2016",WinStar World Casino,"Thackerville, Oklahoma, U.S.","1,152"
+150,Bellator 150,"February 26, 2016",Kansas Star Casino,"Mulvane, Kansas, U.S.","3,288"
+149,Bellator 149,"February 19, 2016",Toyota Center,"Houston, Texas, U.S.","14,209"
+148,Bellator 148,"January 29, 2016",Save Mart Center,"Fresno, California, U.S.","5,425"
+147,Bellator 147,"December 4, 2015",San Jose State University,"San Jose, California, U.S.","2,076"
+146,Bellator 146,"November 20, 2015",WinStar World Casino,"Thackerville, Oklahoma, U.S.","1,246"
+145,Bellator 145,"November 6, 2015",Scottrade Center,"St. Louis, Missouri, U.S.","5,259"
+144,Bellator 144,"October 23, 2015",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","6,009"
+143,Bellator 143,"September 25, 2015",State Farm Arena,"Hidalgo, Texas, U.S.","3,756"
+142,Bellator 142: Dynamite 1,"September 19, 2015",SAP Center,"San Jose, California, U.S.","11,732"
+141,Bellator 141,"August 28, 2015",Pechanga Resort & Casino,"Temecula, California, U.S.","1,200"
+140,Bellator 140,"July 17, 2015",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","7,610"
+139,Bellator 139,"June 26, 2015",Kansas Star Casino,"Mulvane, Kansas, U.S.","2,500"
+138,Bellator 138,"June 19, 2015",Scottrade Center,"St. Louis, Missouri, U.S.","6,724"
+137,Bellator 137,"May 15, 2015",Pechanga Resort & Casino,"Temecula, California, U.S.","1,200"
+136,Bellator 136,"April 10, 2015",Bren Events Center,"Irvine, California, U.S.","4,869"
+135,Bellator 135,"March 27, 2015",WinStar World Casino,"Thackerville, Oklahoma, U.S.","1,345"
+134,Bellator 134: The British Invasion,"February 27, 2015",Mohegan Sun Casino,"Uncasville, Connecticut, U.S.","8,372"
+133,Bellator 133,"February 13, 2015",Save Mart Center,"Fresno, California, U.S.","5,184"
+132,Bellator 132,"January 16, 2015",Pechanga Resort & Casino,"Temecula, California, U.S.","1,300"
+131,Bellator 131,"November 15, 2014",Valley View Casino Center,"San Diego, California, U.S.","8,243"
+130,Bellator 130,"October 24, 2014",Kansas Star Arena,"Mulvane, Kansas, U.S.","2,700"
+–,Bellator 2014 Monster Energy Cup,"October 18, 2014",Sam Boyd Stadium,"Whitney, Nevada, U.S.",—
+129,Bellator 129,"October 17, 2014",Mid-America Center,"Council Bluffs, Iowa, U.S.","3,951"
+128,Bellator 128,"October 10, 2014",Winstar World Casino,"Thackerville, Oklahoma, U.S.","1,325"
+127,Bellator 127,"October 3, 2014",Pechanga Resort & Casino,"Temecula, California, U.S.","1,200"
+126,Bellator 126,"September 26, 2014",Grand Canyon University Arena,"Phoenix, Arizona, U.S.","6,300"
+125,Bellator 125,"September 19, 2014",Save Mart Center,"Fresno, California, U.S.","5,000"
+124,Bellator 124,"September 12, 2014",Compuware Arena,"Plymouth Township, Michigan, U.S.","2,468"
+123,Bellator 123,"September 5, 2014",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","7,109"
+122,Bellator 122,"July 25, 2014",Pechanga Resort & Casino,"Temecula, California, U.S.","1,150"
+121,Bellator 121,"June 6, 2014",WinStar World Casino,"Thackerville, Oklahoma, U.S.","1,100"
+120,Bellator 120,"May 17, 2014",Landers Center,"Southaven, Mississippi, U.S.","8,115"
+119,Bellator 119,"May 9, 2014",Casino Rama,"Rama, Ontario, Canada",
+118,Bellator 118,"May 2, 2014",Revel Atlantic City,"Atlantic City, New Jersey, U.S.",
+117,Bellator 117,"April 18, 2014",Mid-America Center,"Council Bluffs, Iowa, U.S.",
+116,Bellator 116,"April 11, 2014",Pechanga Resort & Casino,"Temecula, California, U.S.",
+115,Bellator 115,"April 4, 2014",Reno Events Center,"Reno, Nevada, U.S.",
+114,Bellator 114,"March 28, 2014",Maverik Center,"West Valley City, Utah, U.S.",
+113,Bellator 113,"March 21, 2014",Kansas Star Arena,"Mulvane, Kansas, U.S.",
+112,Bellator 112,"March 14, 2014",The Horseshoe,"Hammond, Indiana, U.S.",
+111,Bellator 111,"March 7, 2014",WinStar World Casino,"Thackerville, Oklahoma, U.S.",
+110,Bellator 110,"February 28, 2014",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+109,Bellator 109,"November 22, 2013",Sands Casino Event Center,"Bethlehem, Pennsylvania, U.S.",
+108,Bellator 108,"November 15, 2013",Revel Casino,"Atlantic City, New Jersey, U.S.",
+107,Bellator 107,"November 8, 2013",WinStar World Casino,"Thackerville, Oklahoma, U.S.",
+106,Bellator 106,"November 2, 2013",Convention and Entertainment Center,"Long Beach, California, U.S.","6,596"
+105,Bellator 105,"October 25, 2013",Santa Ana Star Center,"Rio Rancho, New Mexico, U.S.",
+104,Bellator 104,"October 18, 2013",U.S. Cellular Center,"Cedar Rapids, Iowa, U.S.",
+103,Bellator 103,"October 11, 2013",Kansas Star Arena,"Mulvane, Kansas, U.S.",
+102,Bellator 102,"October 4, 2013",Visalia Convention Center,"Visalia, California, U.S.","1,482"
+101,Bellator 101,"September 27, 2013",Rose Garden,"Portland, Oregon, U.S.","2,368"
+100,Bellator 100,"September 20, 2013",Grand Canyon University Arena,"Phoenix, Arizona, U.S.",
+99,Bellator 99,"September 13, 2013",Pechanga Resort & Casino,"Temecula, California, U.S.",
+98,Bellator 98,"September 7, 2013",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+97,Bellator 97,"July 31, 2013",Santa Ana Star Center,"Rio Rancho, New Mexico, U.S.",
+96,Bellator 96,"June 19, 2013",Winstar World Casino,"Thackerville, Oklahoma, U.S.",
+95,Bellator 95,"April 4, 2013",Revel Casino,"Atlantic City, New Jersey, U.S.",
+94,Bellator 94,"March 28, 2013",USF Sun Dome,"Tampa, Florida, U.S.",
+93,Bellator 93,"March 21, 2013",Androscoggin Bank Colisée,"Lewiston, Maine, U.S.",
+92,Bellator 92,"March 7, 2013",Pechanga Resort and Casino,"Temecula, California, U.S.",
+91,Bellator 91,"February 28, 2013",Santa Ana Star Center,"Rio Rancho, New Mexico, U.S.",
+90,Bellator 90,"February 21, 2013",Maverik Center,"West Valley City, Utah, U.S.",
+89,Bellator 89,"February 14, 2013",Bojangles' Coliseum,"Charlotte, North Carolina, U.S.",
+88,Bellator 88,"February 7, 2013",Arena at Gwinnett Center,"Duluth, Georgia, U.S.","4,267"
+87,Bellator 87,"January 31, 2013",Soaring Eagle Casino,"Mount Pleasant, Michigan, U.S.",850
+86,Bellator 86,"January 24, 2013",WinStar World Casino,"Thackerville, Oklahoma, U.S.","1,288"
+85,Bellator 85,"January 17, 2013",Bren Events Center,"Irvine, California, U.S.","3,002"
+84,Bellator 84,"December 14, 2012",Horseshoe Casino,"Hammond, Indiana, U.S.",
+83,Bellator 83,"December 7, 2012",Caesars Atlantic City,"Atlantic City, New Jersey, U.S.",
+82,Bellator 82,"November 30, 2012",Soaring Eagle Casino,"Mount Pleasant, Michigan, U.S.",
+81,Bellator 81,"November 16, 2012",Ryan Center,"Kingston, Rhode Island, U.S.",
+80,Bellator 80,"November 9, 2012",Seminole Hard Rock Hotel & Casino,"Hollywood, Florida, U.S.",
+79,Bellator 79,"November 2, 2012",Casino Rama,"Rama, Ontario, Canada",
+78,Bellator 78,"October 26, 2012",Nutter Center,"Dayton, Ohio, U.S.",
+77,Bellator 77,"October 19, 2012",Reading Eagle Theater,"Reading, Pennsylvania, U.S.",
+76,Bellator 76,"October 12, 2012",Caesars Windsor,"Windsor, Ontario, Canada",
+75,Bellator 75,"October 5, 2012",Horseshoe Casino,"Hammond, Indiana, U.S.",
+74,Bellator 74,"September 28, 2012",Caesars Atlantic City,"Atlantic City, New Jersey, U.S.",
+73,Bellator 73,"August 24, 2012",Harrah's Tunica Hotel and Casino,"Tunica, Mississippi, U.S.",
+72,Bellator 72,"July 20, 2012",USF Sun Dome,"Tampa, Florida, U.S.",
+71,Bellator 71,"June 22, 2012","Mountaineer Casino, Racetrack and Resort","Chester, West Virginia, U.S.",
+70,Bellator 70,"May 25, 2012",New Orleans Convention Center,"New Orleans, Louisiana, U.S.",
+69,Bellator 69,"May 18, 2012",L'Auberge du Lac Resort,"Lake Charles, Louisiana, U.S.",
+68,Bellator 68,"May 11, 2012",Caesars Atlantic City,"Atlantic City, New Jersey, U.S.",
+67,Bellator 67,"May 4, 2012",Casino Rama,"Rama, Ontario, Canada",
+66,Bellator 66,"April 20, 2012",I-X Center,"Cleveland, Ohio, U.S.",
+65,Bellator 65,"April 13, 2012",Boardwalk Hall,"Atlantic City, New Jersey, U.S.",
+64,Bellator 64,"April 6, 2012",Caesars Windsor,"Windsor, Ontario, Canada",
+63,Bellator 63,"March 30, 2012",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+62,Bellator 62,"March 23, 2012",Laredo Energy Arena,"Laredo, Texas, U.S.",
+61,Bellator 61,"March 16, 2012",Horseshoe Riverdome,"Bossier City, Louisiana, U.S.",
+60,Bellator 60,"March 9, 2012",Horseshoe Casino,"Hammond, Indiana, U.S.",
+59,Bellator 59,"November 26, 2011",Caesars Atlantic City,"Atlantic City, New Jersey, U.S.",
+58,Bellator 58,"November 19, 2011",Seminole Hard Rock Hotel & Casino,"Hollywood, Florida, U.S.",
+57,Bellator 57,"November 12, 2011",Casino Rama,"Rama, Ontario, Canada",
+56,Bellator 56,"October 29, 2011",Memorial Hall,"Kansas City, Kansas, U.S.",
+55,Bellator 55,"October 22, 2011",Cocopah Resort and Casino,"Somerton, Arizona, U.S.",
+54,Bellator 54,"October 15, 2011",Boardwalk Hall,"Atlantic City, New Jersey, U.S.",
+53,Bellator 53,"October 8, 2011",Buffalo Run Hotel & Casino,"Miami, Oklahoma, U.S.",
+52,Bellator 52,"October 1, 2011",L'Auberge du Lac Resort,"Lake Charles, Louisiana, U.S.",
+51,Bellator 51,"September 24, 2011",Canton Memorial Civic Center,"Canton, Ohio, U.S.",
+50,Bellator 50,"September 17, 2011",Seminole Hard Rock Hotel & Casino,"Hollywood, Florida, U.S.",
+49,Bellator 49,"September 10, 2011",Caesars Atlantic City,"Atlantic City, New Jersey, U.S.",
+48,Bellator 48,"August 20, 2011",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+47,Bellator 47,"July 23, 2011",Casino Rama,"Rama, Ontario, Canada",
+46,Bellator 46,"June 25, 2011",Seminole Hard Rock Hotel & Casino,"Hollywood, Florida, U.S.",
+45,Bellator 45,"May 21, 2011",L'Auberge du Lac Resort,"Lake Charles, Louisiana, U.S.",
+44,Bellator 44,"May 14, 2011",Harrah's Resort,"Atlantic City, New Jersey, U.S.",
+43,Bellator 43,"May 7, 2011",First Council Casino,"Newkirk, Oklahoma, U.S.",
+42,Bellator 42,"April 23, 2011",Lucky Star Casino,"Concho, Oklahoma, U.S.",
+41,Bellator 41,"April 16, 2011",Cocopah Resort and Casino,"Somerton, Arizona, U.S.",
+40,Bellator 40,"April 9, 2011",First Council Casino,"Newkirk, Oklahoma, U.S.",
+39,Bellator 39,"April 2, 2011",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+38,Bellator 38,"March 26, 2011",Harrah's Tunica Hotel and Casino,"Tunica, Mississippi, U.S.",
+37,Bellator 37,"March 19, 2011",Lucky Star Casino,"Concho, Oklahoma, U.S.",
+36,Bellator 36,"March 12, 2011",Shreveport Municipal Auditorium,"Shreveport, Louisiana, U.S.",
+35,Bellator 35,"March 5, 2011",Tachi Palace Hotel & Casino,"Lemoore, California, U.S.",
+34,Bellator 34,"October 28, 2010",Seminole Hard Rock Hotel & Casino,"Hollywood, Florida, U.S.",
+33,Bellator 33,"October 21, 2010",Liacouras Center,"Philadelphia, Pennsylvania, U.S.",
+32,Bellator 32,"October 14, 2010",Kansas City Power & Light District,"Kansas City, Missouri, U.S.",
+31,Bellator 31,"September 30, 2010",L'Auberge du Lac Resort,"Lake Charles, Louisiana, U.S.",
+30,Bellator 30,"September 23, 2010",Fourth Street Live!,"Louisville, Kentucky, U.S.",
+29,Bellator 29,"September 16, 2010",The Rave,"Milwaukee, Wisconsin, U.S.",
+28,Bellator 28,"September 9, 2010",Mahalia Jackson Theater,"New Orleans, Louisiana, U.S.",
+27,Bellator 27,"September 2, 2010",Majestic Theatre,"San Antonio, Texas, U.S.",600
+26,Bellator 26,"August 26, 2010",Kansas City Power & Light District,"Kansas City, Missouri, U.S.","4,000"
+25,Bellator 25,"August 19, 2010",Chicago Theatre,"Chicago, Illinois, U.S.",
+24,Bellator 24,"August 12, 2010",Seminole Hard Rock Hotel & Casino,"Hollywood, Florida, U.S.",
+23,Bellator 23,"June 24, 2010",Fourth Street Live!,"Louisville, Kentucky, U.S.",
+22,Bellator 22,"June 17, 2010",Kansas City Power & Light District,"Kansas City, Missouri, U.S.",
+21,Bellator 21,"June 10, 2010",Seminole Hard Rock Hotel & Casino,"Hollywood, Florida, U.S.",
+20,Bellator 20,"May 27, 2010",Majestic Theatre,"San Antonio, Texas, U.S.","1,000"
+19,Bellator 19,"May 20, 2010",Verizon Theater,"Grand Prairie, Texas, U.S.",
+18,Bellator 18,"May 13, 2010",Monroe Civic Center,"Monroe, Louisiana, U.S.",
+17,Bellator 17,"May 6, 2010",Citi Performing Arts Center: Wang Theatre,"Boston, Massachusetts, U.S.","1,000"
+16,Bellator 16,"April 29, 2010",Kansas City Power & Light District,"Kansas City, Missouri, U.S.",
+15,Bellator 15,"April 22, 2010",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+14,Bellator 14,"April 15, 2010",Chicago Theatre,"Chicago, Illinois, U.S.",
+13,Bellator 13,"April 8, 2010",Seminole Hard Rock Hotel & Casino,"Hollywood, Florida, U.S.",
+12,Bellator 12,"June 19, 2009",,,
+11,Bellator 11,"June 12, 2009",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.",
+10,Bellator 10,"June 5, 2009",Citizens Business Bank Arena,"Ontario, California, U.S.",
+9,Bellator 9,"May 29, 2009",Monroe Civic Center,"Monroe, Louisiana, U.S.",
+7,Bellator 7,"May 15, 2009",Aragon Ballroom,"Chicago, Illinois, U.S.",
+6,Bellator 6,"May 8, 2009",Central Pavilion Arena,"Robstown, Texas, U.S.",
+5,Bellator 5,"May 1, 2009",Hara Arena,"Dayton, Ohio, U.S.",
+4,Bellator 4,"April 17, 2009",Lloyd Noble Center,"Norman, Oklahoma, U.S.","3,850"
+3,Bellator 3,"4,297",,,
+2,Bellator 2,"April 10, 2009",Mohegan Sun Arena,"Uncasville, Connecticut, U.S.","1,283"
+1,Bellator 1,"April 3, 2009",Seminole Hard Rock Hotel & Casino,"Hollywood, Florida, U.S.","1,756"
