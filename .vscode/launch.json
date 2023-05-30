@@ -2,10 +2,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Job Scraper",
+            "name": "Python: Job Raw",
             "type": "python",
             "request": "launch",
-            "module": "src.transforms.raw.job_scraper",
+            "module": "src.transforms.raw.job_raw",
             "args": [],
             "justMyCode": true
         },

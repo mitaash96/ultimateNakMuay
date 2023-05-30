@@ -1,5 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
+from .utils_raw import get_events_df
 
 
 def transform_ufcstats(**kwargs):
@@ -26,3 +28,16 @@ def transform_ufcstats(**kwargs):
     data = list(map(makeData, [row for row in rows if row.find('a')!=None]))
 
     return data
+
+
+def transform_wiki_events_ufc(**kwargs):
+    url = kwargs["url"]
+    response = requests.get(url)
+
+    soup = BeautifulSoup(response.text, 'html.parser')
+    past_events_table = soup.find('table', class_='wikitable', id="Past_events")
+    scheduled_events_table = soup.find('table', class_='wikitable', id="Scheduled_events")
+
+    df = pd.concat(list(map(get_events_df, [past_events_table, scheduled_events_table])), ignore_index=True)
+
+    return df
