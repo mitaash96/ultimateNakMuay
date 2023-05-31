@@ -1,13 +1,21 @@
-from .transforms_processed import transform_ufc
+from .transforms_processed import (
+    transform_ufc, transform_wiki_ufc
+)
 
 
-CLEAN_LAYER_DEPENDENCIES = {
+PROCESSED_LAYER_DEPENDENCIES = {
     "ufcstats": {
         "input": r"C:\Development\ultimateNakMuay\data\raw\ufcstats.json",
         "output": r"C:\Development\ultimateNakMuay\data\processed\ufcstats_events.csv",
-    }
+    },
+    "wikievents_ufc":
+    {
+        "input": r"C:\Development\ultimateNakMuay\data\raw\wiki_events_ufc.csv",
+        "output": r"C:\Development\ultimateNakMuay\data\processed\wiki_events_ufc.csv",
+    },
 }
 
-CLEAN_LAYER_TRANSFORMS = {
+PROCESSED_LAYER_TRANSFORMS = {
     "ufcstats": transform_ufc,
+    "wikievents_ufc": transform_wiki_ufc,
 }

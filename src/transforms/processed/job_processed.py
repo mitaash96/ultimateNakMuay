@@ -1,12 +1,11 @@
-from .config_processed import CLEAN_LAYER_DEPENDENCIES, CLEAN_LAYER_TRANSFORMS
-import pandas as pd
+from .config_processed import PROCESSED_LAYER_DEPENDENCIES, PROCESSED_LAYER_TRANSFORMS
 
 
-def generate_clean_datasets(dataset):
-    input_path = CLEAN_LAYER_DEPENDENCIES[dataset]["input"]
-    output_path = CLEAN_LAYER_DEPENDENCIES[dataset]["output"]
+def generate_processed_datasets(dataset):
+    input_path = PROCESSED_LAYER_DEPENDENCIES[dataset]["input"]
+    output_path = PROCESSED_LAYER_DEPENDENCIES[dataset]["output"]
 
-    out_df = CLEAN_LAYER_TRANSFORMS[dataset](input_path)
+    out_df = PROCESSED_LAYER_TRANSFORMS[dataset](input_path)
 
     print(out_df.head(5))
 
@@ -14,5 +13,7 @@ def generate_clean_datasets(dataset):
 
     print(f"completed job for {dataset}")
 
+    return None
 
-TRANSFORMS = [generate_clean_datasets(dataset) for dataset in list(CLEAN_LAYER_DEPENDENCIES)]
+
+TRANSFORMS = [generate_processed_datasets(dataset) for dataset in list(PROCESSED_LAYER_DEPENDENCIES)]
