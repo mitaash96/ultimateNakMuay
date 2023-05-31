@@ -1,7 +1,7 @@
 from .transforms_raw import(
     transform_ufcstats, transform_wiki_events_ufc,
     transform_wiki_events_onefc, transform_wiki_events_bellator,
-    transform_wiki_events_glory,
+    transform_wiki_events_glory, transform_fast_read,
     )
 
 
@@ -20,17 +20,26 @@ SCRAPED_DATA_DEPENDENCIES = {
     {
         "url": "https://en.wikipedia.org/wiki/List_of_ONE_Championship_events#Events",
         "output": r"C:\Development\ultimateNakMuay\data\raw\wiki_events_onefc.csv",
+        "table_key": 1,
     },
     "wikievents_bellator":
     {
         "url": "https://en.wikipedia.org/wiki/List_of_Bellator_MMA_events",
         "output": r"C:\Development\ultimateNakMuay\data\raw\wiki_events_bellator.csv",
+        "table_key": 0,
     },
     "wikievents_glory":
     {
         "url": "https://en.wikipedia.org/wiki/Glory_(kickboxing)",
         "output": r"C:\Development\ultimateNakMuay\data\raw\wiki_events_glory.csv",
+        "table_key": 1,
     },
+    "wikievents_thai_fight":
+    {
+        "url": "https://en.wikipedia.org/wiki/Thai_Fight#Events",
+        "output": r"C:\Development\ultimateNakMuay\data\raw\wiki_events_thai_fight.csv",
+        "table_key": 2
+    }
 }
 
 SCRAPED_DATA_TRANSFORMS = {
@@ -39,4 +48,12 @@ SCRAPED_DATA_TRANSFORMS = {
     "wikievents_onefc": transform_wiki_events_onefc,
     "wikievents_bellator": transform_wiki_events_bellator,
     "wikievents_glory": transform_wiki_events_glory,
+    "wikievents_thai_fight": transform_fast_read,
 }
+
+SCRAPED_DATA_TRANSFORMS = {
+    **SCRAPED_DATA_TRANSFORMS, **{
+        k: transform_fast_read for k in SCRAPED_DATA_TRANSFORMS.keys()
+        if "table_key" in SCRAPED_DATA_DEPENDENCIES[k].keys()
+        }
+    }

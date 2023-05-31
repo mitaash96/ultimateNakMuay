@@ -4,6 +4,15 @@ import pandas as pd
 from .utils_raw import get_events_df
 
 
+def transform_fast_read(**kwargs):
+    url = kwargs["url"]
+    table_key = kwargs["table_key"]
+
+    df = pd.read_html(url)[table_key]
+
+    return df
+
+
 def transform_ufcstats(**kwargs):
     url = kwargs["url"]
     
