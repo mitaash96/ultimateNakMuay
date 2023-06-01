@@ -10,10 +10,10 @@
             "justMyCode": true
         },
         {
-            "name": "Python: Async Build Raw Layer",
+            "name": "Python: Run Async Transforms",
             "type": "python",
             "request": "launch",
-            "module": "src.transforms.raw.job_raw_async",
+            "module": "src.transforms.async.job_async",
             "args": [],
             "justMyCode": true
         },
