@@ -10,6 +10,14 @@
             "justMyCode": true
         },
         {
+            "name": "Python: Async Build Raw Layer",
+            "type": "python",
+            "request": "launch",
+            "module": "src.transforms.raw.job_raw_async",
+            "args": [],
+            "justMyCode": true
+        },
+        {
             "name": "Python: Build Processed Layer",
             "type": "python",
             "request": "launch",
