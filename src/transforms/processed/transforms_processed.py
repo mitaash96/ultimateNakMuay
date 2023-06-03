@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import hashlib
+import pickle
 
 
 def transform_ufc(input_path):
@@ -60,3 +61,59 @@ def transform_wiki_ufc(input_path):
     df["event_id"] = df["event"].apply(lambda x: hashlib.sha256(x.encode()).hexdigest())
 
     return df
+
+
+def transform_wiki_fc_ufc(input_path):
+    with open(r"C:\Development\ultimateNakMuay\data\raw\fighter_ufc_payload_async.pkl", "rb") as f:
+        results = pickle.load(f)
+    
+    def cleanResults(result):
+        event_name = result["event"]
+        df = result["df"]
+        df.columns = [_[1] for _ in df.columns]
+
+        split_by_card = [(i, df.iloc[i,0]) for i in df[df.eq(df.iloc[:, 0], axis=0).all(axis=1)].index]
+        if 0 not in [_[0] for _ in split_by_card]:
+            split_by_card = [(0, "Main card"), *split_by_card]
+
+        for i in range(len(split_by_card)-1):
+            split_by_card[i] = (split_by_card[i][0], split_by_card[i+1][0], split_by_card[i][1])
+
+        split_by_card[-1] = (split_by_card[-1][0], len(df), split_by_card[-1][1])
+
+        sdfs = []
+        for start, end, card in split_by_card:
+            sdf = df.iloc[start:end, :]
+            sdf = sdf.assign(fight_card = card)
+            sdfs.append(sdf)
+        
+        df = pd.concat(sdfs).drop([i[0] for i in split_by_card[1:]]).reset_index(drop=True)
+
+        cols2rename = {
+            x: x.lower().replace(' ', '_') for x in df.columns
+        }
+
+        cols2rename = {
+            **cols2rename,
+            **{
+                "Unnamed: 1_level_1": "winner",
+                "Unnamed: 3_level_1": "loser",
+            },
+        }
+
+        df.rename(columns=cols2rename, inplace=True)
+
+        df.drop(columns=["unnamed:_2_level_1"], axis=1, inplace=True)
+
+        df = df.assign(event_name = event_name)
+
+        df.loc[:, "event_id"] = df["event_name"].apply(lambda x: hashlib.sha256(x.encode()).hexdigest())
+
+        return df
+    
+    results = list(map(cleanResults, results))
+
+    final_df = pd.concat(results, ignore_index=True)
+    final_df.drop(columns=["unnamed:_8_level_1", "event"], inplace=True)
+
+    return final_df
