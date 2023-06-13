@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-from .utils_raw import get_events_df
+from .utils_raw import get_events_df, getData
 
 
 def transform_fast_read(**kwargs):
@@ -88,3 +88,23 @@ def transform_wiki_events_bellator(**kwargs):
 
 def transform_wiki_events_glory(**kwargs):
     return transform_wiki_events_onefc(**kwargs)
+
+
+def transform_wiki_results_onefc(**kwargs):
+    url = kwargs["url"]
+    soup = BeautifulSoup(requests.get(url).text,"html.parser")
+    table = soup.find_all("table", class_ = "sortable")[0]
+    table_rows = table.find_all("tr")[1:]
+    anchors = [_.find_all("a") for _ in table_rows if len(_.find_all("a"))>0]
+    cols = ["link", "name"]
+    links_df = pd.DataFrame([(anchor[0].get("href"), anchor[0].text) for anchor in anchors], columns=cols)
+
+    clean_link = lambda x: f"https://en.wikipedia.org/{x.split('#')[0]}"
+    links_df["link_clean"] = links_df["link"].apply(clean_link)
+    links = links_df["link_clean"].value_counts().reset_index().iloc[:,0]
+    links = links.to_list()
+    urls = list(set([link for link in links if "one_" in link.lower()]))
+
+    df = pd.concat([getData(url) for url in urls], ignore_index=True)
+
+    return df

@@ -6,7 +6,7 @@ from .utils_raw import saveFile
 init_time = time.time()
 
 
-def generate_json_files(data):
+def generate_raw_files(data):
     input_dict = SCRAPED_DATA_DEPENDENCIES[data]
     filename = SCRAPED_DATA_DEPENDENCIES[data]["output"]
     fileformat = filename.split('.')[-1]
@@ -18,5 +18,5 @@ def generate_json_files(data):
     return saveFile(fileFormat=fileformat, filename=filename, file=payload)
 
 
-TRANSFORMS = [generate_json_files(data) for data in list(SCRAPED_DATA_DEPENDENCIES)]
+TRANSFORMS = [generate_raw_files(data) for data in list(SCRAPED_DATA_DEPENDENCIES)]
 print(f"BUILD FINISHED IN: {time.time() - init_time: .4f} seconds")

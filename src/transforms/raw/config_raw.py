@@ -1,7 +1,7 @@
 from .transforms_raw import(
     transform_ufcstats, transform_wiki_events_ufc,
     transform_wiki_events_onefc, transform_wiki_events_bellator,
-    transform_wiki_events_glory, transform_fast_read,
+    transform_wiki_events_glory, transform_fast_read, transform_wiki_results_onefc
     )
 
 
@@ -39,7 +39,12 @@ SCRAPED_DATA_DEPENDENCIES = {
         "url": "https://en.wikipedia.org/wiki/Thai_Fight#Events",
         "output": r"C:\Development\ultimateNakMuay\data\raw\wiki_events_thai_fight.csv",
         "table_key": 2
-    }
+    },
+    "wikiresults_onefc":
+    {
+        "url": "https://en.wikipedia.org/wiki/List_of_ONE_Championship_events#Events",
+        "output": r"C:\Development\ultimateNakMuay\data\raw\wiki_results_onefc.csv",
+    },
 }
 
 SCRAPED_DATA_TRANSFORMS = {
@@ -49,6 +54,7 @@ SCRAPED_DATA_TRANSFORMS = {
     "wikievents_bellator": transform_wiki_events_bellator,
     "wikievents_glory": transform_wiki_events_glory,
     "wikievents_thai_fight": transform_fast_read,
+    "wikiresults_onefc": transform_wiki_results_onefc,
 }
 
 SCRAPED_DATA_TRANSFORMS = {

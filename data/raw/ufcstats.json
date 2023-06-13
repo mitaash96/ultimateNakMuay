@@ -1,5 +1,17 @@
 [
     {
+        "event_name": "UFC Fight Night: Vettori vs. Cannonier",
+        "event_details": "http://ufcstats.com/event-details/b9415726dc3ec526",
+        "event_date": "June 17, 2023",
+        "event_locations": "Las Vegas, Nevada, USA"
+    },
+    {
+        "event_name": "UFC 289: Nunes vs. Aldana",
+        "event_details": "http://ufcstats.com/event-details/b6c6d1731ff00eeb",
+        "event_date": "June 10, 2023",
+        "event_locations": "Vancouver, British Columbia, Canada"
+    },
+    {
         "event_name": "UFC Fight Night: Kara-France vs. Albazi",
         "event_details": "http://ufcstats.com/event-details/7abe471b61725980",
         "event_date": "June 03, 2023",
