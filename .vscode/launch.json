@@ -24,6 +24,14 @@
             "module": "src.transforms.processed.job_processed",
             "args": [],
             "justMyCode": true
-        }
+        },
+        {
+            "name": "Python: test scripts",
+            "type": "python",
+            "request": "launch",
+            "module": "src.test scripts.test",
+            "args": [],
+            "justMyCode": true
+        },
     ]
 }
