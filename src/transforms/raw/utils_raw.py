@@ -159,3 +159,41 @@ def getData_bellator(url):
         dfs.append(df)
 
     return pd.concat(dfs, ignore_index=True)
+
+
+def getData_glory(url):
+    dfs = []
+    soup = BeautifulSoup(requests.get(url).text, features="lxml")
+    header_patterns = ["glory"]
+    pattern_match = lambda x: len([_ for _ in header_patterns if _ in x.lower()]) > 0
+
+    event_headers = [
+        header for header in soup.find_all(
+        lambda tag: 
+        tag.name == "h2" and "cancelled" not in tag.text.lower() and "tournament" not in tag.text.lower()
+        and "awards" not in tag.text.lower()
+        ) if pattern_match(header.text)
+        ]
+
+    if not event_headers:
+        event_headers = soup.find_all(lambda tag: tag.name == "h1" and "glory" in tag.text.lower() and "cancelled" not in tag.text.lower())
+    
+    table_classes = [_.get("class") for _ in event_headers[0].find_all_next("table")]
+
+    table_class = "wikitable" if "toccolours" not in [x for xs in list(filter(lambda x: x!=None, table_classes)) for x in xs] else "toccolours"
+    
+    for event in event_headers:
+
+        event_name = event.text.replace("[edit]", "")
+        tables = event.find_next("table", class_ = table_class)
+        if tables != None:
+            df = pd.read_html(str(tables))
+        else:
+            df = pd.read_html(str(event.find_next("table", class_ = "wikitable")))
+        
+        df = df[0]
+        df = cleanResults(result={"event": event_name, "df": df})
+        df = df.assign(link = url)
+        dfs.append(df)
+
+    return pd.concat(dfs, ignore_index=True)

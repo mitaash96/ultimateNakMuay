@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 from .utils_raw import (
-    get_events_df, getData_onefc, get_links_df, getData_bellator,
+    get_events_df, getData_onefc, get_links_df, getData_bellator, getData_glory,
     )
 
 
@@ -124,6 +124,30 @@ def transform_wiki_results_bellator(**kwargs):
     for link in links:
         try:
             dfs.append(getData_bellator(link))
+        except:
+            failed_links.append(link)
+    
+    df = pd.concat(dfs, ignore_index=True)
+
+    return df
+
+
+def transform_wiki_results_glory(**kwargs):
+    url = kwargs["url"]
+    
+    links_df = get_links_df(url)
+
+    clean_link = lambda x: f"https://en.wikipedia.org/{x.split('#')[0]}"
+    links_df["link_clean"] = links_df["link"].apply(clean_link)
+    links = links_df["link_clean"].value_counts().reset_index().iloc[:,0]
+    links = links.to_list()
+
+    dfs = []
+    failed_links = []
+
+    for link in links:
+        try:
+            dfs.append(getData_glory(link))
         except:
             failed_links.append(link)
     

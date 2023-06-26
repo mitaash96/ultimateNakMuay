@@ -2,7 +2,7 @@ from .transforms_raw import(
     transform_ufcstats, transform_wiki_events_ufc,
     transform_wiki_events_onefc, transform_wiki_events_bellator,
     transform_wiki_events_glory, transform_fast_read, transform_wiki_results_onefc,
-    transform_wiki_results_bellator,
+    transform_wiki_results_bellator, transform_wiki_results_glory
     )
 
 
@@ -51,6 +51,11 @@ SCRAPED_DATA_DEPENDENCIES = {
         "url": "https://en.wikipedia.org/wiki/List_of_Bellator_MMA_events",
         "output": r"C:\Development\ultimateNakMuay\data\raw\wiki_results_bellator.csv",
     },
+    "wikiresults_glory":
+    {
+        "url": "https://en.wikipedia.org/wiki/Glory_(kickboxing)",
+        "output": r"C:\Development\ultimateNakMuay\data\raw\wiki_results_glory.csv",
+    },
 }
 
 SCRAPED_DATA_TRANSFORMS = {
@@ -62,6 +67,7 @@ SCRAPED_DATA_TRANSFORMS = {
     "wikievents_thai_fight": transform_fast_read,
     "wikiresults_onefc": transform_wiki_results_onefc,
     "wikiresults_bellator": transform_wiki_results_bellator,
+    "wikiresults_glory": transform_wiki_results_glory,
 }
 
 SCRAPED_DATA_TRANSFORMS = {
