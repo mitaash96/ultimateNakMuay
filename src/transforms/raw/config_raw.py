@@ -1,7 +1,8 @@
 from .transforms_raw import(
     transform_ufcstats, transform_wiki_events_ufc,
     transform_wiki_events_onefc, transform_wiki_events_bellator,
-    transform_wiki_events_glory, transform_fast_read, transform_wiki_results_onefc
+    transform_wiki_events_glory, transform_fast_read, transform_wiki_results_onefc,
+    transform_wiki_results_bellator,
     )
 
 
@@ -45,6 +46,11 @@ SCRAPED_DATA_DEPENDENCIES = {
         "url": "https://en.wikipedia.org/wiki/List_of_ONE_Championship_events#Events",
         "output": r"C:\Development\ultimateNakMuay\data\raw\wiki_results_onefc.csv",
     },
+    "wikiresults_bellator":
+    {
+        "url": "https://en.wikipedia.org/wiki/List_of_Bellator_MMA_events",
+        "output": r"C:\Development\ultimateNakMuay\data\raw\wiki_results_bellator.csv",
+    },
 }
 
 SCRAPED_DATA_TRANSFORMS = {
@@ -55,6 +61,7 @@ SCRAPED_DATA_TRANSFORMS = {
     "wikievents_glory": transform_wiki_events_glory,
     "wikievents_thai_fight": transform_fast_read,
     "wikiresults_onefc": transform_wiki_results_onefc,
+    "wikiresults_bellator": transform_wiki_results_bellator,
 }
 
 SCRAPED_DATA_TRANSFORMS = {

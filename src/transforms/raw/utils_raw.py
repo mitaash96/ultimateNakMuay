@@ -76,9 +76,10 @@ def cleanResults(result):
     return df
 
 
-def getData(url):
+# optimize
+def getData_onefc(url):
     dfs = []
-    soup = BeautifulSoup(requests.get(url).text)
+    soup = BeautifulSoup(requests.get(url).text, features="lxml")
     header_patterns = ["one championship:", "road to one", "one on", "one fighting championship"]
     pattern_match = lambda x: len([_ for _ in header_patterns if _ in x.lower()]) > 0
 
@@ -103,6 +104,58 @@ def getData(url):
         
         df = df[0]
         df = cleanResults(result={"event": event_name, "df": df})
+        dfs.append(df)
+
+    return pd.concat(dfs, ignore_index=True)
+
+
+def get_links_df(url):
+    soup = BeautifulSoup(requests.get(url).text,"html.parser")
+    
+    table = soup.find_all("table", class_ = "sortable")[0]
+    table_rows = table.find_all("tr")[1:]
+    anchors = [_.find_all("a") for _ in table_rows if len(_.find_all("a"))>0]
+    
+    cols = ["link", "name"]
+    links_df = pd.DataFrame([(anchor[0].get("href"), anchor[0].text) for anchor in anchors], columns=cols)
+    
+    return links_df
+
+
+# optimize
+def getData_bellator(url):
+    dfs = []
+    soup = BeautifulSoup(requests.get(url).text, features="lxml")
+    header_patterns = ["bellator"]
+    pattern_match = lambda x: len([_ for _ in header_patterns if _ in x.lower()]) > 0
+
+    # event_headers = soup.find_all(lambda tag: tag.name == "h2" and "one" in tag.text.lower() and "cancelled" not in tag.text.lower())
+    event_headers = [
+        header for header in soup.find_all(
+        lambda tag: 
+        tag.name == "h2" and "cancelled" not in tag.text.lower() and "tournament" not in tag.text.lower()
+        ) if pattern_match(header.text)
+        ]
+
+    if not event_headers:
+        event_headers = soup.find_all(lambda tag: tag.name == "h1" and "bellator" in tag.text.lower() and "cancelled" not in tag.text.lower())
+    
+    table_classes = [_.get("class") for _ in event_headers[0].find_all_next("table")]
+
+    table_class = "wikitable" if "toccolours" not in [x for xs in list(filter(lambda x: x!=None, table_classes)) for x in xs] else "toccolours"
+    
+    for event in event_headers:
+
+        event_name = event.text.replace("[edit]", "")
+        tables = event.find_next("table", class_ = table_class)
+        if tables != None:
+            df = pd.read_html(str(tables))
+        else:
+            df = pd.read_html(str(event.find_next("table", class_ = "wikitable")))
+        
+        df = df[0]
+        df = cleanResults(result={"event": event_name, "df": df})
+        df = df.assign(link = url)
         dfs.append(df)
 
     return pd.concat(dfs, ignore_index=True)
