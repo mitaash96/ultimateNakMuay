@@ -39,7 +39,7 @@ SCRAPED_DATA_DEPENDENCIES = {
     {
         "url": "https://en.wikipedia.org/wiki/Thai_Fight#Events",
         "output": r"C:\Development\ultimateNakMuay\data\raw\wiki_events_thai_fight.csv",
-        "table_key": 2
+        "table_key": 3
     },
     "wikiresults_onefc":
     {
