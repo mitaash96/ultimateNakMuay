@@ -142,3 +142,32 @@ def transform_wiki_events_bellator(spark, input_path):
         .drop("location")
 
     return events
+
+
+def transform_wiki_results_bellator(spark, input_path):
+    results = spark.read.csv(input_path, header=True)
+    hash_rows = lambda col_list: F.sha2(F.concat_ws("|", *col_list), 256)
+    test_cols = [F.col(_) for _ in results.columns[:7]]
+
+    incorrect_data = results.filter(
+        ~(F.col("time").contains(":") | F.col("time").contains("."))
+        ).select(*test_cols)\
+        .distinct()
+    
+    incorrect_data = incorrect_data.withColumn("poison", hash_rows(incorrect_data.columns))
+
+    results = results.withColumn("poison", hash_rows(test_cols))\
+        .join(incorrect_data, ["poison"], how="left_anti")\
+        .drop("poison")
+    
+    results = results.withColumn("time", F.regexp_replace(F.col("time"), "\\.", ":"))\
+        .withColumn("time_parts", F.split(F.col("time"), ":"))\
+        .withColumn("time", F.element_at(F.col("time_parts"), 1)*60 + F.element_at(F.col("time_parts"), 2))\
+        .drop("time_parts")
+    
+    results = results.withColumn("time", F.col("time").cast(T.DoubleType()))\
+        .withColumn("round", F.col("round").cast(T.IntegerType()))
+    
+    results = results.drop("notes")
+
+    return results
