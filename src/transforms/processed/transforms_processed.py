@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import hashlib
 import pickle
+from pyspark.sql import functions as F
+from pyspark.sql import types as T
 
 
 def transform_ufc(input_path):
@@ -117,3 +119,26 @@ def transform_wiki_fc_ufc(input_path):
     final_df.drop(columns=["unnamed:_8_level_1", "event"], inplace=True)
 
     return final_df
+
+
+def transform_wiki_events_bellator(spark, input_path):
+    events = spark.read.csv(input_path, header=True)
+    
+    for col in events.columns:
+        events = events.withColumnRenamed(col, col.lower())
+    
+    events = events\
+        .withColumn("date", F.to_date(F.col("date"), "MMMM d, yyyy"))\
+        .withColumn("attendance", F.col("attendance").cast(T.IntegerType()))
+    
+    events = events.withColumn("location", F.split(F.col("location"), ","))\
+        .withColumn("city", F.when(F.size(F.col("location")) == 3, F.element_at(F.col("location"), 1)))\
+        .withColumn("state", F.when(
+            F.size(F.col("location")) == 3, F.element_at(F.col("location"), 2)
+            ).otherwise(F.element_at(F.col("location"), 1))
+            )\
+        .withColumn("country", F.element_at(F.col("location"), -1))\
+        .withColumn("country", F.regexp_replace(F.col("country"), "[^a-zA-Z0-9 ]", ""))\
+        .drop("location")
+
+    return events

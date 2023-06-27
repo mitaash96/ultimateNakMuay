@@ -1,0 +1,318 @@
+#,event,date,venue,attendance,city,state,country
+305,Bellator 299,2023-09-23,3Arena,,,Dublin, Ireland
+304,Bellator 298,2023-08-11,Sanford Pentagon,,Sioux Falls, South Dakota, US
+303,Bellator MMA x Rizin 2,2023-07-30,Saitama Super Arena,,,Saitama, Japan
+302,Bellator 297,2023-06-16,Wintrust Arena,,Chicago, Illinois, US
+301,Bellator 296,2023-05-12,Accor Arena,,,Paris, France
+300,Bellator 295,2023-04-22,Neal S. Blaisdell Arena,,Honolulu, Hawaii, US
+299,Bellator 294,2023-04-21,Neal S. Blaisdell Arena,,Honolulu, Hawaii, US
+298,Bellator 293,2023-03-31,Pechanga Resort and Casino,,Temecula, California, US
+297,Bellator 292,2023-03-10,SAP Center,,San Jose, California, US
+296,Bellator 291,2023-02-24,3Arena,,,Dublin, Ireland
+295,Bellator 290,2023-02-04,Kia Forum,,Inglewood, California, US
+294,Bellator MMA vs. Rizin,2022-12-31,Saitama Super Arena,,,Saitama, Japan
+293,Bellator 289,2022-12-09,Mohegan Sun Arena,,Uncasville, Connecticut, US
+292,Bellator 288,2022-11-18,Wintrust Arena,,Chicago, Illinois, US
+291,Bellator 287,2022-10-29,Allianz Cloud Arena,,,Milan, Italy
+290,Bellator 286,2022-10-01,Long Beach Arena,,Long Beach, California, US
+289,Bellator 285,2022-09-23,3Arena,,,Dublin, Ireland
+288,Bellator 284,2022-08-12,Sanford Pentagon,2900.0,Sioux Falls, South Dakota, US
+287,Bellator 283,2022-07-22,Emerald Queen Casino and Hotel,1012.0,Tacoma, Washington, US
+286,Bellator 282,2022-06-24,Mohegan Sun Arena,10000.0,Uncasville, Connecticut, US
+285,Bellator 281,2022-05-13,SSE Arena,8779.0,,London, England
+284,Bellator 280,2022-05-06,AccorHotels Arena,13131.0,,Paris, France
+283,Bellator 279,2022-04-23,Neal S. Blaisdell Arena,6516.0,Honolulu, Hawaii, US
+282,Bellator 278,2022-04-22,Neal S. Blaisdell Arena,6516.0,Honolulu, Hawaii, US
+281,Bellator 277,2022-04-15,SAP Center,13950.0,San Jose, California, US
+280,Bellator 276,2022-03-12,Family Arena,7053.0,St. Louis, Missouri, US
+279,Bellator 275,2022-02-25,3Arena,8806.0,,Dublin, Ireland
+278,Bellator 274,2022-02-19,Mohegan Sun Arena,11454.0,Uncasville, Connecticut, US
+277,Bellator 273,2022-01-29,Footprint Center,12.0,Phoenix, Arizona, US
+276,Bellator 272,2021-12-03,Mohegan Sun Arena,7600.0,Uncasville, Connecticut, US
+275,Bellator 271,2021-11-12,Seminole Hard Rock Hotel & Casino Hollywood,2411.0,Hollywood, Florida, US
+274,Bellator 270,2021-11-05,3Arena,10.0,,Dublin, Ireland
+273,Bellator 269,2021-10-23,VTB Arena,11900.0,,Moscow, Russia
+272,Bellator 268,2021-10-16,Footprint Center,9902.0,Phoenix, Arizona, US
+271,Bellator 267,2021-10-01,Wembley Arena,8867.0,,London, England
+270,Bellator 266,2021-09-18,SAP Center,14147.0,San Jose, California, US
+269,Bellator 265,2021-08-20,Sanford Pentagon,2900.0,Sioux Falls, South Dakota, US
+268,Bellator 264,2021-08-13,Mohegan Sun Arena,10000.0,Uncasville, Connecticut, US
+267,Bellator 263,2021-07-31,The Forum,7024.0,Inglewood, California, US
+266,Bellator 262,2021-07-16,Mohegan Sun Arena,12000.0,Uncasville, Connecticut, US
+265,Bellator 261,2021-06-25,Mohegan Sun Arena,9112.0,Uncasville, Connecticut, US
+264,Bellator 260,2021-06-11,Mohegan Sun Arena,5667.0,Uncasville, Connecticut, US
+263,Bellator 259,2021-05-21,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+262,Bellator 258,2021-05-07,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+261,Bellator 257,2021-04-16,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+260,Bellator 256,2021-04-09,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+259,Bellator 255,2021-04-02,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+258,Bellator 254,2020-12-10,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+257,Bellator 253,2020-11-19,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+256,Bellator 252,2020-11-12,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+255,Bellator 251,2020-11-05,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+254,Bellator 250,2020-10-29,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+253,Bellator 249,2020-10-15,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+252,Bellator Paris/248,2020-10-10,AccorHotels Arena,1000.0,,Paris, France
+251,Bellator Milan 3,2020-10-03,Ex Palalido (Allianz Cloud),0.0,,Milan, Italy
+—,Bellator Dublin 3 (Cancelled),2020-10-03,3Arena,,,Dublin, Ireland
+250,Bellator 247,2020-10-01,Ex Palalido (Allianz Cloud),0.0,,Milan, Italy
+249,Bellator Milan 2,2020-09-26,Ex Palalido (Allianz Cloud),0.0,,Milan, Italy
+248,Bellator 246,2020-09-12,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+247,Bellator 245,2020-09-11,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+246,Bellator 244,2020-08-21,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+245,Bellator 243,2020-08-07,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+244,Bellator 242,2020-07-24,Mohegan Sun Arena,0.0,Uncasville, Connecticut, US
+—,Bellator 244 (Cancelled),2020-06-06,Wintrust Arena,,Chicago, Illinois, US
+—,Bellator 243 (Cancelled),2020-05-29,Pechanga Resort and Casino,,Temecula, California, US
+—,Bellator London 3 (Cancelled),2020-05-16,SSE Arena,,,London, England
+—,Bellator 242 (Cancelled),2020-05-09,SAP Center,,San Jose, California, US
+—,Bellator 241 (Cancelled),2020-03-13,Mohegan Sun Arena,,Uncasville, Connecticut, US
+243,Bellator Dublin 2/240,2020-02-22,3Arena,,,Dublin, Ireland
+242,Bellator 239,2020-02-21,WinStar World Casino,,Thackerville, Oklahoma, US
+241,Bellator 238,2020-01-25,The Forum,,Inglewood, California, US
+240,Bellator & Rizin: Japan/237,2019-12-29,Saitama Super Arena,,,Saitama, Japan
+239,Bellator 236,2019-12-21,Neal S. Blaisdell Arena,,Honolulu, Hawaii, US
+238,Bellator 235,2019-12-20,Neal S. Blaisdell Arena,,Honolulu, Hawaii, US
+237,Bellator London 2,2019-11-23,SSE Arena,,,London, England
+236,Bellator 234,2019-11-14,Menora Mivtachim Arena,,,Tel Aviv, Israel
+235,Bellator 233,2019-11-08,WinStar World Casino,,Thackerville, Oklahoma, US
+234,Bellator 232,2019-10-26,Mohegan Sun Arena,,Uncasville, Connecticut, US
+233,Bellator 231,2019-10-25,Mohegan Sun Arena,,Uncasville, Connecticut, US
+232,Bellator Milan/230,2019-10-12,Ex Palalido (Allianz Cloud),,,Milan, Italy
+231,Bellator 229,2019-10-04,Pechanga Resort and Casino,,Temecula, California, US
+230,Bellator 228,2019-09-28,The Forum,,Inglewood, California, US
+229,Bellator Dublin/227,2019-09-27,3Arena,,,Dublin, Ireland
+228,Bellator 226,2019-09-07,SAP Center,,San Jose, California, US
+227,Bellator 225,2019-08-24,Webster Bank Arena,,Bridgeport, Connecticut, US
+226,Bellator 224,2019-07-12,WinStar World Casino,,Thackerville, Oklahoma, US
+225,Bellator London/223,2019-06-22,SSE Arena,,,London, England
+224,Bellator 222,2019-06-14,Madison Square Garden,,,New York City, US
+223,Bellator 221,2019-05-11,Allstate Arena,,Rosemont, Illinois, US
+222,Bellator Birmingham,2019-05-04,Resorts World Arena,,,Birmingham, England
+221,Bellator 220,2019-04-27,SAP Center,,San Jose, California, US
+220,Bellator 219,2019-03-29,Pechanga Resort and Casino,,Temecula, California, US
+219,Bellator 218,2019-03-22,WinStar World Casino,,Thackerville, Oklahoma, US
+218,Bellator 217,2019-02-23,3Arena,,,Dublin, Ireland
+217,Bellator 216,2019-02-16,Mohegan Sun Arena,,Uncasville, Connecticut, US
+216,Bellator 215,2019-02-15,Mohegan Sun Arena,,Uncasville, Connecticut, US
+215,Bellator Newcastle,2019-02-09,Metro Radio Arena,,,Newcastle upon Tyne, England
+214,Bellator 214,2019-01-26,The Forum,,Inglewood, California, US
+213,Bellator 213,2018-12-15,Neal S. Blaisdell Arena,,Honolulu, Hawaii, US
+212,Bellator 212,2018-12-14,Neal S. Blaisdell Arena,,Honolulu, Hawaii, US
+211,Bellator 211,2018-12-01,RDS Stadium,,,Genoa, Italy
+210,Bellator 210,2018-11-30,WinStar World Casino,,Thackerville, Oklahoma, US
+209,Bellator 209,2018-11-15,Menora Mivtachim Arena,,,Tel Aviv, Israel
+208,Bellator 208,2018-10-13,Nassau Coliseum,,Uniondale, New York, US
+207,Bellator 207,2018-10-12,Mohegan Sun Arena,,Uncasville, Connecticut, US
+206,Bellator 206,2018-09-29,SAP Center,,San Jose, California, US
+205,Bellator 205,2018-09-21,CenturyLink Arena,,Boise, Idaho, US
+204,Bellator 204,2018-08-17,Sanford Pentagon,,Sioux Falls, South Dakota, US
+203,Bellator 203,2018-07-14,Foro Italico,,,Rome, Italy
+202,Bellator 202,2018-07-13,WinStar World Casino,,Thackerville, Oklahoma, US
+201,Bellator 201,2018-06-29,Pechanga Resort and Casino,,Temecula, California, US
+200,Bellator 200,2018-05-25,"The SSE Arena, Wembley",,,London, England
+199,Bellator 199,2018-05-12,SAP Center,,San Jose, California, US
+198,Bellator 198,2018-04-28,Allstate Arena,,Rosemont, Illinois, US
+197,Bellator 197,2018-04-13,Family Arena,,St. Charles, Missouri, US
+196,Bellator 196,2018-04-06,BOK Hall,,,Budapest, Hungary
+—,Bellator: Monster Energy Fight Series: Atlanta,2018-03-03,Georgia World Congress Center,,Atlanta, Georgia, US
+195,Bellator 195,2018-03-02,WinStar World Casino,,Thackerville, Oklahoma, US
+194,Bellator 194,2018-02-16,Mohegan Sun Arena,,Uncasville, Connecticut, US
+193,Bellator 193,2018-01-26,Pechanga Resort and Casino,,Temecula, California, US
+192,Bellator 192,2018-01-20,The Forum,,Inglewood, California, US
+191,Bellator 191,2017-12-15,Metro Radio Arena,,Newcastle, England, UK
+190,Bellator 190,2017-12-09,Nelson Mandela Forum,,,Florence, Italy
+189,Bellator 189,2017-12-01,WinStar World Casino,,Thackerville, Oklahoma, US
+—,Bellator: Monster Energy Fight Series: Homestead,2017-11-19,Homestead-Miami Speedway,,Homestead, Florida, US
+188,Bellator 188,2017-11-16,Menora Mivtachim Arena,,,Tel Aviv, Israel
+187,Bellator 187,2017-11-10,3Arena,,,Dublin, Ireland
+186,Bellator 186,2017-11-03,Bryce Jordan Center,,University Park, Pennsylvania, US
+185,Bellator 185,2017-10-20,Mohegan Sun Arena,8346.0,Uncasville, Connecticut, US
+—,Bellator: Monster Energy Fight Series: Talladega,2017-10-13,Talladega Superspeedway,,Lincoln, Alabama, US
+184,Bellator 184,2017-10-06,WinStar World Casino,1247.0,Thackerville, Oklahoma, US
+183,Bellator 183,2017-09-23,SAP Center,5897.0,San Jose, California, US
+182,Bellator 182,2017-08-25,Turning Stone Resort & Casino,4390.0,Verona, New York, US
+—,Bellator: Monster Energy Fight Series: Bristol,2017-08-19,Bristol Motor Speedway,,Bristol, Tennessee, US
+181,Bellator 181,2017-07-14,WinStar World Casino,1247.0,Thackerville, Oklahoma, US
+180,Bellator NYC,2017-06-24,Madison Square Garden,12133.0,,New York City, US
+—,Bellator: Monster Energy Fight Series: Charlotte,2017-05-20,Charlotte Motor Speedway,,Charlotte, North Carolina, US
+179,Bellator 179,2017-05-19,"The SSE Arena, Wembley",11872.0,London, England, UK
+178,Bellator 178,2017-04-21,Mohegan Sun Arena,9010.0,Uncasville, Connecticut, US
+177,Bellator 177,2017-04-14,Budapest Sports Arena,11439.0,,Budapest, Hungary
+176,Bellator 176,2017-04-08,Pala Alpitour,9216.0,,Torino, Italy
+175,Bellator 175,2017-03-31,Allstate Arena,11807.0,Rosemont, Illinois, US
+174,Bellator 174,2017-03-03,WinStar World Casino,1211.0,Thackerville, Oklahoma, US
+173,Bellator 173,2017-02-24,SSE Arena Belfast,10461.0,,Belfast, UK
+172,Bellator 172,2017-02-18,SAP Center,7273.0,San Jose, California, US
+171,Bellator 171,2017-01-27,Kansas Star Casino,3206.0,Mulvane, Kansas, US
+170,Bellator 170,2017-01-21,The Forum,11972.0,Inglewood, California, US
+169,Bellator 169,2016-12-16,3Arena,12184.0,,Dublin, Ireland
+168,Bellator 168,2016-12-10,Nelson Mandela Forum,8113.0,,Florence, Italy
+167,Bellator 167,2016-12-03,WinStar World Casino,1274.0,Thackerville, Oklahoma, US
+166,Bellator 166,2016-12-02,WinStar World Casino,1350.0,Thackerville, Oklahoma, US
+165,Bellator 165,2016-11-19,SAP Center,13156.0,San Jose, California, US
+164,Bellator 164,2016-11-10,Menora Mivtachim Arena,8937.0,,Tel Aviv, Israel
+163,Bellator 163,2016-11-04,Mohegan Sun Arena,9156.0,Uncasville, Connecticut, US
+162,Bellator 162,2016-10-21,FedEx Forum,9140.0,Memphis, Tennessee, US
+—,Bellator Kickboxing 3,2016-09-17,SYMA Hall,,,Budapest, Hungary
+161,Bellator 161,2016-09-16,H-E-B Center at Cedar Park,8632.0,Cedar Park, Texas, US
+160,Bellator 160,2016-08-26,Honda Center,9139.0,Anaheim, California, US
+159,Bellator 159,2016-07-23,Kansas Star Arena,3124.0,Mulvane, Kansas, US
+158,Bellator 158,2016-07-16,O2 Arena,12311.0,,London, England
+157,Bellator 157: Dynamite 2,2016-06-24,Scottrade Center,11982.0,St.Louis, Missouri, US
+156,Bellator 156,2016-06-17,Save Mart Center,5552.0,Fresno, California, US
+155,Bellator 155,2016-05-20,CenturyLink Arena,6120.0,Boise, Idaho, US
+154,Bellator 154,2016-05-14,SAP Center,11084.0,San Jose, California, US
+153,Bellator 153,2016-04-22,Mohegan Sun Arena,9043.0,Uncasville, Connecticut, US
+152,Bellator 152,2016-04-16,Pala Alpitour,13867.0,,Torino, Italy
+151,Bellator 151,2016-03-04,WinStar World Casino,1152.0,Thackerville, Oklahoma, US
+150,Bellator 150,2016-02-26,Kansas Star Casino,3288.0,Mulvane, Kansas, US
+149,Bellator 149,2016-02-19,Toyota Center,14209.0,Houston, Texas, US
+148,Bellator 148,2016-01-29,Save Mart Center,5425.0,Fresno, California, US
+147,Bellator 147,2015-12-04,San Jose State University,2076.0,San Jose, California, US
+146,Bellator 146,2015-11-20,WinStar World Casino,1246.0,Thackerville, Oklahoma, US
+145,Bellator 145,2015-11-06,Scottrade Center,5259.0,St. Louis, Missouri, US
+144,Bellator 144,2015-10-23,Mohegan Sun Arena,6009.0,Uncasville, Connecticut, US
+143,Bellator 143,2015-09-25,State Farm Arena,3756.0,Hidalgo, Texas, US
+142,Bellator 142: Dynamite 1,2015-09-19,SAP Center,11732.0,San Jose, California, US
+141,Bellator 141,2015-08-28,Pechanga Resort & Casino,1200.0,Temecula, California, US
+140,Bellator 140,2015-07-17,Mohegan Sun Arena,7610.0,Uncasville, Connecticut, US
+139,Bellator 139,2015-06-26,Kansas Star Casino,2500.0,Mulvane, Kansas, US
+138,Bellator 138,2015-06-19,Scottrade Center,6724.0,St. Louis, Missouri, US
+137,Bellator 137,2015-05-15,Pechanga Resort & Casino,1200.0,Temecula, California, US
+136,Bellator 136,2015-04-10,Bren Events Center,4869.0,Irvine, California, US
+135,Bellator 135,2015-03-27,WinStar World Casino,1345.0,Thackerville, Oklahoma, US
+134,Bellator 134: The British Invasion,2015-02-27,Mohegan Sun Casino,8372.0,Uncasville, Connecticut, US
+133,Bellator 133,2015-02-13,Save Mart Center,5184.0,Fresno, California, US
+132,Bellator 132,2015-01-16,Pechanga Resort & Casino,1300.0,Temecula, California, US
+131,Bellator 131,2014-11-15,Valley View Casino Center,8243.0,San Diego, California, US
+130,Bellator 130,2014-10-24,Kansas Star Arena,2700.0,Mulvane, Kansas, US
+–,Bellator 2014 Monster Energy Cup,2014-10-18,Sam Boyd Stadium,,Whitney, Nevada, US
+129,Bellator 129,2014-10-17,Mid-America Center,3951.0,Council Bluffs, Iowa, US
+128,Bellator 128,2014-10-10,Winstar World Casino,1325.0,Thackerville, Oklahoma, US
+127,Bellator 127,2014-10-03,Pechanga Resort & Casino,1200.0,Temecula, California, US
+126,Bellator 126,2014-09-26,Grand Canyon University Arena,6300.0,Phoenix, Arizona, US
+125,Bellator 125,2014-09-19,Save Mart Center,5000.0,Fresno, California, US
+124,Bellator 124,2014-09-12,Compuware Arena,2468.0,Plymouth Township, Michigan, US
+123,Bellator 123,2014-09-05,Mohegan Sun Arena,7109.0,Uncasville, Connecticut, US
+122,Bellator 122,2014-07-25,Pechanga Resort & Casino,1150.0,Temecula, California, US
+121,Bellator 121,2014-06-06,WinStar World Casino,1100.0,Thackerville, Oklahoma, US
+120,Bellator 120,2014-05-17,Landers Center,8115.0,Southaven, Mississippi, US
+119,Bellator 119,2014-05-09,Casino Rama,,Rama, Ontario, Canada
+118,Bellator 118,2014-05-02,Revel Atlantic City,,Atlantic City, New Jersey, US
+117,Bellator 117,2014-04-18,Mid-America Center,,Council Bluffs, Iowa, US
+116,Bellator 116,2014-04-11,Pechanga Resort & Casino,,Temecula, California, US
+115,Bellator 115,2014-04-04,Reno Events Center,,Reno, Nevada, US
+114,Bellator 114,2014-03-28,Maverik Center,,West Valley City, Utah, US
+113,Bellator 113,2014-03-21,Kansas Star Arena,,Mulvane, Kansas, US
+112,Bellator 112,2014-03-14,The Horseshoe,,Hammond, Indiana, US
+111,Bellator 111,2014-03-07,WinStar World Casino,,Thackerville, Oklahoma, US
+110,Bellator 110,2014-02-28,Mohegan Sun Arena,,Uncasville, Connecticut, US
+109,Bellator 109,2013-11-22,Sands Casino Event Center,,Bethlehem, Pennsylvania, US
+108,Bellator 108,2013-11-15,Revel Casino,,Atlantic City, New Jersey, US
+107,Bellator 107,2013-11-08,WinStar World Casino,,Thackerville, Oklahoma, US
+106,Bellator 106,2013-11-02,Convention and Entertainment Center,6596.0,Long Beach, California, US
+105,Bellator 105,2013-10-25,Santa Ana Star Center,,Rio Rancho, New Mexico, US
+104,Bellator 104,2013-10-18,U.S. Cellular Center,,Cedar Rapids, Iowa, US
+103,Bellator 103,2013-10-11,Kansas Star Arena,,Mulvane, Kansas, US
+102,Bellator 102,2013-10-04,Visalia Convention Center,1482.0,Visalia, California, US
+101,Bellator 101,2013-09-27,Rose Garden,2368.0,Portland, Oregon, US
+100,Bellator 100,2013-09-20,Grand Canyon University Arena,,Phoenix, Arizona, US
+99,Bellator 99,2013-09-13,Pechanga Resort & Casino,,Temecula, California, US
+98,Bellator 98,2013-09-07,Mohegan Sun Arena,,Uncasville, Connecticut, US
+97,Bellator 97,2013-07-31,Santa Ana Star Center,,Rio Rancho, New Mexico, US
+96,Bellator 96,2013-06-19,Winstar World Casino,,Thackerville, Oklahoma, US
+95,Bellator 95,2013-04-04,Revel Casino,,Atlantic City, New Jersey, US
+94,Bellator 94,2013-03-28,USF Sun Dome,,Tampa, Florida, US
+93,Bellator 93,2013-03-21,Androscoggin Bank Colisée,,Lewiston, Maine, US
+92,Bellator 92,2013-03-07,Pechanga Resort and Casino,,Temecula, California, US
+91,Bellator 91,2013-02-28,Santa Ana Star Center,,Rio Rancho, New Mexico, US
+90,Bellator 90,2013-02-21,Maverik Center,,West Valley City, Utah, US
+89,Bellator 89,2013-02-14,Bojangles' Coliseum,,Charlotte, North Carolina, US
+88,Bellator 88,2013-02-07,Arena at Gwinnett Center,4267.0,Duluth, Georgia, US
+87,Bellator 87,2013-01-31,Soaring Eagle Casino,850.0,Mount Pleasant, Michigan, US
+86,Bellator 86,2013-01-24,WinStar World Casino,1288.0,Thackerville, Oklahoma, US
+85,Bellator 85,2013-01-17,Bren Events Center,3002.0,Irvine, California, US
+84,Bellator 84,2012-12-14,Horseshoe Casino,,Hammond, Indiana, US
+83,Bellator 83,2012-12-07,Caesars Atlantic City,,Atlantic City, New Jersey, US
+82,Bellator 82,2012-11-30,Soaring Eagle Casino,,Mount Pleasant, Michigan, US
+81,Bellator 81,2012-11-16,Ryan Center,,Kingston, Rhode Island, US
+80,Bellator 80,2012-11-09,Seminole Hard Rock Hotel & Casino,,Hollywood, Florida, US
+79,Bellator 79,2012-11-02,Casino Rama,,Rama, Ontario, Canada
+78,Bellator 78,2012-10-26,Nutter Center,,Dayton, Ohio, US
+77,Bellator 77,2012-10-19,Reading Eagle Theater,,Reading, Pennsylvania, US
+76,Bellator 76,2012-10-12,Caesars Windsor,,Windsor, Ontario, Canada
+75,Bellator 75,2012-10-05,Horseshoe Casino,,Hammond, Indiana, US
+74,Bellator 74,2012-09-28,Caesars Atlantic City,,Atlantic City, New Jersey, US
+73,Bellator 73,2012-08-24,Harrah's Tunica Hotel and Casino,,Tunica, Mississippi, US
+72,Bellator 72,2012-07-20,USF Sun Dome,,Tampa, Florida, US
+71,Bellator 71,2012-06-22,"Mountaineer Casino, Racetrack and Resort",,Chester, West Virginia, US
+70,Bellator 70,2012-05-25,New Orleans Convention Center,,New Orleans, Louisiana, US
+69,Bellator 69,2012-05-18,L'Auberge du Lac Resort,,Lake Charles, Louisiana, US
+68,Bellator 68,2012-05-11,Caesars Atlantic City,,Atlantic City, New Jersey, US
+67,Bellator 67,2012-05-04,Casino Rama,,Rama, Ontario, Canada
+66,Bellator 66,2012-04-20,I-X Center,,Cleveland, Ohio, US
+65,Bellator 65,2012-04-13,Boardwalk Hall,,Atlantic City, New Jersey, US
+64,Bellator 64,2012-04-06,Caesars Windsor,,Windsor, Ontario, Canada
+63,Bellator 63,2012-03-30,Mohegan Sun Arena,,Uncasville, Connecticut, US
+62,Bellator 62,2012-03-23,Laredo Energy Arena,,Laredo, Texas, US
+61,Bellator 61,2012-03-16,Horseshoe Riverdome,,Bossier City, Louisiana, US
+60,Bellator 60,2012-03-09,Horseshoe Casino,,Hammond, Indiana, US
+59,Bellator 59,2011-11-26,Caesars Atlantic City,,Atlantic City, New Jersey, US
+58,Bellator 58,2011-11-19,Seminole Hard Rock Hotel & Casino,,Hollywood, Florida, US
+57,Bellator 57,2011-11-12,Casino Rama,,Rama, Ontario, Canada
+56,Bellator 56,2011-10-29,Memorial Hall,,Kansas City, Kansas, US
+55,Bellator 55,2011-10-22,Cocopah Resort and Casino,,Somerton, Arizona, US
+54,Bellator 54,2011-10-15,Boardwalk Hall,,Atlantic City, New Jersey, US
+53,Bellator 53,2011-10-08,Buffalo Run Hotel & Casino,,Miami, Oklahoma, US
+52,Bellator 52,2011-10-01,L'Auberge du Lac Resort,,Lake Charles, Louisiana, US
+51,Bellator 51,2011-09-24,Canton Memorial Civic Center,,Canton, Ohio, US
+50,Bellator 50,2011-09-17,Seminole Hard Rock Hotel & Casino,,Hollywood, Florida, US
+49,Bellator 49,2011-09-10,Caesars Atlantic City,,Atlantic City, New Jersey, US
+48,Bellator 48,2011-08-20,Mohegan Sun Arena,,Uncasville, Connecticut, US
+47,Bellator 47,2011-07-23,Casino Rama,,Rama, Ontario, Canada
+46,Bellator 46,2011-06-25,Seminole Hard Rock Hotel & Casino,,Hollywood, Florida, US
+45,Bellator 45,2011-05-21,L'Auberge du Lac Resort,,Lake Charles, Louisiana, US
+44,Bellator 44,2011-05-14,Harrah's Resort,,Atlantic City, New Jersey, US
+43,Bellator 43,2011-05-07,First Council Casino,,Newkirk, Oklahoma, US
+42,Bellator 42,2011-04-23,Lucky Star Casino,,Concho, Oklahoma, US
+41,Bellator 41,2011-04-16,Cocopah Resort and Casino,,Somerton, Arizona, US
+40,Bellator 40,2011-04-09,First Council Casino,,Newkirk, Oklahoma, US
+39,Bellator 39,2011-04-02,Mohegan Sun Arena,,Uncasville, Connecticut, US
+38,Bellator 38,2011-03-26,Harrah's Tunica Hotel and Casino,,Tunica, Mississippi, US
+37,Bellator 37,2011-03-19,Lucky Star Casino,,Concho, Oklahoma, US
+36,Bellator 36,2011-03-12,Shreveport Municipal Auditorium,,Shreveport, Louisiana, US
+35,Bellator 35,2011-03-05,Tachi Palace Hotel & Casino,,Lemoore, California, US
+34,Bellator 34,2010-10-28,Seminole Hard Rock Hotel & Casino,,Hollywood, Florida, US
+33,Bellator 33,2010-10-21,Liacouras Center,,Philadelphia, Pennsylvania, US
+32,Bellator 32,2010-10-14,Kansas City Power & Light District,,Kansas City, Missouri, US
+31,Bellator 31,2010-09-30,L'Auberge du Lac Resort,,Lake Charles, Louisiana, US
+30,Bellator 30,2010-09-23,Fourth Street Live!,,Louisville, Kentucky, US
+29,Bellator 29,2010-09-16,The Rave,,Milwaukee, Wisconsin, US
+28,Bellator 28,2010-09-09,Mahalia Jackson Theater,,New Orleans, Louisiana, US
+27,Bellator 27,2010-09-02,Majestic Theatre,600.0,San Antonio, Texas, US
+26,Bellator 26,2010-08-26,Kansas City Power & Light District,4000.0,Kansas City, Missouri, US
+25,Bellator 25,2010-08-19,Chicago Theatre,,Chicago, Illinois, US
+24,Bellator 24,2010-08-12,Seminole Hard Rock Hotel & Casino,,Hollywood, Florida, US
+23,Bellator 23,2010-06-24,Fourth Street Live!,,Louisville, Kentucky, US
+22,Bellator 22,2010-06-17,Kansas City Power & Light District,,Kansas City, Missouri, US
+21,Bellator 21,2010-06-10,Seminole Hard Rock Hotel & Casino,,Hollywood, Florida, US
+20,Bellator 20,2010-05-27,Majestic Theatre,1000.0,San Antonio, Texas, US
+19,Bellator 19,2010-05-20,Verizon Theater,,Grand Prairie, Texas, US
+18,Bellator 18,2010-05-13,Monroe Civic Center,,Monroe, Louisiana, US
+17,Bellator 17,2010-05-06,Citi Performing Arts Center: Wang Theatre,1000.0,Boston, Massachusetts, US
+16,Bellator 16,2010-04-29,Kansas City Power & Light District,,Kansas City, Missouri, US
+15,Bellator 15,2010-04-22,Mohegan Sun Arena,,Uncasville, Connecticut, US
+14,Bellator 14,2010-04-15,Chicago Theatre,,Chicago, Illinois, US
+13,Bellator 13,2010-04-08,Seminole Hard Rock Hotel & Casino,,Hollywood, Florida, US
+12,Bellator 12,2009-06-19,Seminole Hard Rock Hotel & Casino,,Hollywood, Florida, US
+11,Bellator 11,2009-06-12,Mohegan Sun Arena,,Uncasville, Connecticut, US
+10,Bellator 10,2009-06-05,Citizens Business Bank Arena,,Ontario, California, US
+9,Bellator 9,2009-05-29,Monroe Civic Center,,Monroe, Louisiana, US
+7,Bellator 7,2009-05-15,Aragon Ballroom,,Chicago, Illinois, US
+6,Bellator 6,2009-05-08,Central Pavilion Arena,,Robstown, Texas, US
+5,Bellator 5,2009-05-01,Hara Arena,,Dayton, Ohio, US
+4,Bellator 4,2009-04-17,Lloyd Noble Center,3850.0,Norman, Oklahoma, US
+3,Bellator 3,2009-04-17,Lloyd Noble Center,4297.0,Norman, Oklahoma, US
+2,Bellator 2,2009-04-10,Mohegan Sun Arena,1283.0,Uncasville, Connecticut, US
+1,Bellator 1,2009-04-03,Seminole Hard Rock Hotel & Casino,1756.0,Hollywood, Florida, US

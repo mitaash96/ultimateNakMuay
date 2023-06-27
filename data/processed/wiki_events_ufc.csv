@@ -1,4 +1,8 @@
 event_num,event,date,venue,location,attendance,event_id
+652,UFC on ABC: Emmett vs. Topuria,2023-06-24,VyStar Veterans Memorial Arena,"Jacksonville, Florida, U.S.",,f796c71c34c1c47ec8d9ac26c5f015d2f0c36f4c1a6e1d7fba00ef781c130249
+651,UFC on ESPN: Vettori vs. Cannonier,2023-06-17,UFC Apex,"Las Vegas, Nevada, U.S.",,b9d858650af3b4603d1f73dd9d46d337644d942d3b3c620473e407234daa6311
+650,UFC 289: Nunes vs. Aldana,2023-06-10,Rogers Arena,"Vancouver, British Columbia, Canada","17,628",a8b3628f1a194459323a285a9e55aaa74035164ad6967ac7aff83da655758b1f
+649,UFC on ESPN: Kara-France vs. Albazi,2023-06-03,UFC Apex,"Las Vegas, Nevada, U.S.",,a8b4dda55b9d768282cdbfddcf6edd34b8539d638d9cad534494a68571c3e549
 648,UFC Fight Night: Dern vs. Hill,2023-05-20,UFC Apex,"Las Vegas, Nevada, U.S.",,d8efd546a501350524b7b0987463472ddc45083f561753df30f5e0e468e4271a
 647,UFC on ABC: Rozenstruik vs. Almeida,2023-05-13,Spectrum Center,"Charlotte, North Carolina, U.S.","18,712",b1ff2fc2110c5a0c1d8fd6fcda7d544ffb5a1fce513eb03bb692fd5d03c2fcea
 646,UFC 288: Sterling vs. Cejudo,2023-05-06,Prudential Center,"Newark, New Jersey, U.S.","17,559",14ff8b34cf8ba961c51cbfae5e83e1870e2e93850144649d15b2891fcd018ca5
@@ -656,17 +660,21 @@ cancelled,UFC 151: Jones vs. Henderson,2012-09-01,Mandalay Bay Events Center,"La
 003,UFC 3: The American Dream,1994-09-09,Grady Cole Center,"Charlotte, North Carolina, U.S.",,e8b1d82f5e8c42e45e4f6a37b41bf6aac479fe5d45d2187fc0c00e5aca8ebeae
 002,UFC 2: No Way Out,1994-03-11,Mammoth Gardens,"Denver, Colorado, U.S.","2,000",c9f5f5be1a9abd239af5e36441a7742fcbe9a6ac24665a085bf4bff893142869
 001,UFC 1: The Beginning,1993-11-12,McNichols Sports Arena,"Denver, Colorado, U.S.","7,800",17c4360b5a6cd9a9d438f40ec4c72ba4b6f479bc66b417ea5174f0f58dfd32b3
+future,UFC PPV,2023-12-16,T-Mobile Arena,"Las Vegas, Nevada, U.S.",,8eab3e50dc49c291346f6b78e451ef0c22ba3835ab63ca33f0aaf2030684edb6
+future,UFC Fight Night,2023-11-18,UFC Apex,"Las Vegas, Nevada, U.S.",,42a160bb7dd6c3275f7dfcc04e617f4e1a0c34d53f82b23bf32b3656e9167468
+future,UFC Fight Night,2023-11-04,TBD,"São Paulo, Brazil",,42a160bb7dd6c3275f7dfcc04e617f4e1a0c34d53f82b23bf32b3656e9167468
 future,UFC 294,2023-10-21,Etihad Arena,"Abu Dhabi, United Arab Emirates",,7b1b75bd810522d5acad9e78cfb1e93e296cb2153748bd38e4700325dcbe0202
-future,UFC 293,2023-09-10,TBD,"Sydney, Australia",,168192a3ceedc48b7b61d6fab5c70eae73cc4a43ecf4676d000a0442f55e2933
+future,UFC Fight Night,2023-10-07,UFC Apex,"Las Vegas, Nevada, U.S.",,42a160bb7dd6c3275f7dfcc04e617f4e1a0c34d53f82b23bf32b3656e9167468
+future,UFC Fight Night,2023-09-23,UFC Apex,"Las Vegas, Nevada, U.S.",,42a160bb7dd6c3275f7dfcc04e617f4e1a0c34d53f82b23bf32b3656e9167468
+future,UFC Fight Night,2023-09-16,T-Mobile Arena,"Las Vegas, Nevada, U.S.",,42a160bb7dd6c3275f7dfcc04e617f4e1a0c34d53f82b23bf32b3656e9167468
+future,UFC 293,2023-09-10,Qudos Bank Arena,"Sydney, Australia",,168192a3ceedc48b7b61d6fab5c70eae73cc4a43ecf4676d000a0442f55e2933
+future,UFC on ESPN: Gane vs. Spivak,2023-09-02,Accor Arena,"Paris, France",,75925eb0660172dd7b5f109fe5ad05516eff8a38bedd218b7e3a2d04b78cb932
+future,UFC on ESPN: Holloway vs. The Korean Zombie,2023-08-26,Singapore Indoor Stadium,"Kallang, Singapore",,60ec0b4353b1cfa2c9a9b5735cad3f5f859ded7ec10f9c374932cbdfbdb944fb
 future,UFC 292: Sterling vs. O'Malley,2023-08-19,TD Garden,"Boston, Massachusetts, U.S.",,36acddd4fa98852f15e28aafc6e1146f9fa52d669804690d348eba44a83fc505
-future,UFC Fight Night 226,2023-08-12,TBD,TBD,,8f832f0e08c9be56e11129bf64a773850c1efb76f7525f34c476b943aa2da157
-future,UFC Fight Night 225,2023-08-05,TBD,TBD,,ec311a65bca7f6a6e1318224796094e19eb2ecc3ed5db205c1dd1c4bbc51e713
+future,UFC on ESPN: Luque vs. dos Anjos,2023-08-12,UFC Apex,"Las Vegas, Nevada, U.S.",,a6a1a7d0155ff696e3c3911141585ffc110d1f8b7e1c1c85e3f8b66bf7e7d63c
+future,UFC Fight Night: Sandhagen vs. Nurmagomedov,2023-08-05,Bridgestone Arena,"Nashville, Tennessee, U.S.",,2e7ec11301f1cbb41d786327c34cceb45eb19f59ffb08a723abc81b44729eff9
 future,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Delta Center,"Salt Lake City, Utah, U.S.",,4b4a04feb1f745aa7028dbfab426a34f06ed668faf1a867ab006bcd4f74fa099
-future,UFC on ESPN: Aspinall vs. Tybura,2023-07-22,The O2 Arena,"London, England, UK",,b8f3342713d8aeb25d5558111449c4b595dc607555b5b9104ed0e94f491fa2dd
+future,UFC Fight Night: Aspinall vs. Tybura,2023-07-22,The O2 Arena,"London, England, UK",,895e016e944e71f0d0711d0e83b1d9d9d4d80831868d74bf1fc44c0decc2fdf8
 future,UFC Fight Night: Holm vs. Bueno Silva,2023-07-15,UFC Apex,"Las Vegas, Nevada, U.S.",,279a4be05dd0f622ef8019492f990936dcabffbd26e730b437eb49781d0558a4
 future,UFC 290: Volkanovski vs. Rodríguez,2023-07-08,T-Mobile Arena,"Las Vegas, Nevada, U.S.",,07cac2b015f2e1572a2faac48c714d3f6acf0a865837f62affd8386978fadfab
 future,UFC on ESPN: Strickland vs. Magomedov,2023-07-01,UFC Apex,"Las Vegas, Nevada, U.S.",,3864c7c9e2b76d47a7771d150726b4327c3fa88f05b4f6099c6a862d5a181b0a
-future,UFC on ABC: Emmett vs. Topuria,2023-06-24,VyStar Veterans Memorial Arena,"Jacksonville, Florida, U.S.",,f796c71c34c1c47ec8d9ac26c5f015d2f0c36f4c1a6e1d7fba00ef781c130249
-future,UFC on ESPN: Vettori vs. Cannonier,2023-06-17,UFC Apex,"Las Vegas, Nevada, U.S.",,b9d858650af3b4603d1f73dd9d46d337644d942d3b3c620473e407234daa6311
-future,UFC 289: Nunes vs. Aldana,2023-06-10,Rogers Arena,"Vancouver, British Columbia, Canada",,a8b3628f1a194459323a285a9e55aaa74035164ad6967ac7aff83da655758b1f
-future,UFC on ESPN: Kara-France vs. Albazi,2023-06-03,UFC Apex,"Las Vegas, Nevada, U.S.",,a8b4dda55b9d768282cdbfddcf6edd34b8539d638d9cad534494a68571c3e549

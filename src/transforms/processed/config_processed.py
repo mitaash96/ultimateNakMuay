@@ -1,6 +1,5 @@
 from .transforms_processed import (
-    transform_ufc, transform_wiki_ufc,
-    transform_wiki_fc_ufc,
+    transform_ufc, transform_wiki_ufc, transform_wiki_fc_ufc, transform_wiki_events_bellator,
 )
 
 
@@ -18,11 +17,24 @@ PROCESSED_LAYER_DEPENDENCIES = {
     {
         "input": r"C:\Development\ultimateNakMuay\data\raw\fighter_ufc_payload_async.pkl",
         "output": r"C:\Development\ultimateNakMuay\data\processed\wiki_fc_ufc.csv",
-    }
+    },
+    "wikievents_bellator":
+    {
+        "input": r"C:\Development\ultimateNakMuay\data\raw\wiki_events_bellator.csv",
+        "output": r"C:\Development\ultimateNakMuay\data\processed\wiki_events_bellator.csv",
+    },
 }
 
 PROCESSED_LAYER_TRANSFORMS = {
     "ufcstats": transform_ufc,
     "wikievents_ufc": transform_wiki_ufc,
     "wikifightcards_ufc": transform_wiki_fc_ufc,
+    "wikievents_bellator": transform_wiki_events_bellator,
 }
+
+pyspark_jobs = [
+    "wikievents_bellator",
+]
+
+for job in pyspark_jobs:
+    PROCESSED_LAYER_DEPENDENCIES[job].update({"type": "pyspark"})
