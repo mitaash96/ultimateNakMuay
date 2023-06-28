@@ -1,0 +1,103 @@
+event_num,event,date,venue,city,state,country,attendance
+102,Glory: Collision 5,2023-06-17,Rotterdam Ahoy,,Rotterdam, Netherlands,
+101,Glory 86,2023-05-27,Grugahalle,,Essen, Germany,
+100,Glory 85,2023-04-29,Rotterdam Ahoy,,Rotterdam, Netherlands,
+99,Glory 84,2023-03-11,Topsportcentrum,,Rotterdam, The Netherlands,
+98,Glory 83,2023-02-11,Grugahalle,,Essen, Germany,
+97,Glory Rivals 5,2023-01-28,Zamna,,Tulum, Mexico,
+96,Glory Rivals 4,2022-12-25,Ryōgoku Kokugikan,,Tokyo, Japan,
+95,Glory 82,2022-11-19,Maritim Hotel,,Bonn, Germany,
+94,Glory Rivals 3,2022-11-05,Sporthallen Zuid,,Amsterdam, Netherlands,
+93,Glory Collision 4: Hari vs. Overeem,2022-10-08,GelreDome,,Arnhem, Netherlands,
+92,Glory Rivals 2,2022-09-17,De Meent,,Alkmaar, Netherlands,
+91,Glory 81: Ben Saddik vs. Adegbuyi 2,2022-08-20,Castello,,Düsseldorf, Germany,
+90,Glory Rivals 1,2022-06-11,Zwembad Hoornse Vaart,,Alkmaar, Netherlands,
+89,Glory 80 Studio,2022-05-14,Sportcentrum Valken Huizen,,Arnhem, The Netherlands,
+88,Glory 80: Hasselt,2022-03-19,Trixxo Arena,,Hasselt, Belgium,
+87,Glory: Collision 3,2021-10-23,GelreDome,,Arnhem, Netherlands,
+86,Glory 78: Rotterdam,2021-09-04,Rotterdam Ahoy,,Rotterdam, Netherlands,
+85,Glory 77: Rotterdam,2021-01-30,Rotterdam Ahoy,,Rotterdam, Netherlands,
+84,Glory 76: Rotterdam,2020-12-19,Rotterdam Ahoy,,Rotterdam, Netherlands,
+83,Glory 75: Utrecht,2020-02-29,Central Studios,,Utrecht, Netherlands,
+82,Glory: Collision 2,2019-12-21,GelreDome,,Arnhem, Netherlands,31000.0
+81,Glory 73: Shenzhen,2019-12-07,Nanshan Culture & Sports Center,,Shenzhen, China,
+80,Glory 72: Chicago,2019-11-23,Wintrust Arena,,Chicago, USA,
+79,Glory 71: Chicago,2019-11-22,Wintrust Arena,,Chicago, USA,
+78,Glory 70: Lyon,2019-10-26,Palais des Sports de Gerland,,Lyon, France,
+77,Glory 69: Düsseldorf,2019-10-12,ISS Dome,,Düsseldorf, Germany,
+76,Glory 68: Miami,2019-09-28,James L Knight Center,,Miami, USA,
+75,Glory 67: Orlando,2019-07-05,Silver Spurs Arena,,Orlando, USA,
+74,Glory 66: Paris,2019-06-22,Zénith Paris,,Paris, France,
+73,Glory 65: Utrecht,2019-05-17,Central Studios,,Utrecht, Netherlands,
+72,Glory 64: Strasbourg,2019-03-09,Rhénus Sport,,Strasbourg, France,
+71,Glory 63: Houston,2019-02-01,Arena Theater,,Houston, USA,
+70,Glory 62: Rotterdam,2018-12-01,Rotterdam Ahoy,,Rotterdam, Netherlands,
+69,Glory 61: New York,2018-11-02,Hammerstein Ballroom,,New York City, USA,
+68,Glory 60: Lyon,2018-10-20,Palais des Sports de Gerland,,Lyon, France,
+67,Glory 59: Amsterdam,2018-09-29,Johan Cruyff Arena,,Amsterdam, Netherlands,
+66,Glory 58: Chicago,2018-09-15,Sears Centre,,Hoffman Estates, USA,
+65,Glory 57: Shenzhen,2018-08-25,Shenzhen Bay Sports Center,,Shenzhen, China,
+64,Glory 56: Denver,2018-08-10,1stBank Center,,Broomfield, USA,
+63,Glory 55: New York,2018-07-20,The Theater at Madison Square Garden,New York City, New York, USA,
+62,Glory 54: Birmingham,2018-06-02,Genting Arena,,Birmingham, England,
+61,Glory 53: Lille,2018-05-12,Zénith de Lille,,Lille, France,
+60,Glory 52: Los Angeles,2018-03-31,Pacific Room,,Los Angeles, United States,
+59,Glory 51: Rotterdam,2018-03-03,Rotterdam Ahoy,,Rotterdam, Netherlands,
+58,Glory 50: Chicago,2018-02-16,UIC Pavilion,,Chicago, United States,
+57,Glory 49: Rotterdam,2017-12-09,Rotterdam Ahoy,,Rotterdam, Netherlands,
+56,Glory 48: New York,2017-12-01,The Theater at Madison Square Garden,New York City, New York, USA,
+55,Glory 47: Lyon,2017-10-28,Palais des Sports de Gerland,,Lyon, France,
+54,Glory 46: China,2017-10-14,Guangzhou Gymnasium,,Guangzhou, China,
+53,Glory 45: Amsterdam,2017-09-30,Sporthallen Zuid,,Amsterdam, Netherlands,
+52,Glory 44: Chicago,2017-08-25,Sears Centre,Hoffman Estates, Illinois, USA,
+51,Glory 43: New York,2017-07-14,The Theater at Madison Square Garden,New York City, New York, USA,
+50,Glory 42: Paris,2017-06-10,AccorHotels Arena,,Paris, France,
+49,Glory 41: Holland,2017-05-20,Brabanthallen,,Den Bosch, Netherlands,5000.0
+48,Glory 40: Copenhagen,2017-04-29,Forum Copenhagen,,Copenhagen, Denmark,2500.0
+47,Glory 39: Brussels,2017-03-25,Vorst National,,Brussels, Belgium,1500.0
+46,Road to Glory UK 65 kg Tournament,2017-03-11,Grantham Meres Leisure Centre,,Grantham, England,
+45,Glory 38: Chicago,2017-02-24,Sears Centre,Hoffman Estates, Illinois, USA,
+44,Glory 37: Los Angeles,2017-01-20,The Novo by Microsoft,Los Angeles, California, USA,
+43,Glory 36: Oberhausen,2016-12-10,König Pilsener Arena,,Oberhausen, Germany,13000.0
+42,Glory 35: Nice,2016-11-05,Palais Nikaia,,Nice, France,
+41,Glory 34: Denver,2016-10-21,1stBank Center,Broomfield, Colorado, USA,
+40,Glory 33: New Jersey,2016-09-09,Sun National Bank Center,Trenton, New Jersey, USA,
+39,Glory 32: Virginia,2016-07-22,Ted Constant Convocation Center,Norfolk, Virginia, USA,
+38,Glory 31: Amsterdam,2016-06-25,Amsterdam RAI,,Amsterdam, Netherlands,3500.0
+37,Glory 30: Los Angeles,2016-05-13,Citizens Business Bank Arena,,Ontario, California,1750.0
+36,Glory 29: Copenhagen,2016-04-16,Forum Copenhagen,,Copenhagen, Denmark,1250.0
+35,Glory 28: Paris,2016-03-12,AccorHotels Arena,,Paris, France,2750.0
+34,Glory 27: Chicago,2016-02-26,Sears Centre,Hoffman Estates, Illinois, USA,2000.0
+33,Glory 26: Amsterdam,2015-12-04,Amsterdam RAI,,Amsterdam, Netherlands,8000.0
+32,Glory 25: Milan,2015-11-06,PalaIper,,Milan, Italy,6750.0
+31,Glory 24: Denver,2015-10-09,Magness Arena,Denver, Colorado, USA,3500.0
+30,Bellator/Glory: Dynamite 1,2015-09-19,SAP Center,San Jose, California, USA,11000.0
+29,Glory 23: Las Vegas,2015-08-03,Hard Rock Hotel and Casino,Las Vegas, Nevada, USA,2200.0
+28,Glory 22: Lille,2015-06-05,Stade Pierre-Mauroy,,Lille, France,6500.0
+27,Glory 21: San Diego,2015-05-08,Valley View Casino Center,San Diego, California, USA,1500.0
+26,Glory 20: Dubai,2015-04-03,Dubai World Trade Centre,,Dubai, UAE,1000.0
+25,Glory 19: Virginia,2015-02-06,Hampton Coliseum,Hampton, Virginia, USA,3500.0
+24,Glory 18: Oklahoma,2014-11-07,Grand Casino Hotel Resort,Shawnee, Oklahoma, USA,1000.0
+23,Glory 17: Los Angeles,2014-06-21,The Forum,Inglewood, California, USA,4000.0
+22,Glory 16: Denver,2014-05-03,1stBank Center,Broomfield, Colorado, USA,2350.0
+21,Glory 15: Istanbul,2014-04-12,Ülker Sports Arena,,Istanbul, Turkey,11000.0
+20,Glory 14: Zagreb,2014-03-08,Arena Zagreb,,Zagreb, Croatia,10000.0
+19,Glory 13: Tokyo,2013-12-21,Ariake Coliseum,,Tokyo, Japan,8000.0
+18,Glory 12: New York,2013-11-23,The Theater at Madison Square Garden,New York City, New York, USA,4500.0
+17,Glory 11: Chicago,2013-10-12,Sears Centre,Hoffman Estates, Illinois, USA,1500.0
+16,Glory 10: Los Angeles,2013-09-28,Citizens Business Bank Arena,Ontario, California, USA,
+15,Glory 9: New York,2013-06-22,Hammerstein Ballroom,New York City, New York, USA,1950.0
+14,2013 Road to Glory USA Heavyweight Tournament,2013-06-14,Hard Rock Hotel and Casino,Tulsa, Oklahoma, USA,
+13,2013 Road to Glory USA 70 kg Tournament,2013-05-11,The Rave,Milwaukee, Wisconsin, USA,
+12,Glory 8: Tokyo,2013-05-03,Ariake Coliseum,,Tokyo, Japan,3500.0
+11,Glory 7: Milan,2013-04-20,Mediolanum Forum,,Milan, Italy,10000.0
+10,Glory 6: Istanbul,2013-04-06,Ülker Arena,,Istanbul, Turkey,12000.0
+9,Glory 5: London,2013-03-23,ExCeL Arena,,London, England,4500.0
+8,Road to Glory USA 77 kg Tournament,2013-03-22,Capitale,New York City, New York, USA,
+7,Road to Glory Japan 65 kg Tournament,2013-03-10,Differ Ariake Arena,,Tokyo, Japan,
+6,Road to Glory USA 85 kg Tournament,2013-02-09,Hollywood Park Casino,Los Angeles, California, USA,
+5,Road to Glory USA 95 kg Tournament,2013-02-02,Hard Rock Hotel and Casino,Tulsa, Oklahoma, USA,
+4,Dream 18/Glory 4: Tokyo,2012-12-31,Saitama Super Arena,,Saitama, Japan,15000.0
+3,Glory 3: Rome,2012-11-03,PalaLottomatica,,Rome, Italy,6450.0
+2,Glory 2: Brussels,2012-10-06,Forest National,,Brussels, Belgium,5250.0
+1,Glory 1: Stockholm,2012-05-26,Ericsson Globe,,Stockholm, Sweden,4500.0

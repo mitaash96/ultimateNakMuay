@@ -245,3 +245,7 @@ def transform_wiki_results_onefc(spark, input_path):
         .withColumn("round", F.col("round").cast(T.IntegerType()))
 
     return results
+
+
+def transform_wiki_events_glory(spark, input_path):
+    return transform_wiki_events_onefc(spark, input_path)
