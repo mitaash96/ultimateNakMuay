@@ -200,3 +200,30 @@ def transform_wiki_fc_ufc(spark, input_path):
         .drop("notes")
     
     return results
+
+
+def transform_wiki_events_onefc(spark, input_path):
+    events = spark.read.csv(input_path, header=True)
+    
+    events = events.withColumn(
+        "date",
+        F.when(
+            F.to_date(F.col("date"), "MMMM d, yyyy").isNotNull(), F.to_date(F.col("date"), "MMMM d, yyyy")
+            ).otherwise(F.to_date(F.col("date"), "d MMMM yyyy"))
+            )\
+        .withColumn("attendance", F.regexp_replace(F.col("attendance"), ",", ""))\
+        .withColumn("attendance", F.col("attendance").cast(T.IntegerType()))\
+        .withColumn("location", F.when(F.col("location") == "—", F.lit(None)).otherwise(F.col("location")))\
+        .withColumn("venue", F.when(F.col("venue") == "—", F.lit(None)).otherwise(F.col("venue")))
+    
+    events = events.withColumnRenamed("#", "event_num")
+    for _ in events.columns:
+        events = events.withColumnRenamed(_, _.lower())
+    
+    events = add_location_cols(events)
+
+    cols = ["event_num", "event", "date", "venue", "city", "state", "country", "attendance"]
+
+    events = events.select(*cols)
+
+    return events

@@ -1,0 +1,266 @@
+event_num,event,date,venue,city,state,country,attendance
+253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+252,ONE Fight Night 12,2023-07-15,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+251,ONE Friday Fights 22: Bhullar vs. Malykhin,2023-06-23,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+250,ONE Friday Fights 21,2023-06-16,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+249,ONE Fight Night 11: Eersel vs. Menshikov,2023-06-10,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+248,ONE Friday Fights 20,2023-06-09,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+247,ONE Friday Fights 19: Kulabdam vs. Musaev,2023-06-02,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+246,ONE Friday Fights 18: Harrison vs. Pongsiri,2023-05-26,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+245,ONE Friday Fights 17: Pompetch vs. Duangsompong,2023-05-19,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+244,ONE Friday Fights 16: ET vs. Kongthoranee,2023-05-12,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+243,ONE Fight Night 10: Johnson vs. Moraes 3,2023-05-05,1stBank Center,Broomfield, Colorado, US,
+242,ONE Friday Fights 15: Nakrob vs. Ploywitthaya,2023-05-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+241,ONE Friday Fights 14: Gingsanglek vs. Chorfah,2023-04-29,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+240,ONE Fight Night 9: Nong-O vs. Haggerty,2023-04-22,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+239,ONE Friday Fights 13: Batman vs. Paidang,2023-04-21,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+238,ONE Friday Fights 12: Petsukumvit vs. Kongthoranee,2023-04-07,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+237,ONE Friday Fights 11: Superball vs. Kongklai 2,2023-03-31,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+236,ONE Fight Night 8: Superlek vs. Williams,2023-03-25,Singapore Indoor Stadium,,Kallang, Singapore,
+235,ONE Friday Fights 10: Yodkrisada vs. Thepthaksin,2023-03-24,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+234,ONE Friday Fights 9: Eersel vs. Sinsamut 2,2023-03-17,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+233,ONE Friday Fights 8: Petsukumvit vs. Petchmuangsri,2023-03-10,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+232,ONE Friday Fights 7: Rambolek vs. Theeradet,2023-03-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+231,ONE Fight Night 7: Lineker vs. Andrade 2,2023-02-25,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+230,ONE Friday Fights 6: Gingsanglek vs. Kongthoranee,2023-02-24,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+229,ONE Friday Fights 5: Kongklai vs. Superball,2023-02-17,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+228,ONE Friday Fights 4: Duangsompong vs. Batman,2023-02-10,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+226,ONE Friday Fights 2: Sangmanee vs. Kulabdam 2,2023-01-27,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+225,ONE Friday Fights 1: Nong-O vs. Ramazanov,2023-01-20,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+224,ONE Fight Night 6: Superbon vs. Allazov,2023-01-14,Impact Arena,,Bangkok, Thailand,
+223,ONE 164: Pacio vs. Brooks,2022-12-03,SM Mall of Asia Arena,,Pasay, Philippines,
+222,ONE on Prime Video 5: de Ridder vs. Malykhin,2022-12-03,SM Mall of Asia Arena,,Pasay, Philippines,
+221,ONE 163: Akimoto vs. Petchtanong,2022-11-19,Singapore Indoor Stadium,,Kallang, Singapore,
+220,ONE on Prime Video 4: Abbasov vs. Lee,2022-11-19,Singapore Indoor Stadium,,Kallang, Singapore,
+219,Road to ONE: Muay Thai Grand Prix London,2022-11-12,Peninsula Square,London, England, UK,
+218,Road to ONE: Thailand 4,2022-10-29,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+217,ONE on Prime Video 3: Lineker vs. Andrade,2022-10-22,Axiata Arena,,Kuala Lumpur, Malaysia,
+216,ONE 162: Zhang vs. Di Bella,2022-10-21,Axiata Arena,,Kuala Lumpur, Malaysia,
+215,Road to ONE: BEAST Championship 11,2022-10-08,Gladstone Showground,Gladstone, Queensland, Australia,
+214,Road to ONE: Muay Thai Grand Prix Sheffield,2022-10-01,Magna Centre,Sheffield, England, UK,
+213,ONE on Prime Video 2: Xiong vs. Lee 3,2022-10-01,Singapore Indoor Stadium,,Kallang, Singapore,
+212,ONE 161: Petchmorakot vs. Tawanchai,2022-09-29,Singapore Indoor Stadium,,Kallang, Singapore,
+211,Road to ONE: Thailand 3,2022-09-17,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+210,Road to ONE: Muay Thai Grand Prix Liverpool,2022-09-10,Liverpool Olympia,Liverpool, England, UK,
+209,ONE on Prime Video 1: Moraes vs. Johnson 2,2022-08-27,Singapore Indoor Stadium,,Kallang, Singapore,
+208,ONE 160: Ok vs. Lee 2,2022-08-26,Singapore Indoor Stadium,,Kallang, Singapore,
+207,Road to ONE: Thailand 2,2022-08-13,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+206,Road to ONE: Thailand 1,2022-08-06,Lumpinee Boxing Stadium,,Bangkok, Thailand,
+205,ONE 159: de Ridder vs. Bigdash,2022-07-22,Singapore Indoor Stadium,,Kallang, Singapore,
+204,ONE 158: Tawanchai vs. Larsen,2022-06-03,Singapore Indoor Stadium,,Kallang, Singapore,
+203,ONE 157: Petchmorakot vs. Vienot,2022-05-20,Singapore Indoor Stadium,,Kallang, Singapore,
+202,Road to ONE: RUF 47,2022-05-14,Celebrity Theatre,Phoenix, Arizona, US,
+201,ONE 156: Eersel vs. Sadiković,2022-04-22,Singapore Indoor Stadium,,Kallang, Singapore,
+200,Road to ONE: RUF 46,2022-03-26,Celebrity Theatre,Phoenix, Arizona, US,
+199,ONE: X,2022-03-26,Singapore Indoor Stadium,,Kallang, Singapore,
+198,Road to ONE: Utrecht,2022-03-12,WLF Studio,,Utrecht, Netherlands,
+197,ONE: Lights Out,2022-03-11,Singapore Indoor Stadium,,Kallang, Singapore,
+196,ONE: Full Circle,2022-02-25,Singapore Indoor Stadium,,Kallang, Singapore,
+195,ONE: Bad Blood,2022-02-11,Singapore Indoor Stadium,,Kallang, Singapore,
+194,ONE: Only the Brave,2022-01-28,Singapore Indoor Stadium,,Kallang, Singapore,
+193,Road to ONE: Mongolia,2022-01-20,Steppe Arena,,Ulaanbaatar, Mongolia,
+192,ONE: Heavy Hitters,2022-01-14,Singapore Indoor Stadium,,Kallang, Singapore,
+191,Road to ONE: RUF 45,2021-12-18,Celebrity Theatre,Phoenix, Arizona, US,
+190,ONE: Winter Warriors II,2021-12-17,Singapore Indoor Stadium,,Kallang, Singapore,
+189,Road to ONE: Mix Fight 49,2021-12-04,Dinamo Sport Complex,,Yerevan, Armenia,
+188,ONE: Winter Warriors,2021-12-03,Singapore Indoor Stadium,,Kallang, Singapore,
+187,ONE: NextGen 3,2021-11-26,Singapore Indoor Stadium,,Kallang, Singapore,
+186,ONE: NextGen 2,2021-11-12,Singapore Indoor Stadium,,Kallang, Singapore,
+185,ONE: NextGen,2021-10-29,Singapore Indoor Stadium,,Kallang, Singapore,
+184,Road to ONE: RUF 44,2021-10-23,Glendale Civic Center,Glendale, Arizona, US,
+183,ONE: First Strike,2021-10-15,Singapore Indoor Stadium,,Kallang, Singapore,
+182,Road to ONE: Muay Thai Grand Prix,2021-10-09,The O2 Arena,London, England, UK,
+181,Road to ONE: Sexyama Edition,2021-10-05,Shibuya O-East,,Tokyo, Japan,
+180,ONE: Revolution,2021-09-24,Singapore Indoor Stadium,,Kallang, Singapore,500.0
+179,ONE: Empower,2021-09-03,Singapore Indoor Stadium,,Kallang, Singapore,
+178,Road to ONE: RUF 43,2021-08-29,Celebrity Theatre,Phoenix, Arizona, US,
+177,ONE: Battleground 3,2021-08-27,Singapore Indoor Stadium,,Kallang, Singapore,
+176,ONE: Battleground 2,2021-08-13,Singapore Indoor Stadium,,Kallang, Singapore,
+175,Road to ONE: RUF 42,2021-07-31,Celebrity Theatre,Phoenix, Arizona, US,
+174,ONE: Battleground,2021-07-30,Singapore Indoor Stadium,,Kallang, Singapore,
+173,Road to ONE: MMA Live 8,2021-07-17,Sachsen Arena,,Riesa, Germany,
+172,Road to ONE: Vendetta Fight Nights 20,2021-07-03,IBB Hamza Yerlikaya Sports Complex,,Istanbul, Turkey,
+171,Road to ONE: Strikers Cage Championship 7,2021-06-26,Pabellon Quico Cabrera,,Tenerife, Spain,
+170,Road to ONE: RUF 41,2021-06-20,Celebrity Theatre,Phoenix, Arizona, US,
+169,Road to ONE 9: Arena Friday Night Fights 2,2021-06-11,Kovilovo resort,,Belgrade, Serbia,
+168,ONE: Full Blast 2,2021-06-11,Singapore Indoor Stadium,,Kallang, Singapore,
+167,ONE: Full Blast,2021-05-28,Singapore Indoor Stadium,,Kallang, Singapore,
+166,ONE: Dangal,2021-05-15,Singapore Indoor Stadium,,Kallang, Singapore,0.0
+165,ONE on TNT 4,2021-04-28,Singapore Indoor Stadium,,Kallang, Singapore,0.0
+164,Road to ONE 8: Night of Warriors,2021-04-24,,,Prague, Czech Republic,0.0
+163,ONE on TNT 3,2021-04-21,Singapore Indoor Stadium,,Kallang, Singapore,0.0
+162,ONE on TNT 2,2021-04-14,Singapore Indoor Stadium,,Kallang, Singapore,0.0
+161,ONE on TNT 1,2021-04-07,Singapore Indoor Stadium,,Kallang, Singapore,0.0
+160,ONE: Fists Of Fury 3,2021-03-19,Singapore Indoor Stadium,,Kallang, Singapore,0.0
+159,Road to ONE 7: RUF 39,2021-03-13,Glendale Civic Center,Glendale, Arizona, US,
+158,ONE: Fists Of Fury 2,2021-03-05,Singapore Indoor Stadium,,Kallang, Singapore,0.0
+157,ONE: Fists Of Fury,2021-02-26,Singapore Indoor Stadium,,Kallang, Singapore,0.0
+156,Road to ONE 6: Young Guns,2021-02-22,Tsutaya O-East,,Tokyo, Japan,
+155,ONE: Unbreakable 3,2021-02-05,Singapore Indoor Stadium,,Kallang, Singapore,
+154,ONE: Unbreakable 2,2021-01-29,Singapore Indoor Stadium,,Kallang, Singapore,
+153,ONE: Unbreakable,2021-01-22,Singapore Indoor Stadium,,Kallang, Singapore,
+152,ONE: Collision Course 2,2020-12-25,Singapore Indoor Stadium,,Kallang, Singapore,
+151,ONE: Collision Course,2020-12-18,Singapore Indoor Stadium,,Kallang, Singapore,
+150,ONE: Big Bang 2,2020-12-11,Singapore Indoor Stadium,,Kallang, Singapore,
+149,Road to ONE 5: WSS,2020-12-07,World Siam Stadium,,Bangkok, Thailand,
+148,ONE: Big Bang,2020-12-04,Singapore Indoor Stadium,,Kallang, Singapore,
+147,Road to ONE 4: Fair Fight 13,2020-11-28,Akademiya Yedinoborstv Rmk,,Yekaterinburg, Russia,
+146,ONE: Inside the Matrix 4,2020-11-20,Singapore Indoor Stadium,,Kallang, Singapore,
+145,ONE: Inside the Matrix 3,2020-11-13,Singapore Indoor Stadium,,Kallang, Singapore,
+144,ONE: Inside the Matrix 2,2020-11-06,Singapore Indoor Stadium,,Kallang, Singapore,
+143,ONE: Inside the Matrix,2020-10-30,Singapore Indoor Stadium,,Kallang, Singapore,250.0
+142,ONE: Reign of Dynasties 2,2020-10-16,Singapore Indoor Stadium,,Kallang, Singapore,0.0
+141,ONE: Reign of Dynasties,2020-10-09,Singapore Indoor Stadium,,Kallang, Singapore,0.0
+140,Road to ONE 3: Tokyo Fight Night,2020-09-10,Shibuya O-East,,Tokyo, Japan,
+139,ONE: A New Breed 3,2020-08-28,IMPACT Arena,,Bangkok, Thailand,
+138,ONE: A New Breed 2,2020-08-28,IMPACT Arena,,Bangkok, Thailand,
+137,ONE: A New Breed,2020-08-28,IMPACT Arena,,Bangkok, Thailand,
+136,ONE: No Surrender 3,2020-07-31,IMPACT Arena,,Bangkok, Thailand,0.0
+135,ONE: No Surrender 2,2020-07-31,IMPACT Arena,,Bangkok, Thailand,0.0
+134,ONE: No Surrender,2020-07-31,IMPACT Arena,,Bangkok, Thailand,0.0
+–,ONE: Fists of Fury,2020-07-03,Singapore Indoor Stadium,,Kallang, Singapore,
+–,ONE: Heart of Heroes,2020-06-26,Phú Thọ Indoor Stadium,,Ho Chi Minh City, Vietnam,
+133,ONE Hero Series 14,2020-06-21,,,Shanghai, China,
+132,ONE Hero Series 13,2020-06-20,,,Shanghai, China,
+–,ONE: Legendary Warriors,2020-06-19,Baoshan Arena,,Shanghai, China,
+–,ONE Warrior Series 11,2020-06-11,,,Kallang, Singapore,
+–,ONE: Battle for the Ages,2020-06-05,Istora Senayan,,Jakarta, Indonesia,
+–,ONE: Infinity 2,2020-06-19,Mall of Asia Arena,,Pasay, Philippines,
+–,ONE: Inspiration,2020-05-08,Singapore Indoor Stadium,,Kallang, Singapore,
+–,ONE: Dreams,2020-05-01,Singapore Indoor Stadium,,Kallang, Singapore,
+–,ONE: Strength,2020-04-24,Singapore Indoor Stadium,,Kallang, Singapore,
+–,ONE: Hope,2020-04-17,Singapore Indoor Stadium,,Kallang, Singapore,
+–,ONE: Infinity 1,2020-04-10,Mall of Asia Arena,,Pasay, Philippines,
+131,ONE: King of the Jungle,2020-02-28,Singapore Indoor Stadium,,Kallang, Singapore,
+130,ONE Warrior Series 10,2020-02-19,,,Kallang, Singapore,
+129,ONE: Warrior's Code,2020-02-07,Istora Senayan,,Jakarta, Indonesia,
+128,ONE: Fire & Fury,2020-01-31,SM Mall of Asia Arena,,Pasay, Philippines,
+127,ONE: A New Tomorrow,2020-01-10,Impact Arena,,Bangkok, Thailand,
+126,ONE Hero Series 12,2019-12-16,,,Beijing, China,
+125,ONE: Mark Of Greatness,2019-12-06,Axiata Arena,,Kuala Lumpur, Malaysia,
+124,ONE Warrior Series 9,2019-12-04,,,Kallang, Singapore,
+123,ONE: Edge of Greatness,2019-11-22,Singapore Indoor Stadium,,Kallang, Singapore,
+122,ONE Hero Series 11,2019-11-18,,,Beijing, China,
+121,ONE: Age of Dragons,2019-11-16,Cadillac Arena,,Beijing, China,
+120,ONE: Masters of Fate,2019-11-08,SM Mall of Asia Arena,,Pasay, Philippines,
+119,ONE Hero Series 10,2019-10-28,,,Beijing, China,
+118,ONE: Dawn of Valor,2019-10-25,Istora Senayan,,Jakarta, Indonesia,
+117,ONE: Century,2019-10-13,Ryōgoku Kokugikan,,Tokyo, Japan,
+116,ONE Warrior Series 8,2019-10-05,Bellesalle Shibuya Garden,,Tokyo, Japan,
+115,ONE Hero Series 9,2019-09-23,,,Beijing, China,
+114,ONE: Immortal Triumph,2019-09-06,Phú Thọ Indoor Stadium,,Ho Chi Minh City, Vietnam,
+113,ONE Hero Series 8,2019-08-26,,,Beijing, China,
+112,ONE: Dreams of Gold,2019-08-16,IMPACT Arena,,Bangkok, Thailand,
+111,ONE Warrior Series 7,2019-08-06,,,Kallang, Singapore,
+110,ONE: Dawn Of Heroes,2019-08-02,SM Mall of Asia Arena,,Pasay, Philippines,
+109,ONE Hero Series 7,2019-07-22,,,Beijing, China,
+108,ONE: Masters Of Destiny,2019-07-12,Axiata Arena,,Kuala Lumpur, Malaysia,
+107,ONE Warrior Series 6,2019-06-20,,,Kallang, Singapore,
+106,ONE: Legendary Quest,2019-06-15,Baoshan Arena,,Shanghai, China,
+105,ONE Hero Series 6,2019-06-14,,,Shanghai, China,
+104,ONE Hero Series 5,2019-05-27,,,Beijing, China,
+103,ONE: Enter the Dragon,2019-05-17,Singapore Indoor Stadium,,Kallang, Singapore,
+102,ONE: Warriors Of Light,2019-05-10,IMPACT Arena,,Bangkok, Thailand,
+101,ONE: For Honor,2019-05-03,Istora Senayan,,Jakarta, Indonesia,
+100,ONE Warrior Series 5,2019-04-25,,,Kallang, Singapore,
+99,ONE Hero Series 4,2019-04-22,,,Beijing, China,
+98,ONE: Roots Of Honor,2019-04-12,SM Mall of Asia Arena,,Pasay, Philippines,
+97,ONE: A New Era,2019-03-31,Ryōgoku Kokugikan,,Tokyo, Japan,
+96,ONE Hero Series 3,2019-03-25,,,Beijing, China,
+95,ONE: Reign of Valor,2019-03-08,Thuwunna National Indoor Stadium,,Yangon, Myanmar,
+94,ONE Warrior Series 4,2019-02-28,,,Kallang, Singapore,
+93,ONE Hero Series 2,2019-02-25,,,Beijing, China,
+92,ONE: Call to Greatness,2019-02-22,Singapore Indoor Stadium,,Kallang, Singapore,
+91,ONE: Clash of Legends,2019-02-16,IMPACT Arena,,Bangkok, Thailand,
+90,ONE Hero Series 1,2019-01-28,,,Beijing, China,
+89,ONE: Hero's Ascent,2019-01-25,Mall of Asia Arena,,Pasay, Philippines,
+88,ONE: Eternal Glory,2019-01-19,Istora Senayan,,Jakarta, Indonesia,
+87,ONE: Destiny of Champions,2018-12-07,Axiata Arena,,Kuala Lumpur, Malaysia,
+86,ONE: Conquest of Champions,2018-11-23,SM Mall of Asia Arena,,Pasay, Philippines,
+85,ONE: Warrior's Dream,2018-11-17,Istora Senayan,,Jakarta, Indonesia,
+84,ONE: Heart of the Lion,2018-11-09,Singapore Indoor Stadium,,Kallang, Singapore,
+83,ONE: Pursuit of Greatness,2018-10-26,Thuwunna Indoor Stadium,,Yangon, Myanmar,
+82,ONE Warrior Series 3,2018-10-11,Big Box,,Jurong, Singapore,
+81,ONE: Kingdom of Heroes,2018-10-06,Impact Arena,,Bangkok, Thailand,
+80,ONE: Conquest of Heroes,2018-09-22,Jakarta Convention Center,,Jakarta, Indonesia,
+79,ONE: Beyond the Horizon,2018-09-08,Baoshan Arena,,Shanghai, China,
+78,ONE: Reign of Kings,2018-07-27,SM Mall of Asia Arena,,Pasay, Philippines,
+77,ONE Warrior Series 2,2018-07-19,Big Box,,Jurong, Singapore,
+76,ONE: Pursuit of Power,2018-07-13,Axiata Arena,,Kuala Lumpur, Malaysia,
+75,ONE: Battle for the Heavens,2018-07-07,Tianhe Gymnasium,,Guangzhou, China,
+74,ONE: Spirit of a Warrior,2018-06-29,Thuwunna Indoor Stadium,,Yangon, Myanmar,
+73,ONE: Pinnacle of Power,2018-06-23,Olympic Sports Center,,Beijing, China,
+72,ONE: Unstoppable Dreams,2018-05-18,Singapore Indoor Stadium,,Kallang, Singapore,
+71,ONE: Grit and Glory,2018-05-12,Jakarta Convention Center,,Jakarta, Indonesia,
+70,ONE: Heroes of Honor,2018-04-20,SM Mall of Asia Arena,,Pasay, Philippines,
+69,ONE Warrior Series 1,2018-03-31,Big Box,,Jurong, Singapore,
+68,ONE: Iron Will,2018-03-24,Impact Arena,,Bangkok, Thailand,
+67,ONE: Visions of Victory,2018-03-09,Axiata Arena,,Kuala Lumpur, Malaysia,
+66,ONE: Quest for Gold,2018-02-23,Thuwunna Indoor Stadium,,Yangon, Myanmar,
+65,ONE: Global Superheroes,2018-01-26,SM Mall of Asia Arena,,Pasay, Philippines,
+64,ONE: Kings of Courage,2018-01-20,Jakarta Convention Center,,Jakarta, Indonesia,
+63,ONE: Warriors of the World,2017-12-09,Impact Arena,,Bangkok, Thailand,
+62,ONE: Immortal Pursuit,2017-11-24,Singapore Indoor Stadium,,Kallang, Singapore,
+61,ONE: Legends of the World,2017-11-10,SM Mall of Asia Arena,,Pasay, Philippines,
+60,ONE: Hero's Dream,2017-11-03,Thuwunna Indoor Stadium,,Yangon, Myanmar,
+59,ONE: Total Victory,2017-09-16,Jakarta Convention Center,,Jakarta, Indonesia,
+58,ONE: Shanghai,2017-09-02,Shanghai Oriental Sports Center,,Shanghai, China,
+57,ONE: Quest for Greatness,2017-08-18,Stadium Negara,,Kuala Lumpur, Malaysia,
+56,ONE: Kings and Conquerors,2017-08-12,"Cotai Arena, The Venetian Macao",Macau, SAR, China,
+55,ONE: Light of a Nation,2017-06-30,Thuwunna Indoor Stadium,,Yangon, Myanmar,
+54,ONE: Dynasty Of Heroes,2017-05-26,Singapore Indoor Stadium,,Kallang, Singapore,
+53,ONE: Kings of Destiny,2017-04-21,SM Mall of Asia Arena,,Pasay, Philippines,
+52,ONE: Warrior Kingdom,2017-03-11,Impact Arena,,Bangkok, Thailand,
+51,ONE: Throne of Tigers,2017-02-10,Stadium Negara,,Kuala Lumpur, Malaysia,
+50,ONE: Quest for Power,2017-01-14,Jakarta Convention Center,,Jakarta, Indonesia,
+49,ONE: Age of Domination,2016-12-02,SM Mall of Asia Arena,,Pasay, Philippines,
+48,ONE: Defending Honor,2016-11-11,Singapore Indoor Stadium,,Kallang, Singapore,
+47,ONE: State of Warriors,2016-10-07,Thuwunna Indoor Stadium,,Yangon, Myanmar,
+46,ONE: Unbreakable Warriors,2016-09-02,Stadium Negara,,Kuala Lumpur, Malaysia,
+45,ONE: Titles and Titans,2016-08-27,Jakarta Convention Center,,Jakarta, Indonesia,
+44,ONE: Heroes of the World,2016-08-13,"Cotai Arena, The Venetian Macao",Macau, SAR, China,
+43,ONE: Dynasty of Champions (Anhui),2016-07-02,Hefei Olympic Sports Center Stadium,,Anhui, China,
+42,ONE: Kingdom of Champions,2016-05-27,Impact Arena,,Bangkok, Thailand,
+41,ONE: Ascent to Power,2016-05-06,Singapore Indoor Stadium,,Kallang, Singapore,
+40,ONE: Global Rivals,2016-04-15,SM Mall of Asia Arena,,Pasay, Philippines,
+39,ONE: Union of Warriors,2016-03-18,Thuwunna National Indoor Stadium,,Yangon, Myanmar,
+38,ONE: Tribe of Warriors,2016-02-20,Istora Senayan,,Jakarta, Indonesia,9683.0
+37,ONE: Clash of Heroes,2016-01-29,Stadium Negara,,Kuala Lumpur, Malaysia,8492.0
+36,ONE: Dynasty of Champions (Changsha),2016-01-23,Changsha SWC Stadium,,Changsha, China,3856.0
+35,ONE: Spirit of Champions,2015-12-11,SM Mall of Asia Arena,,Pasay, Philippines,18892.0
+34,ONE: Kingdom of Khmer,2015-12-05,Koh Pich Theatre,,Phnom Penh, Cambodia,3789.0
+33,ONE: Dynasty of Champions (Beijing II),2015-11-21,Olympic Sports Center Gymnasium,,Beijing, China,6491.0
+32,ONE: Pride of Lions,2015-11-13,Singapore Indoor Stadium,,Kallang, Singapore,11611.0
+31,ONE: Tigers of Asia,2015-10-09,Putra Indoor Stadium,,Kuala Lumpur, Malaysia,11378.0
+30,ONE: Odyssey of Champions,2015-09-27,Istora Senayan,,Jakarta, Indonesia,8485.0
+–,ONE: Dynasty of Champions (Shanghai),2015-09-17,Mercedes-Benz Arena,,Shanghai, China,
+29,ONE: Kingdom of Warriors,2015-07-18,Thuwunna Indoor Stadium,,Yangon, Myanmar,4684.0
+28,ONE: Dynasty of Champions (Guangzhou),2015-06-20,Guangzhou Tianhe Gymnasium,,Guangzhou, China,8301.0
+27,ONE: Warrior's Quest,2015-05-22,Singapore Indoor Stadium,,Kallang, Singapore,11485.0
+26,ONE: Valor of Champions,2015-04-24,SM Mall of Asia Arena,,Pasay, Philippines,17589.0
+25,ONE: Age of Champions,2015-03-13,Putra Indoor Stadium,,Kuala Lumpur, Malaysia,10367.0
+24,ONE FC: Dynasty of Champions (Beijing),2014-12-19,Olympic Sports Center Gymnasium,,Beijing, China,5371.0
+23,ONE FC: Warrior's Way,2014-12-05,SM Mall of Asia Arena,,Pasay, Philippines,16945.0
+22,ONE FC: Battle of the Lions,2014-11-07,Singapore Indoor Stadium,,Kallang, Singapore,11284.0
+21,ONE FC: Roar of the Tigers,2014-10-17,Putra Indoor Stadium,,Kuala Lumpur, Malaysia,9839.0
+20,ONE FC: Rise of the Kingdom,2014-09-12,Koh Pich Theatre,,Phnom Penh, Cambodia,2745.0
+19,ONE FC: Reign of Champions,2014-08-29,Dubai World Trade Centre,,Dubai, United Arab Emirates,5693.0
+18,ONE FC: War of Dragons,2014-07-11,National Taiwan University Sports Center,,Taipei, Taiwan,4007.0
+17,ONE FC: Era of Champions,2014-06-14,Mata Elang International Stadium,,Jakarta, Indonesia,8125.0
+16,ONE FC: Honor and Glory,2014-05-30,Singapore Indoor Stadium,,Kallang, Singapore,11001.0
+15,ONE FC: Rise of Heroes,2014-05-02,SM Mall of Asia Arena,,Pasay, Philippines,15847.0
+14,ONE FC: War of Nations,2014-03-14,Stadium Negara,,Kuala Lumpur, Malaysia,7536.0
+13,ONE FC: Moment of Truth,2013-12-06,SM Mall of Asia Arena,,Pasay, Philippines,13398.0
+12,ONE FC: Warrior Spirit,2013-11-15,Putra Indoor Stadium,,Kuala Lumpur, Malaysia,7041.0
+11,ONE FC: Total Domination,2013-10-18,Singapore Indoor Stadium,,Kallang, Singapore,10535.0
+10,ONE FC: Champions & Warriors,2013-09-13,Istora Senayan,,Jakarta, Indonesia,5264.0
+9,ONE FC: Rise to Power,2013-05-31,SM Mall of Asia Arena,,Pasay, Philippines,12872.0
+8,ONE FC: Kings and Champions,2013-04-05,Singapore Indoor Stadium,,Kallang, Singapore,9017.0
+7,ONE FC: Return of Warriors,2013-02-02,Putra Indoor Stadium,,Kuala Lumpur, Malaysia,6376.0
+6,ONE FC: Rise of Kings,2012-10-06,Singapore Indoor Stadium,,Kallang, Singapore,8232.0
+5,ONE FC: Pride of a Nation,2012-08-31,Smart Araneta Coliseum,,Quezon City, Philippines,12523.0
+4,ONE FC: Destiny of Warriors,2012-06-23,Stadium Negara,,Kuala Lumpur, Malaysia,6153.0
+3,ONE FC: War of the Lions,2012-03-31,Singapore Indoor Stadium,,Kallang, Singapore,7714.0
+2,ONE FC: Battle of Heroes,2012-02-11,The BritAma Arena,,North Jakarta, Indonesia,3371.0
+1,ONE Fighting Championship 1: Champion vs. Champion,2011-09-03,Singapore Indoor Stadium,,Kallang, Singapore,6789.0
