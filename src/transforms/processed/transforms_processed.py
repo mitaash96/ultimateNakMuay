@@ -4,6 +4,7 @@ import hashlib
 import pickle
 from pyspark.sql import functions as F
 from pyspark.sql import types as T
+from .utils_processed import remove_poisoned_rows, add_location_cols
 
 
 def transform_ufc(input_path):
@@ -131,6 +132,7 @@ def transform_wiki_events_bellator(spark, input_path):
         .withColumn("date", F.to_date(F.col("date"), "MMMM d, yyyy"))\
         .withColumn("attendance", F.col("attendance").cast(T.IntegerType()))
     
+    '''
     events = events.withColumn("location", F.split(F.col("location"), ","))\
         .withColumn("city", F.when(F.size(F.col("location")) == 3, F.element_at(F.col("location"), 1)))\
         .withColumn("state", F.when(
@@ -140,12 +142,15 @@ def transform_wiki_events_bellator(spark, input_path):
         .withColumn("country", F.element_at(F.col("location"), -1))\
         .withColumn("country", F.regexp_replace(F.col("country"), "[^a-zA-Z0-9 ]", ""))\
         .drop("location")
+    '''
+    events = add_location_cols(events)
 
     return events
 
 
 def transform_wiki_results_bellator(spark, input_path):
     results = spark.read.csv(input_path, header=True)
+    '''
     hash_rows = lambda col_list: F.sha2(F.concat_ws("|", *col_list), 256)
     test_cols = [F.col(_) for _ in results.columns[:7]]
 
@@ -159,7 +164,8 @@ def transform_wiki_results_bellator(spark, input_path):
     results = results.withColumn("poison", hash_rows(test_cols))\
         .join(incorrect_data, ["poison"], how="left_anti")\
         .drop("poison")
-    
+    '''
+    results = remove_poisoned_rows(results)
     results = results.withColumn("time", F.regexp_replace(F.col("time"), "\\.", ":"))\
         .withColumn("time_parts", F.split(F.col("time"), ":"))\
         .withColumn("time", F.element_at(F.col("time_parts"), 1)*60 + F.element_at(F.col("time_parts"), 2))\
@@ -198,7 +204,7 @@ def transform_wiki_ufc(spark, input_path):
     events = events.join(venue_map, on=["venue"], how="left")\
         .withColumn("location", F.col("location_filled"))\
         .drop("location_filled")
-    
+    '''
     events = events.withColumn("location", F.split(F.col("location"), ","))\
         .withColumn("city", F.when(F.size(F.col("location")) == 3, F.element_at(F.col("location"), 1)))\
         .withColumn("state", F.when(
@@ -208,7 +214,8 @@ def transform_wiki_ufc(spark, input_path):
         .withColumn("country", F.element_at(F.col("location"), -1))\
         .withColumn("country", F.regexp_replace(F.col("country"), "[^a-zA-Z0-9 ]", ""))\
         .drop("location")
-    
+    '''
+    events = add_location_cols(events)
     cols = ["event_num", "event", "date", "venue", "city", "state", "country", "attendance", "event_id"]
 
     events = events.select(*cols)
