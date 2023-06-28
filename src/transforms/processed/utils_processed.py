@@ -33,3 +33,12 @@ def add_location_cols(df):
         .drop("location")
     
     return df
+
+
+def calculate_time_parts(df):
+    df = df.withColumn("time", F.regexp_replace(F.col("time"), "\\.", ":"))\
+        .withColumn("time_parts", F.split(F.col("time"), ":"))\
+        .withColumn("time", F.element_at(F.col("time_parts"), 1)*60 + F.element_at(F.col("time_parts"), 2))\
+        .drop("time_parts")
+
+    return df

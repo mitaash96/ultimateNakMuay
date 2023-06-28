@@ -4,7 +4,9 @@ import hashlib
 import pickle
 from pyspark.sql import functions as F
 from pyspark.sql import types as T
-from .utils_processed import remove_poisoned_rows, add_location_cols
+from .utils_processed import(
+    remove_poisoned_rows, add_location_cols, calculate_time_parts
+    )
 
 
 def transform_ufc(input_path):
@@ -66,8 +68,8 @@ def transform_wiki_ufc_prelim(input_path):
     return df
 
 
-def transform_wiki_fc_ufc(input_path):
-    with open(r"C:\Development\ultimateNakMuay\data\raw\fighter_ufc_payload_async.pkl", "rb") as f:
+def transform_wiki_fc_ufc_prelim(input_path):
+    with open(input_path, "rb") as f:
         results = pickle.load(f)
     
     def cleanResults(result):
@@ -131,18 +133,7 @@ def transform_wiki_events_bellator(spark, input_path):
     events = events\
         .withColumn("date", F.to_date(F.col("date"), "MMMM d, yyyy"))\
         .withColumn("attendance", F.col("attendance").cast(T.IntegerType()))
-    
-    '''
-    events = events.withColumn("location", F.split(F.col("location"), ","))\
-        .withColumn("city", F.when(F.size(F.col("location")) == 3, F.element_at(F.col("location"), 1)))\
-        .withColumn("state", F.when(
-            F.size(F.col("location")) == 3, F.element_at(F.col("location"), 2)
-            ).otherwise(F.element_at(F.col("location"), 1))
-            )\
-        .withColumn("country", F.element_at(F.col("location"), -1))\
-        .withColumn("country", F.regexp_replace(F.col("country"), "[^a-zA-Z0-9 ]", ""))\
-        .drop("location")
-    '''
+
     events = add_location_cols(events)
 
     return events
@@ -150,26 +141,10 @@ def transform_wiki_events_bellator(spark, input_path):
 
 def transform_wiki_results_bellator(spark, input_path):
     results = spark.read.csv(input_path, header=True)
-    '''
-    hash_rows = lambda col_list: F.sha2(F.concat_ws("|", *col_list), 256)
-    test_cols = [F.col(_) for _ in results.columns[:7]]
-
-    incorrect_data = results.filter(
-        ~(F.col("time").contains(":") | F.col("time").contains("."))
-        ).select(*test_cols)\
-        .distinct()
     
-    incorrect_data = incorrect_data.withColumn("poison", hash_rows(incorrect_data.columns))
-
-    results = results.withColumn("poison", hash_rows(test_cols))\
-        .join(incorrect_data, ["poison"], how="left_anti")\
-        .drop("poison")
-    '''
     results = remove_poisoned_rows(results)
-    results = results.withColumn("time", F.regexp_replace(F.col("time"), "\\.", ":"))\
-        .withColumn("time_parts", F.split(F.col("time"), ":"))\
-        .withColumn("time", F.element_at(F.col("time_parts"), 1)*60 + F.element_at(F.col("time_parts"), 2))\
-        .drop("time_parts")
+    
+    results = calculate_time_parts(results)
     
     results = results.withColumn("time", F.col("time").cast(T.DoubleType()))\
         .withColumn("round", F.col("round").cast(T.IntegerType()))
@@ -204,20 +179,24 @@ def transform_wiki_ufc(spark, input_path):
     events = events.join(venue_map, on=["venue"], how="left")\
         .withColumn("location", F.col("location_filled"))\
         .drop("location_filled")
-    '''
-    events = events.withColumn("location", F.split(F.col("location"), ","))\
-        .withColumn("city", F.when(F.size(F.col("location")) == 3, F.element_at(F.col("location"), 1)))\
-        .withColumn("state", F.when(
-            F.size(F.col("location")) == 3, F.element_at(F.col("location"), 2)
-            ).otherwise(F.element_at(F.col("location"), 1))
-            )\
-        .withColumn("country", F.element_at(F.col("location"), -1))\
-        .withColumn("country", F.regexp_replace(F.col("country"), "[^a-zA-Z0-9 ]", ""))\
-        .drop("location")
-    '''
+
     events = add_location_cols(events)
     cols = ["event_num", "event", "date", "venue", "city", "state", "country", "attendance", "event_id"]
 
     events = events.select(*cols)
 
     return events
+
+
+def transform_wiki_fc_ufc(spark, input_path):
+    results = spark.createDataFrame(transform_wiki_fc_ufc_prelim(input_path))
+    
+    results = remove_poisoned_rows(results)
+
+    results = calculate_time_parts(results)
+
+    results = results.withColumn("time", F.col("time").cast(T.DoubleType()))\
+        .withColumn("round", F.col("round").cast(T.IntegerType()))\
+        .drop("notes")
+    
+    return results

@@ -40,7 +40,7 @@ PROCESSED_LAYER_TRANSFORMS = {
 }
 
 pyspark_jobs = [
-    "wikievents_bellator", "wikifightcards_bellator", "wikievents_ufc"
+    "wikievents_bellator", "wikifightcards_bellator", "wikievents_ufc", "wikifightcards_ufc"
 ]
 
 for job in pyspark_jobs:
