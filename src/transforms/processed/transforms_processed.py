@@ -17,7 +17,7 @@ def transform_ufc(input_path):
     return df
 
 
-def transform_wiki_ufc(input_path):
+def transform_wiki_ufc_prelim(input_path):
     df = pd.read_csv(input_path)
 
     for i in df[df["Ref."].isna()].index:
@@ -171,3 +171,46 @@ def transform_wiki_results_bellator(spark, input_path):
     results = results.drop("notes")
 
     return results
+
+
+def transform_wiki_ufc(spark, input_path):
+    events = spark.createDataFrame(transform_wiki_ufc_prelim(input_path))
+    
+    events = events.withColumn("date", F.to_date(F.col("date")))\
+        .withColumn("attendance", F.regexp_replace(F.col("attendance"), ",", ""))\
+        .withColumn("attendance", F.col("attendance").cast(T.IntegerType()))\
+        .withColumn("location", F.when(F.col("location") == "—", F.lit(None)).otherwise(F.col("location")))
+    
+    events = events.withColumn(
+        "location", F.when(
+            F.col("location").endswith("U.S"), F.regexp_replace(F.col("location"), "U.S", "U.S.")
+            ).otherwise(F.col("location"))
+            )
+    
+    venue_map = events.filter(F.col("location").isNotNull())\
+        .select("venue", "location").distinct()
+    
+    venue_map = venue_map.withColumn("venue", F.when(
+        (F.col("location") == "Hidalgo, Texas, U.S.") & (F.col("venue") == "State Farm Arena"),
+        F.lit("Payne Arena")).otherwise(F.col("venue")))\
+        .withColumnRenamed("location", "location_filled")
+    
+    events = events.join(venue_map, on=["venue"], how="left")\
+        .withColumn("location", F.col("location_filled"))\
+        .drop("location_filled")
+    
+    events = events.withColumn("location", F.split(F.col("location"), ","))\
+        .withColumn("city", F.when(F.size(F.col("location")) == 3, F.element_at(F.col("location"), 1)))\
+        .withColumn("state", F.when(
+            F.size(F.col("location")) == 3, F.element_at(F.col("location"), 2)
+            ).otherwise(F.element_at(F.col("location"), 1))
+            )\
+        .withColumn("country", F.element_at(F.col("location"), -1))\
+        .withColumn("country", F.regexp_replace(F.col("country"), "[^a-zA-Z0-9 ]", ""))\
+        .drop("location")
+    
+    cols = ["event_num", "event", "date", "venue", "city", "state", "country", "attendance", "event_id"]
+
+    events = events.select(*cols)
+
+    return events
