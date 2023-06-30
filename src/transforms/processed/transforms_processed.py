@@ -249,3 +249,18 @@ def transform_wiki_results_onefc(spark, input_path):
 
 def transform_wiki_events_glory(spark, input_path):
     return transform_wiki_events_onefc(spark, input_path)
+
+
+def transform_wiki_results_glory(spark, input_path):
+    results = spark.read.csv(input_path, header=True)
+
+    results = results.withColumn("weight_class", F.coalesce("weight_class", "weight")).drop("weight")
+
+    results = remove_poisoned_rows(results)
+
+    results = calculate_time_parts(results)
+
+    results = results.withColumn("time", F.col("time").cast(T.DoubleType()))\
+        .withColumn("round", F.col("round").cast(T.IntegerType()))
+    
+    return results
