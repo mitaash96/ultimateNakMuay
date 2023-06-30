@@ -264,3 +264,24 @@ def transform_wiki_results_glory(spark, input_path):
         .withColumn("round", F.col("round").cast(T.IntegerType()))
     
     return results
+
+
+def transform_wiki_events_thai_fight(spark, input_path):
+    events = spark.read.csv(input_path, header=True)
+
+    events = events.withColumnRenamed("City", "location")
+
+    events = events.withColumn("date", F.to_date(F.col("date"), "MMMM d, yyyy"))\
+        .withColumn("location", F.when(F.col("location") == "—", F.lit(None)).otherwise(F.col("location")))
+    
+    events = add_location_cols(events)
+
+    events = events.withColumnRenamed("#", "event_num")
+    for _ in events.columns:
+        events = events.withColumnRenamed(_, _.lower())
+
+    cols = ["event_num", "event", "date", "venue", "city", "state", "country"]
+
+    events = events.select(*cols)
+
+    return events
