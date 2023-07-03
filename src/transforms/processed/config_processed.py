@@ -18,7 +18,7 @@ PROCESSED_LAYER_DEPENDENCIES = {
     "wikifightcards_ufc":
     {
         "input": r"C:\Development\ultimateNakMuay\data\raw\fighter_ufc_payload_async.pkl",
-        "output": r"C:\Development\ultimateNakMuay\data\processed\wiki_fc_ufc.csv",
+        "output": r"C:\Development\ultimateNakMuay\data\processed\wiki_results_ufc.csv",
     },
     "wikievents_bellator":
     {
