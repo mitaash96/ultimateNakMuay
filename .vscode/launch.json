@@ -2,7 +2,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Build Raw Layer",
+            "name": "Build: Raw Layer",
             "type": "python",
             "request": "launch",
             "module": "src.transforms.raw.job_raw",
@@ -10,7 +10,7 @@
             "justMyCode": true
         },
         {
-            "name": "Python: Run Async Transforms",
+            "name": "Build: Async Transforms",
             "type": "python",
             "request": "launch",
             "module": "src.transforms.async.job_async",
@@ -18,10 +18,18 @@
             "justMyCode": true
         },
         {
-            "name": "Python: Build Processed Layer",
+            "name": "Build: Processed Layer",
             "type": "python",
             "request": "launch",
             "module": "src.transforms.processed.job_processed",
+            "args": [],
+            "justMyCode": true
+        },
+        {
+            "name": "Build: Clean Layer",
+            "type": "python",
+            "request": "launch",
+            "module": "src.transforms.clean.job_clean",
             "args": [],
             "justMyCode": true
         },
