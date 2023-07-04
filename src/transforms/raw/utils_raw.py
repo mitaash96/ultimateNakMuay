@@ -80,10 +80,9 @@ def cleanResults(result):
 def getData_onefc(url):
     dfs = []
     soup = BeautifulSoup(requests.get(url).text, features="lxml")
-    header_patterns = ["one championship:", "road to one", "one on", "one fighting championship"]
+    header_patterns = ["one championship:", "road to one", "one on", "one fighting championship", "hero series", "warrior series"]
     pattern_match = lambda x: len([_ for _ in header_patterns if _ in x.lower()]) > 0
 
-    # event_headers = soup.find_all(lambda tag: tag.name == "h2" and "one" in tag.text.lower() and "cancelled" not in tag.text.lower())
     event_headers = [header for header in soup.find_all(lambda tag: tag.name == "h2" and "cancelled" not in tag.text.lower()) if pattern_match(header.text)]
 
     if not event_headers:

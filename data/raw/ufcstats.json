@@ -1,5 +1,11 @@
 [
     {
+        "event_name": "UFC 290: Volkanovski vs. Rodriguez",
+        "event_details": "http://ufcstats.com/event-details/6085ceb59087514b",
+        "event_date": "July 08, 2023",
+        "event_locations": "Las Vegas, Nevada, USA"
+    },
+    {
         "event_name": "UFC Fight Night: Strickland vs. Magomedov",
         "event_details": "http://ufcstats.com/event-details/e9e1acc96536bb4f",
         "event_date": "July 01, 2023",

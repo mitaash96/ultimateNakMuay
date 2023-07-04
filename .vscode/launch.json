@@ -1,45 +1,57 @@
 {
     "version": "0.2.0",
     "configurations": [
-        {
-            "name": "Build: Raw Layer",
-            "type": "python",
-            "request": "launch",
-            "module": "src.transforms.raw.job_raw",
-            "args": [],
-            "justMyCode": true
-        },
-        {
-            "name": "Build: Async Transforms",
-            "type": "python",
-            "request": "launch",
-            "module": "src.transforms.async.job_async",
-            "args": [],
-            "justMyCode": true
-        },
-        {
-            "name": "Build: Processed Layer",
-            "type": "python",
-            "request": "launch",
-            "module": "src.transforms.processed.job_processed",
-            "args": [],
-            "justMyCode": true
-        },
-        {
-            "name": "Build: Clean Layer",
-            "type": "python",
-            "request": "launch",
-            "module": "src.transforms.clean.job_clean",
-            "args": [],
-            "justMyCode": true
-        },
-        {
-            "name": "Python: test scripts",
-            "type": "python",
-            "request": "launch",
-            "module": "src.test scripts.test",
-            "args": [],
-            "justMyCode": true
-        },
+      {
+        "name": "Build: Raw Layer",
+        "type": "python",
+        "request": "launch",
+        "module": "src.transforms.raw.job_raw",
+        "args": [],
+        "justMyCode": true
+      },
+      {
+        "name": "Build: Async Transforms",
+        "type": "python",
+        "request": "launch",
+        "module": "src.transforms.async.job_async",
+        "args": [],
+        "justMyCode": true
+      },
+      {
+        "name": "Build: Processed Layer",
+        "type": "python",
+        "request": "launch",
+        "module": "src.transforms.processed.job_processed",
+        "args": [],
+        "justMyCode": true
+      },
+      {
+        "name": "Build: Clean Layer",
+        "type": "python",
+        "request": "launch",
+        "module": "src.transforms.clean.job_clean",
+        "args": [],
+        "justMyCode": true
+      },
+      {
+        "name": "Python: test scripts",
+        "type": "python",
+        "request": "launch",
+        "module": "src.test scripts.test",
+        "args": [],
+        "justMyCode": true
+      }
+    ],
+    "compounds": [
+      {
+        "name": "Build All Layers Sequentially",
+        "configurations": [
+          "Build: Raw Layer",
+          "Build: Async Transforms",
+          "Build: Processed Layer",
+          "Build: Clean Layer"
+        ]
+      }
     ]
-}
+  }
+  
