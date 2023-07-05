@@ -65,3 +65,36 @@ def transform_onefc(spark, event, result):
     df = df.orderBy(F.col("date").desc())
 
     return df
+
+
+def transform_bellator(spark, event, result):
+    event = spark.read.csv(event, header=True)
+    result = spark.read.csv(result, header=True)
+
+    make_ejc1 = F.concat(F.lit("Bellator "), F.element_at(F.split(F.col("event"), "/"), -1))
+    make_ejc2 = F.element_at(F.split(F.col("event"), ":"), 1)
+    event = event.withColumn("ejc1", make_ejc1).withColumn("ejc2", make_ejc2)
+
+    result = result.withColumn("rjc1", F.element_at(F.split(F.col("event_name"), "/"), -1))\
+        .withColumn("rjc2", F.element_at(F.split(F.col("event_name"), "/"), 1))
+    
+    join_conditions = (
+        (event.event == result.event_name)
+        | (event.ejc1 == result.rjc1)
+        | (event.ejc2 == result.event_name)
+        | (event.event == result.rjc2)
+    )
+
+    df = event.join(result, join_conditions, "left")
+
+    cancelled_events = df.filter(F.col("#").isNull())
+    df = df.subtract(cancelled_events)
+
+    cancelled_events = cancelled_events.withColumn("#", F.lit("cancelled"))
+    df = df.unionByName(cancelled_events)
+
+    df = df.withColumnRenamed("#", "event_num")
+
+    df = drop_join_cols(df).orderBy(F.col("date").desc())
+
+    return df

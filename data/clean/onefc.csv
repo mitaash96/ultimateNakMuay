@@ -1,12 +1,13 @@
 event_num,event,date,venue,city,state,country,attendance,weight_class,winner,loser,method,round,time,notes,fight_card,event_name
+253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight,Jhanlo Mark Sangiao,Eknh-Orgil Baatarkhuu,,,,,Main card,ONE Fight Night 13
 253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Heavyweight,Marcus Almeida,Oumar Kane,,,,,Main card,ONE Fight Night 13
-253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight,Jhanlo Mark Sangiao,Eknh-Orgil Baatarkhuu,,,,,Announced bouts,ONE Fight Night 13
-253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight,John Lineker,Kim Jae Woong,,,,,Announced bouts,ONE Fight Night 13
+253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight Submission Grappling,Rodrigo Marello,Diego Batista,,,,,Main card,ONE Fight Night 13
 253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Women's Atomweight Kickboxing,Supergirl Jaroonsak,Cristina Morales,,,,,Main card,ONE Fight Night 13
 253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Featherweight Kickboxing,Chingiz Allazov (c),Marat Grigorian,,,,[a],Main card,ONE Fight Night 13
 253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Lightweight Muay Thai,Liam Nolan,Rungrawee Sitsongpeenong,,,,,Main card,ONE Fight Night 13
+253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Heavyweight Kickboxing,Iraj Azizpour,Ahmed Krnjić,,,,,Main card,ONE Fight Night 13
+253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight,John Lineker,Kim Jae Woong,,,,,Main card,ONE Fight Night 13
 253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Featherweight Kickboxing,Tawanchai P.K.Saenchai,Davit Kiria,,,,,Main card,ONE Fight Night 13
-253,ONE Fight Night 13: Allazov vs. Grigorian,2023-08-05,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight Submission Grappling,Rodrigo Marello,Diego “Pato” Oliveira,,,,,Announced bouts,ONE Fight Night 13
 252,ONE Fight Night 12,2023-07-15,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Lightweight Kickboxing,Constantin Rusu,Bogdan Shumarov,,,,,Main card,ONE Fight Night 12
 252,ONE Fight Night 12,2023-07-15,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Flyweight,Walter Goncalves,Banma Duoji,,,,,Main card,ONE Fight Night 12
 252,ONE Fight Night 12,2023-07-15,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Flyweight Muay Thai,Superlek Kiatmuu9,Tagir Khalilov,,,,,Main card,ONE Fight Night 12
@@ -14,6 +15,7 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 252,ONE Fight Night 12,2023-07-15,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Flyweight Muay Thai,Elias Mahmoudi,TBD,,,,,Main card,ONE Fight Night 12
 252,ONE Fight Night 12,2023-07-15,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Women's Strawweight Submission Grappling,Tammi Musumeci,Amanda Alequin,,,,,Main card,ONE Fight Night 12
 252,ONE Fight Night 12,2023-07-15,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Featherweight,Garry Tonon,Shamil Gasanov,,,,,Main card,ONE Fight Night 12
+252,ONE Fight Night 12,2023-07-15,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Featherweight,Aaron Cañarte,Akbar Abdullaev,,,,,Main card,ONE Fight Night 12
 252,ONE Fight Night 12,2023-07-15,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Heavyweight,Amir Aliakbari,Dustin Joynson,,,,,Main card,ONE Fight Night 12
 252,ONE Fight Night 12,2023-07-15,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Women's Atomweight Muay Thai,Phetjeeja Lukjaoporongtom,Lara Fernandez,,,,,Main card,ONE Fight Night 12
 251,ONE Friday Fights 22: Bhullar vs. Malykhin,2023-06-23,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight Muay Thai,Fariyar Aminipour,Rambolek Chor.Ajalaboon,Decision (split),3.0,180.0,,Main card,ONE Friday Fights 22
@@ -365,8 +367,8 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 228,ONE Friday Fights 4: Duangsompong vs. Batman,2023-02-10,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight Kickboxing,Fariya Aminipour,Hiroki Suzuki,Decision (split),3.0,180.0,,Preliminary card (FanDuel TV),ONE Friday Fights 4
 228,ONE Friday Fights 4: Duangsompong vs. Batman,2023-02-10,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Welterweight,Salamat Orozakulov,Furqan Cheema,Decision (unanimous),3.0,300.0,,Main card,ONE Friday Fights 4
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Catchweight (116 lbs) Muay Thai,NumSurin Chor.Ketweena,Khunsuknoi Boomdeksian,KO (punches),1.0,158.0,,Main card,ONE Friday Fights 3
-227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Lightweight Muay Thai,Rungrawee Sitsongpeenong,Mustafa Al Takreeti,Decision (unanimous),3.0,180.0,,Preliminary card (FanDuel TV),ONE Friday Fights 3
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Lightweight,Vladimir Kanunnikov,Jason Ponet,Decision (unanimous),3.0,300.0,,Main card,ONE Friday Fights 3
+227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Lightweight Muay Thai,Rungrawee Sitsongpeenong,Mustafa Al Takreeti,Decision (unanimous),3.0,180.0,,Preliminary card (FanDuel TV),ONE Friday Fights 3
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Catchweight (118 lb) Muay Thai,Jomhod AutoMuayThai,Daniel Gyllenberg,TKO (punches and elbows),2.0,65.0,,Main card,ONE Friday Fights 3
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Catchweight (113 lbs) Muay Thai,Banluerit Sitwatcharachai,Nuatoranee Jitmuangnon,KO (punches),1.0,158.0,,Main card,ONE Friday Fights 3
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Catchweight (116 lbs) Muay Thai,Maisangkam Sor Yingcharoenkarnchang,Jomhot Charoenmuang,KO (left hook),3.0,42.0,,Main card,ONE Friday Fights 3
@@ -375,8 +377,8 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Lightweight,Alisson Barbosa,Elliot Compton,Submission (arm-triangle choke),1.0,149.0,,Preliminary card (FanDuel TV),ONE Friday Fights 3
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight,Ivan Parshikov,Dimitry Babkin,Decision (unanimous),3.0,300.0,,Preliminary card (FanDuel TV),ONE Friday Fights 3
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Catchweight (128 lb) Kickboxing,Huo Xiaolong,Seyed Mahdi Zadeh,Decision (unanimous),3.0,180.0,,Main card,ONE Friday Fights 3
-227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight Muay Thai,Ilyas Musaev,Phanrith Lookjaomaesaiwaree,KO (punch),2.0,63.0,,Main card,ONE Friday Fights 3
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,W.Atomweight Muay Thai,Junior Fairtex,Pancake Kiattongyot,Decision (split),3.0,180.0,,Main card,ONE Friday Fights 3
+227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight Muay Thai,Ilyas Musaev,Phanrith Lookjaomaesaiwaree,KO (punch),2.0,63.0,,Main card,ONE Friday Fights 3
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight Muay Thai,Mavlud Tupiev,Alaverdi Ramazanov,Decision (unanimous),3.0,180.0,,Main card,ONE Friday Fights 3
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Bantamweight Kickboxing,Elbrus Osmanov,Paedsaenlek P.K.Saenchai,KO (spinning back kick),1.0,101.0,,Main card,ONE Friday Fights 3
 227,ONE Friday Fights 3: Chorfah vs. Petsukumvit,2023-02-03,Lumpinee Boxing Stadium,,Bangkok, Thailand,,Strawweight Muay Thai,Kongchai Chanaidonmuang,Kritpetch P.K.Saenchai,KO (body kick and punches),1.0,135.0,,Main card,ONE Friday Fights 3
@@ -613,8 +615,8 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 209,ONE on Prime Video 1: Moraes vs. Johnson 2,2022-08-27,Singapore Indoor Stadium,,Kallang, Singapore,,Catchweight (128 lbs) Muay Thai,Diandra Martin,Amber Kitchen,Decision (unanimous),3.0,180.0,,Lead card (YouTube/Watch ONE),ONE on Prime Video 1
 209,ONE on Prime Video 1: Moraes vs. Johnson 2,2022-08-27,Singapore Indoor Stadium,,Kallang, Singapore,,Bantamweight Muay Thai,Nong-O Gaiyanghadao (c),Liam Harrison,TKO (leg kick),1.0,130.0,[b],Main card,ONE on Prime Video 1
 209,ONE on Prime Video 1: Moraes vs. Johnson 2,2022-08-27,Singapore Indoor Stadium,,Kallang, Singapore,,W.Catchweight 52 kg,Diandra Martin,Amber Kitchen,Decision (unanimous),3.0,180.0,Muay Thai,Lead Card,ONE on Prime Video 1: Moraes vs. Johnson 2
-209,ONE on Prime Video 1: Moraes vs. Johnson 2,2022-08-27,Singapore Indoor Stadium,,Kallang, Singapore,,Flyweight 61 kg,Panpayak Jitmuangnon,Savvas Michael,KO (Head Kick),2.0,10.0,ONE Muay Thai Flyweight Grand Prix Semi-final,Main card,ONE on Prime Video 1: Moraes vs. Johnson 2
 209,ONE on Prime Video 1: Moraes vs. Johnson 2,2022-08-27,Singapore Indoor Stadium,,Kallang, Singapore,,Heavyweight,Marcus Almeida,Kirill Grishenko,Submission (heel hook),1.0,64.0,,Main card,ONE on Prime Video 1
+209,ONE on Prime Video 1: Moraes vs. Johnson 2,2022-08-27,Singapore Indoor Stadium,,Kallang, Singapore,,Flyweight 61 kg,Panpayak Jitmuangnon,Savvas Michael,KO (Head Kick),2.0,10.0,ONE Muay Thai Flyweight Grand Prix Semi-final,Main card,ONE on Prime Video 1: Moraes vs. Johnson 2
 209,ONE on Prime Video 1: Moraes vs. Johnson 2,2022-08-27,Singapore Indoor Stadium,,Kallang, Singapore,,Flyweight Muay Thai,Panpayak Jitmuangnon,Savvas Michael,KO (head kick),2.0,10.0,[c],Main card,ONE on Prime Video 1
 209,ONE on Prime Video 1: Moraes vs. Johnson 2,2022-08-27,Singapore Indoor Stadium,,Kallang, Singapore,,Catchweight (119.25 lbs),Itsuki Hirata,Lin Heqin,Decision (unanimous),3.0,300.0,[e],Lead card (YouTube/Watch ONE),ONE on Prime Video 1
 209,ONE on Prime Video 1: Moraes vs. Johnson 2,2022-08-27,Singapore Indoor Stadium,,Kallang, Singapore,,Heavyweight,Amir Aliakbari,Mauro Cerilli,TKO (elbows),2.0,242.0,,Main card,ONE on Prime Video 1

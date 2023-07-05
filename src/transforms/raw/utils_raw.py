@@ -33,6 +33,21 @@ def get_events_df(table):
     return df
 
 
+def event_details(event, table_class, url):
+    event_name = event.text.replace("[edit]", "")
+    tables = event.find_next("table", class_ = table_class)
+    if tables != None:
+        df = pd.read_html(str(tables))
+    else:
+        df = pd.read_html(str(event.find_next("table", class_ = "wikitable")))
+    
+    df = df[0]
+    df = cleanResults(result={"event": event_name, "df": df})
+    df = df.assign(link = url)
+
+    return df
+
+
 def cleanResults(result):
     event_name = result["event"]
     df = result["df"]
@@ -142,22 +157,18 @@ def getData_bellator(url):
     table_classes = [_.get("class") for _ in event_headers[0].find_all_next("table")]
 
     table_class = "wikitable" if "toccolours" not in [x for xs in list(filter(lambda x: x!=None, table_classes)) for x in xs] else "toccolours"
-    
+
     for event in event_headers:
+        try:
+            df = event_details(event, table_class, url)
+            dfs.append(df)
+        except:
+            pass
 
-        event_name = event.text.replace("[edit]", "")
-        tables = event.find_next("table", class_ = table_class)
-        if tables != None:
-            df = pd.read_html(str(tables))
-        else:
-            df = pd.read_html(str(event.find_next("table", class_ = "wikitable")))
-        
-        df = df[0]
-        df = cleanResults(result={"event": event_name, "df": df})
-        df = df.assign(link = url)
-        dfs.append(df)
-
-    return pd.concat(dfs, ignore_index=True)
+    if dfs:
+        return pd.concat(dfs, ignore_index=True)
+    else:
+        return None
 
 
 def getData_glory(url):
