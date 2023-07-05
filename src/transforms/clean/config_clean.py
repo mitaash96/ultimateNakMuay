@@ -1,7 +1,6 @@
 from .transforms_clean import transform_ufc, transform_onefc, transform_bellator, transform_glory
 
 
-
 CLEAN_LAYER_DEPENDENCIES = {
     "ufc": {
         "event": r"C:\Development\ultimateNakMuay\data\processed\wiki_events_ufc.csv",

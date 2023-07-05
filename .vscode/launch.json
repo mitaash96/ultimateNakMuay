@@ -34,23 +34,20 @@
         "justMyCode": true
       },
       {
+        "name": "Build: Ontology",
+        "type": "python",
+        "request": "launch",
+        "module": "src.transforms.ontology.job_ontology",
+        "args": [],
+        "justMyCode": true
+      },
+      {
         "name": "Python: test scripts",
         "type": "python",
         "request": "launch",
         "module": "src.test scripts.test",
         "args": [],
         "justMyCode": true
-      }
-    ],
-    "compounds": [
-      {
-        "name": "Build All Layers Sequentially",
-        "configurations": [
-          "Build: Raw Layer",
-          "Build: Async Transforms",
-          "Build: Processed Layer",
-          "Build: Clean Layer"
-        ]
       }
     ]
   }
