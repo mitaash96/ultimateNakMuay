@@ -1,4 +1,4 @@
-from .transforms_clean import transform_ufc, transform_onefc, transform_bellator
+from .transforms_clean import transform_ufc, transform_onefc, transform_bellator, transform_glory
 
 
 
@@ -18,10 +18,16 @@ CLEAN_LAYER_DEPENDENCIES = {
         "result": r"C:\Development\ultimateNakMuay\data\processed\wiki_results_bellator.csv",
         "output": r"C:\Development\ultimateNakMuay\data\clean\bellator.csv",
     },
+    "glory": {
+        "event": r"C:\Development\ultimateNakMuay\data\processed\wiki_events_glory.csv",
+        "result": r"C:\Development\ultimateNakMuay\data\processed\wiki_results_glory.csv",
+        "output": r"C:\Development\ultimateNakMuay\data\clean\glory.csv",
+    },
 }
 
 CLEAN_LAYER_TRANSFORMS = {
     "ufc": transform_ufc,
     "onefc": transform_onefc,
     "bellator": transform_bellator,
+    "glory": transform_glory,
 }

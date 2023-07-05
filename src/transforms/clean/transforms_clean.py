@@ -98,3 +98,26 @@ def transform_bellator(spark, event, result):
     df = drop_join_cols(df).orderBy(F.col("date").desc())
 
     return df
+
+
+def transform_glory(spark, event, result):
+    event = spark.read.csv(event, header=True)
+    result = spark.read.csv(result, header=True)
+
+    event = event.withColumn("ejc1", F.regexp_replace(F.col("event"), ":", ""))\
+        .withColumn("ejc2", F.element_at(F.split(F.col("event"), ":"), 1))  
+    
+    result = result.withColumn("rjc1", F.regexp_replace(F.col("event_name"), ":", ""))
+
+    join_conditions = (
+        (event.event == result.event_name)
+        | (event.ejc1 == result.event_name)
+        | (event.ejc1 == result.rjc1)
+        | (event.ejc2 == result.rjc1)
+    )
+
+    df = event.join(result, join_conditions, "left")
+
+    df = drop_join_cols(df).orderBy(F.col("date").desc())
+
+    return df
