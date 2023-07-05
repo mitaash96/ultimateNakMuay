@@ -232,10 +232,11 @@ def transform_wiki_events_onefc(spark, input_path):
 def transform_wiki_results_onefc(spark, input_path):
     results = spark.read.csv(input_path, header=True)
     
-    results = results.withColumn("event_name", F.when(
-        F.col("event").isNotNull(), F.col("event")
-    ).otherwise(F.col("event_name"))
-    ).drop("event")
+    if "event" in results.columns:
+        results = results.withColumn("event_name", F.when(
+            F.col("event").isNotNull(), F.col("event")
+        ).otherwise(F.col("event_name"))
+        ).drop("event")
 
     results = remove_poisoned_rows(results)
 
@@ -243,6 +244,8 @@ def transform_wiki_results_onefc(spark, input_path):
 
     results = results.withColumn("time", F.col("time").cast(T.DoubleType()))\
         .withColumn("round", F.col("round").cast(T.IntegerType()))
+    
+    results = results.drop(*[col for col in results.columns if "unnamed" in col.lower()])
 
     return results
 
