@@ -364,7 +364,6 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 624,UFC 280: Oliveira vs. Makhachev,2022-10-22,Etihad Arena,,Abu Dhabi, United Arab Emirates,13400.0,Lightweight,Islam Makhachev,Charles Oliveira,Submission (arm-triangle choke),2.0,196.0,Main card
 624,UFC 280: Oliveira vs. Makhachev,2022-10-22,Etihad Arena,,Abu Dhabi, United Arab Emirates,13400.0,Bantamweight,Sean O'Malley,Petr Yan,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Main card
 624,UFC 280: Oliveira vs. Makhachev,2022-10-22,Etihad Arena,,Abu Dhabi, United Arab Emirates,13400.0,Welterweight,Belal Muhammad,Sean Brady,TKO (punches),2.0,287.0,Preliminary card (ESPNews / ESPN+)
-623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Catchweight (129 lb),Tatsuro Taira,C.J. Vergara,Submission (armbar),2.0,259.0,Preliminary card (ESPN+)
 623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Middleweight,Jacob Malkoun,Nick Maximov,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary card (ESPN+)
 623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Featherweight,Joanderson Brito,Lucas Alexander,Submission (rear-naked choke),1.0,122.0,Preliminary card (ESPN+)
 623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Women's Strawweight,Piera Rodríguez,Sam Hughes,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary card (ESPN+)
@@ -372,9 +371,10 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Women's Flyweight,Alexa Grasso,Viviane Araújo,"Decision (unanimous) (50–45, 49–46, 49–46)",5.0,300.0,Main card
 623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Middleweight,Duško Todorović,Jordan Wright,TKO (punches and elbows),2.0,192.0,Main card
 623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Light Heavyweight,Alonzo Menifield,Misha Cirkunov,KO (punches),1.0,88.0,Main card
-623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Welterweight,Pete Rodriguez,Mike Jackson,KO (punches and knee),1.0,93.0,Preliminary card (ESPN+)
 623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Bantamweight,Jonathan Martinez,Cub Swanson,TKO (leg kick),2.0,259.0,Main card
 623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Bantamweight,Raphael Assunção,Victor Henry,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Main card
+623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Catchweight (129 lb),Tatsuro Taira,C.J. Vergara,Submission (armbar),2.0,259.0,Preliminary card (ESPN+)
+623,UFC Fight Night: Grasso vs. Araújo,2022-10-15,UFC Apex,Las Vegas, Nevada, US,,Welterweight,Pete Rodriguez,Mike Jackson,KO (punches and knee),1.0,93.0,Preliminary card (ESPN+)
 622,UFC Fight Night: Dern vs. Yan,2022-10-01,UFC Apex,Las Vegas, Nevada, US,,Women's Strawweight,Yan Xiaonan,Mackenzie Dern,"Decision (majority) (48–47, 48–47, 47–47)",5.0,300.0,Main card
 622,UFC Fight Night: Dern vs. Yan,2022-10-01,UFC Apex,Las Vegas, Nevada, US,,Catchweight (140 lb),Daniel Santos,John Castañeda,KO (punches and knee),2.0,268.0,Preliminary card (ESPN+)
 622,UFC Fight Night: Dern vs. Yan,2022-10-01,UFC Apex,Las Vegas, Nevada, US,,Bantamweight,Raoni Barcelos,Trevin Jones,"Decision (unanimous) (30–25, 30–27, 30–27)",3.0,300.0,Main card
@@ -498,17 +498,17 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 613,UFC on ABC: Ortega vs. Rodríguez,2022-07-16,UBS Arena,Elmont, New York, US,16979.0,Women's Strawweight,Amanda Lemos,Michelle Waterson,Submission (guillotine choke),2.0,108.0,Main card
 613,UFC on ABC: Ortega vs. Rodríguez,2022-07-16,UBS Arena,Elmont, New York, US,16979.0,Welterweight,Li Jingliang,Muslim Salikhov,TKO (punches and elbows),2.0,278.0,Main card
 613,UFC on ABC: Ortega vs. Rodríguez,2022-07-16,UBS Arena,Elmont, New York, US,16979.0,Women's Flyweight,Lauren Murphy,Miesha Tate,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Main card
+612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Light Heavyweight,Kennedy Nzechukwu,Karl Roberson,TKO (elbows),3.0,139.0,Preliminary card (ESPN / ESPN+)
 612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Bantamweight,Said Nurmagomedov,Douglas Silva de Andrade,"Decision (unanimous) (30–27, 29–28, 29–28)",3.0,300.0,Main card
 612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Middleweight,Caio Borralho,Armen Petrosyan,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Main card
+612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Bantamweight,Saidyokub Kakhramonov,Ronnie Lawrence,"Decision (unanimous) (30–26, 30–27, 30–27)",3.0,300.0,Preliminary card (ESPN / ESPN+)
 612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Middleweight,Cody Brundage,Tresean Gore,KO (punches),1.0,230.0,Preliminary card (ESPN / ESPN+)
 612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Bantamweight,Aiemann Zahabi,Ricky Turcios,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Main card
 612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Heavyweight,Chase Sherman,Jared Vanderaa,TKO (punches),3.0,190.0,Main card
 612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Lightweight,Jamie Mullarkey,Michael Johnson,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Main card
 612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Women's Flyweight,Antonina Shevchenko,Cortney Casey,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Preliminary card (ESPN / ESPN+)
-612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Lightweight,Rafael Fiziev,Rafael dos Anjos,KO (punches),5.0,18.0,Main card
-612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Light Heavyweight,Kennedy Nzechukwu,Karl Roberson,TKO (elbows),3.0,139.0,Preliminary card (ESPN / ESPN+)
-612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Bantamweight,Saidyokub Kakhramonov,Ronnie Lawrence,"Decision (unanimous) (30–26, 30–27, 30–27)",3.0,300.0,Preliminary card (ESPN / ESPN+)
 612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Featherweight,David Onama,Garrett Armfield,Technical Submission (arm-triangle choke),2.0,193.0,Preliminary card (ESPN / ESPN+)
+612,UFC on ESPN: dos Anjos vs. Fiziev,2022-07-09,UFC Apex,Las Vegas, Nevada, US,,Lightweight,Rafael Fiziev,Rafael dos Anjos,KO (punches),5.0,18.0,Main card
 611,UFC 276: Adesanya vs. Cannonier,2022-07-02,T-Mobile Arena,Las Vegas, Nevada, US,19649.0,Featherweight,Alexander Volkanovski (c),Max Holloway,"Decision (unanimous) (50–45, 50–45, 50–45)",5.0,300.0,Main card
 611,UFC 276: Adesanya vs. Cannonier,2022-07-02,T-Mobile Arena,Las Vegas, Nevada, US,19649.0,Welterweight,Bryan Barberena,Robbie Lawler,TKO (punches),2.0,287.0,Main card
 611,UFC 276: Adesanya vs. Cannonier,2022-07-02,T-Mobile Arena,Las Vegas, Nevada, US,19649.0,Women's Flyweight,Maycee Barber,Jessica Eye,"Decision (unanimous) (29–28, 29–28, 30–27)",3.0,300.0,Early preliminary card (ESPN / ESPN+ / UFC Fight Pass)
@@ -961,14 +961,14 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 575,UFC on ESPN: Barboza vs. Chikadze,2021-08-28,UFC Apex,Las Vegas, Nevada, US,19029.0,Middleweight,Andre Petroski,Micheal Gillmore,TKO (elbows and punches),3.0,192.0,Main card
 575,UFC on ESPN: Barboza vs. Chikadze,2021-08-28,UFC Apex,Las Vegas, Nevada, US,19029.0,Women’s Flyweight,JJ Aldrich,Vanessa Demopoulos,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary card (ESPN+)
 574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Middleweight,Jared Cannonier,Kelvin Gastelum,"Decision (unanimous) (48–47, 48–47, 48–47)",5.0,300.0,Main card
-574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Heavyweight,Parker Porter,Chase Sherman,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Main card
-574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Lightweight,Mark Madsen,Clay Guida,"Decision (split) (29–28, 28–29, 30–27)",3.0,300.0,Main card
 574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Flyweight,Alexandre Pantoja,Brandon Royval,Submission (rear-naked choke),2.0,106.0,Main card
 574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Light Heavyweight,William Knight,Fabio Cherant,KO (punches),1.0,238.0,Preliminary card (ESPN2 / ESPN+)
 574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Lightweight,Vinc Pichel,Austin Hubbard,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Main card
 574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Welterweight,Ramiz Brahimaj,Sasha Palatnikov,Technical Submission (rear-naked choke),1.0,153.0,Preliminary card (ESPN2 / ESPN+)
 574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Women’s Bantamweight,Josiane Nunes,Bea Malecki,KO (punch),1.0,294.0,Preliminary card (ESPN2 / ESPN+)
 574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Featherweight,Austin Lingo,Luis Saldaña,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary card (ESPN2 / ESPN+)
+574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Heavyweight,Parker Porter,Chase Sherman,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Main card
+574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Lightweight,Mark Madsen,Clay Guida,"Decision (split) (29–28, 28–29, 30–27)",3.0,300.0,Main card
 574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Bantamweight,Brian Kelleher,Domingo Pilarte,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary card (ESPN2 / ESPN+)
 574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Lightweight,Ignacio Bahamondes,Roosevelt Roberts,KO (spinning wheel kick),3.0,295.0,Preliminary card (ESPN2 / ESPN+)
 574,UFC on ESPN: Cannonier vs. Gastelum,2021-08-21,UFC Apex,Las Vegas, Nevada, US,19029.0,Catchweight (138.5 lb),Saidyokub Kakhramonov,Trevin Jones,Technical Submission (guillotine choke),3.0,279.0,Main card
@@ -1053,7 +1053,6 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 567,UFC on ESPN: The Korean Zombie vs. Ige,2021-06-19,UFC Apex,Las Vegas, Nevada, US,0.0,Featherweight,Seung Woo Choi,Julian Erosa,TKO (punches),1.0,97.0,Main card
 567,UFC on ESPN: The Korean Zombie vs. Ige,2021-06-19,UFC Apex,Las Vegas, Nevada, US,0.0,Middleweight,Bruno Silva,Wellington Turman,KO (punches),1.0,285.0,Main card
 567,UFC on ESPN: The Korean Zombie vs. Ige,2021-06-19,UFC Apex,Las Vegas, Nevada, US,0.0,Women's Strawweight,Virna Jandiroba,Kanako Murata,TKO (arm injury),2.0,300.0,Preliminary card
-566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Lightweight,Farès Ziam,Luigi Vendramini,"Decision (majority) (29–28, 29–28, 28–28)",3.0,300.0,Early preliminary card (ESPN+ / UFC Fight Pass)
 566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Welterweight,Belal Muhammad,Demian Maia,"Decision (unanimous) (30–27, 29–28, 29–28)",3.0,300.0,Main card
 566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Featherweight,Movsar Evloev,Hakeem Dawodu,"Decision (unanimous) (29–27, 29–27, 29–27)",3.0,300.0,Preliminary card (ESPN / ESPN+)
 566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Catchweight (148.5 lb),Steven Peterson,Chase Hooper,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Early preliminary card (ESPN+ / UFC Fight Pass)
@@ -1061,12 +1060,13 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Flyweight,Brandon Moreno,Deiveson Figueiredo (c),Submission (rear-naked choke),3.0,146.0,Main card
 566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Lightweight,Terrance McKinney,Matt Frevola,KO (punches),1.0,7.0,Early preliminary card (ESPN+ / UFC Fight Pass)
 566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Lightweight,Brad Riddell,Drew Dober,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary card (ESPN / ESPN+)
-566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Heavyweight,Carlos Felipe,Jake Collier,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Early preliminary card (ESPN+ / UFC Fight Pass)
 566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Women's Bantamweight,Pannie Kianzad,Alexis Davis,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Early preliminary card (ESPN+ / UFC Fight Pass)
 566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Light Heavyweight,Eryk Anders,Darren Stewart,"Decision (unanimous) (29–28, 29–27, 29–27)",3.0,300.0,Preliminary card (ESPN / ESPN+)
 566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Women's Flyweight,Lauren Murphy,Joanne Calderwood,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Preliminary card (ESPN / ESPN+)
 566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Middleweight,Israel Adesanya (c),Marvin Vettori,"Decision (unanimous) (50–45, 50–45, 50–45)",5.0,300.0,Main card
 566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Welterweight,Leon Edwards,Nate Diaz,"Decision (unanimous) (49–46, 49–46, 49–46)",5.0,300.0,Main card
+566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Lightweight,Farès Ziam,Luigi Vendramini,"Decision (majority) (29–28, 29–28, 28–28)",3.0,300.0,Early preliminary card (ESPN+ / UFC Fight Pass)
+566,UFC 263: Adesanya vs. Vettori 2,2021-06-12,Gila River Arena,Glendale, Arizona, US,17208.0,Heavyweight,Carlos Felipe,Jake Collier,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Early preliminary card (ESPN+ / UFC Fight Pass)
 565,UFC Fight Night: Rozenstruik vs. Sakai,2021-06-05,UFC Apex,Las Vegas, Nevada, US,0.0,Middleweight,Gregory Rodrigues,Duško Todorović,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Main card
 565,UFC Fight Night: Rozenstruik vs. Sakai,2021-06-05,UFC Apex,Las Vegas, Nevada, US,0.0,Middleweight,Roman Dolidze,Laureano Staropoli,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Main card
 565,UFC Fight Night: Rozenstruik vs. Sakai,2021-06-05,UFC Apex,Las Vegas, Nevada, US,0.0,Heavyweight,Jairzinho Rozenstruik,Augusto Sakai,TKO (punches),1.0,299.0,Main card
@@ -1383,14 +1383,14 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Featherweight,Jonathan Martinez,Thomas Almeida,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Main card
 537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Middleweight,Jun Yong Park,John Phillips,"Decision (unanimous) (30–25, 30–25, 30–25)",3.0,300.0,Preliminary card (ESPN+)
 537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Women's Flyweight,Gillian Robertson,Poliana Botelho,"Decision (unanimous) (29–28, 29–27, 29–27)",3.0,300.0,Preliminary card (ESPN+)
+537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Bantamweight,Said Nurmagomedov,Mark Striegl,KO (punches),1.0,51.0,Preliminary card (ESPN+)
 537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Light Heavyweight,Jimmy Crute,Modestas Bukauskas,KO (punches),1.0,121.0,Main card
 537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Women’s Flyweight,Jéssica Andrade,Katlyn Chookagian,TKO (body punches),1.0,297.0,Main card
 537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Welterweight,James Krause,Cláudio Silva,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Main card
+537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Light Heavyweight,Maxim Grishin,Gadzhimurad Antigulov,TKO (punches),2.0,298.0,Preliminary card (ESPN+)
 537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Lightweight,Guram Kutateladze,Mateusz Gamrot,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Preliminary card (ESPN+)
 537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Lightweight,Farès Ziam,Jamie Mullarkey,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary card (ESPN+)
 537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Featherweight,Brian Ortega,Chan Sung Jung,"Decision (unanimous) (50–45, 50–45, 50–45)",5.0,300.0,Main card
-537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Bantamweight,Said Nurmagomedov,Mark Striegl,KO (punches),1.0,51.0,Preliminary card (ESPN+)
-537,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-18,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Light Heavyweight,Maxim Grishin,Gadzhimurad Antigulov,TKO (punches),2.0,298.0,Preliminary card (ESPN+)
 536,UFC Fight Night: Moraes vs. Sandhagen,2020-10-11,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Featherweight,Ilia Topuria,Youssef Zalal,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Main card
 536,UFC Fight Night: Moraes vs. Sandhagen,2020-10-11,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Featherweight,Giga Chikadze,Omar Morales,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary card (ESPN+)
 536,UFC Fight Night: Moraes vs. Sandhagen,2020-10-11,du Forum,,Abu Dhabi, United Arab Emirates,0.0,Middleweight,Tom Breese,KB Bhullar,TKO (punches),1.0,102.0,Preliminary card (ESPN+)
@@ -1480,15 +1480,15 @@ event_num,event,date,venue,city,state,country,attendance,weight_class,winner,los
 529,UFC on ESPN: Munhoz vs. Edgar,2020-08-22,UFC Apex,Las Vegas, Nevada, US,0.0,Welterweight,Matthew Semelsberger,Carlton Minus,"Decision (unanimous) (30–26, 30–27, 29–28)",3.0,300.0,Preliminary Card (ESPN+)
 528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Bantamweight,Merab Dvalishvili,John Dodson,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Main card
 528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Heavyweight,Stipe Miocic (c),Daniel Cormier,"Decision (unanimous) (49–46, 49–46, 48–47)",5.0,300.0,Main card
-528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Heavyweight,Chris Daukaus,Parker Porter,TKO (punches and knee),1.0,268.0,Early Preliminary Card (ESPN / ESPN+ / UFC Fight Pass)
 528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Catchweight (149.5 lb),Daniel Pineda,Herbert Burns,TKO (elbows),2.0,277.0,Main card
 528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Heavyweight,Jairzinho Rozenstruik,Junior dos Santos,TKO (punches),2.0,227.0,Main card
+528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Bantamweight,Marlon Vera,Sean O’Malley,TKO (elbows and punches),1.0,280.0,Main card
+528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Heavyweight,Chris Daukaus,Parker Porter,TKO (punches and knee),1.0,268.0,Early Preliminary Card (ESPN / ESPN+ / UFC Fight Pass)
 528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Women's Strawweight,Lívia Renata Souza,Ashley Yoder,"Decision (unanimous) (29–28, 29–28, 30–27)",3.0,300.0,Preliminary Card (ESPN / ESPN+)
 528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Featherweight,Kai Kamaka III,Tony Kelley,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Early Preliminary Card (ESPN / ESPN+ / UFC Fight Pass)
 528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Catchweight (146.5 lb),Danny Chavez,T.J. Brown,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary Card (ESPN / ESPN+)
 528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Women's Strawweight,Virna Jandiroba,Felice Herrig,Submission (armbar),1.0,104.0,Preliminary Card (ESPN / ESPN+)
 528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Lightweight,Vinc Pichel,Jim Miller,"Decision (unanimous) (29–28, 29–28, 29–27)",3.0,300.0,Preliminary Card (ESPN / ESPN+)
-528,UFC 252: Miocic vs. Cormier 3,2020-08-15,UFC Apex,Las Vegas, Nevada, US,0.0,Bantamweight,Marlon Vera,Sean O’Malley,TKO (elbows and punches),1.0,280.0,Main card
 527,UFC Fight Night: Lewis vs. Oleinik,2020-08-08,UFC Apex,Las Vegas, Nevada, US,0.0,Lightweight,Nasrat Haqparast,Alexander Muñoz,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary card (ESPN+)
 527,UFC Fight Night: Lewis vs. Oleinik,2020-08-08,UFC Apex,Las Vegas, Nevada, US,0.0,Featherweight,Gavin Tucker,Justin Jaynes,Submission (rear-naked choke),3.0,103.0,Preliminary card (ESPN+)
 527,UFC Fight Night: Lewis vs. Oleinik,2020-08-08,UFC Apex,Las Vegas, Nevada, US,0.0,Women's Bantamweight,Yana Kunitskaya,Julija Stoliarenko,"Decision (unanimous) (30–26, 30–27, 30–27)",3.0,300.0,Main card
@@ -1773,7 +1773,6 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 506,UFC 246: McGregor vs. Cowboy,2020-01-18,T-Mobile Arena,Las Vegas, Nevada, US,19040.0,Heavyweight,Aleksei Oleinik,Maurice Greene,Submission (armbar),2.0,278.0,Main card
 506,UFC 246: McGregor vs. Cowboy,2020-01-18,T-Mobile Arena,Las Vegas, Nevada, US,19040.0,Women's Flyweight,Roxanne Modafferi,Maycee Barber,"Decision (unanimous) (30–27, 30–27, 30–26)",3.0,300.0,Preliminary card (ESPN)
 505,UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21,Sajik Arena,,Busan, South Korea,10651.0,Light Heavyweight,Da Un Jung,Mike Rodríguez,KO (punches),1.0,64.0,Main card
-505,UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21,Sajik Arena,,Busan, South Korea,10651.0,Bantamweight,Alateng Heili,Ryan Benoit,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Preliminary Card (ESPN)
 505,UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21,Sajik Arena,,Busan, South Korea,10651.0,Flyweight,Alexandre Pantoja,Matt Schnell,KO (punches),1.0,257.0,Preliminary Card (ESPN)
 505,UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21,Sajik Arena,,Busan, South Korea,10651.0,Heavyweight,Ciryl Gane,Tanner Boser,"Decision (unanimous) (30–26, 30–26, 30–26)",3.0,300.0,Preliminary Card (ESPN)
 505,UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21,Sajik Arena,,Busan, South Korea,10651.0,Light Heavyweight,Volkan Oezdemir,Aleksandar Rakić,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Main card
@@ -1785,6 +1784,7 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 505,UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21,Sajik Arena,,Busan, South Korea,10651.0,Featherweight,Chan Sung Jung,Frankie Edgar,TKO (punches),1.0,198.0,Main card
 505,UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21,Sajik Arena,,Busan, South Korea,10651.0,Bantamweight,Raoni Barcelos,Said Nurmagomedov,"Decision (unanimous) (30–27, 29–28, 29–28)",3.0,300.0,Preliminary Card (ESPN)
 505,UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21,Sajik Arena,,Busan, South Korea,10651.0,Featherweight,Seung Woo Choi,Suman Mokhtarian,"Decision (unanimous) (29–26, 29–26, 29–25)",3.0,300.0,Preliminary Card (ESPN)
+505,UFC Fight Night: Edgar vs. The Korean Zombie,2019-12-21,Sajik Arena,,Busan, South Korea,10651.0,Bantamweight,Alateng Heili,Ryan Benoit,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Preliminary Card (ESPN)
 504,UFC 245: Usman vs. Covington,2019-12-14,T-Mobile Arena,Las Vegas, Nevada, US,16811.0,Flyweight,Brandon Moreno,Kai Kara-France,"Decision (unanimous) (29–28, 30–27, 29–28)",3.0,300.0,Early Preliminary card (UFC Fight Pass)
 504,UFC 245: Usman vs. Covington,2019-12-14,T-Mobile Arena,Las Vegas, Nevada, US,16811.0,Welterweight,Matt Brown,Ben Saunders,KO (elbows and punches),2.0,295.0,Preliminary Card (ESPN2)
 504,UFC 245: Usman vs. Covington,2019-12-14,T-Mobile Arena,Las Vegas, Nevada, US,16811.0,Featherweight,Chase Hooper,Daniel Teymur,TKO (elbows and punches),1.0,274.0,Early Preliminary card (UFC Fight Pass)
@@ -1804,12 +1804,12 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,Washington, D.C., US,10816.0,Bantamweight,Cody Stamann,Song Yadong,"Draw (majority) (29–27, 28–28, 28–28)",3.0,300.0,Main card
 503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,Washington, D.C., US,10816.0,Lightweight,Joe Solecki,Matt Wiman,"Decision (unanimous) (30–26, 30–26, 30–27)",3.0,300.0,Preliminary Card (ESPN)
 503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,Washington, D.C., US,10816.0,Heavyweight,Ben Rothwell,Stefan Struve,TKO (punches),2.0,297.0,Main card
+503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,Washington, D.C., US,10816.0,Middleweight,Makhmud Muradov,Trevor Smith,KO (punch),3.0,249.0,Early Preliminary Card (ESPN+)
 503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,Washington, D.C., US,10816.0,Featherweight,Billy Quarantillo,Jacob Kilburn,Submission (triangle choke),2.0,198.0,Preliminary Card (ESPN)
 503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,Washington, D.C., US,10816.0,Women's Strawweight,Virna Jandiroba,Mallory Martin,Submission (rear-naked choke),2.0,76.0,Early Preliminary Card (ESPN+)
 503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,Washington, D.C., US,10816.0,Heavyweight,Jairzinho Rozenstruik,Alistair Overeem,KO (punch),5.0,296.0,Main card
 503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,Washington, D.C., US,10816.0,Bantamweight,Rob Font,Ricky Simón,"Decision (unanimous) (29–28, 29–28, 30–27)",3.0,300.0,Main card
 503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,Washington, D.C., US,10816.0,Women's Bantamweight,Aspen Ladd,Yana Kunitskaya,TKO (punches),3.0,33.0,Main card
-503,UFC on ESPN: Overeem vs. Rozenstruik,2019-12-07,Capital One Arena,Washington, D.C., US,10816.0,Middleweight,Makhmud Muradov,Trevor Smith,KO (punch),3.0,249.0,Early Preliminary Card (ESPN+)
 502,UFC Fight Night: Błachowicz vs. Jacaré,2019-11-16,Ginásio do Ibirapuera,,São Paulo, Brazil,10344.0,Featherweight,Ricardo Ramos,Luiz Eduardo Garagorri,Submission (rear-naked choke),1.0,237.0,Preliminary Card (ESPN+)
 502,UFC Fight Night: Błachowicz vs. Jacaré,2019-11-16,Ginásio do Ibirapuera,,São Paulo, Brazil,10344.0,Catchweight (130.5 Ibs),Ariane Lipski,Isabella de Pádua,"Decision (unanimous) (30–26, 30–26, 29–27)",3.0,300.0,Preliminary Card (ESPN+)
 502,UFC Fight Night: Błachowicz vs. Jacaré,2019-11-16,Ginásio do Ibirapuera,,São Paulo, Brazil,10344.0,Women's Bantamweight,Tracy Cortez,Vanessa Melo,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Preliminary Card (ESPN+)
@@ -2042,16 +2042,16 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 484,UFC 239: Jones vs. Santos,2019-07-06,T-Mobile Arena,Las Vegas, Nevada, US,18358.0,Light Heavyweight,Jan Błachowicz,Luke Rockhold,KO (punches),2.0,99.0,Main card
 484,UFC 239: Jones vs. Santos,2019-07-06,T-Mobile Arena,Las Vegas, Nevada, US,18358.0,Light Heavyweight,Jon Jones (c),Thiago Santos,"Decision (split) (47–48, 48–47, 48–47)",5.0,300.0,Main card
 484,UFC 239: Jones vs. Santos,2019-07-06,T-Mobile Arena,Las Vegas, Nevada, US,18358.0,Welterweight,Michael Chiesa,Diego Sanchez,"Decision (unanimous) (30–26, 30–26, 30–26)",3.0,300.0,Main card
-483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Heavyweight,Maurice Greene,Júnior Albini,TKO (punches),1.0,218.0,Preliminary Card (ESPN)
 483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Lightweight,Vinc Pichel,Roosevelt Roberts,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Main card
 483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Lightweight,Drew Dober,Polo Reyes,KO (punches),1.0,67.0,Main card
 483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Light Heavyweight,Alonzo Menifield,Paul Craig,KO (punches),1.0,199.0,Main card
-483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Light Heavyweight,Dalcha Lungiambula,Dequan Townsend,TKO (punches and elbows),3.0,42.0,Preliminary Card (ESPN)
-483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Light Heavyweight,Eryk Anders,Vinicius Moreira,KO (punches),1.0,78.0,Preliminary Card (ESPN)
-483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Lightweight,Jared Gordon,Dan Moret,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Preliminary Card (ESPN)
 483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Heavyweight,Francis Ngannou,Junior dos Santos,TKO (punches),1.0,71.0,Main card
 483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Welterweight,Demian Maia,Anthony Rocco Martin,"Decision (majority) (29–28, 29–28, 28–28)",3.0,300.0,Main card
 483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Flyweight,Joseph Benavidez,Jussier Formiga,TKO (head kick and punches),2.0,287.0,Main card
+483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Heavyweight,Maurice Greene,Júnior Albini,TKO (punches),1.0,218.0,Preliminary Card (ESPN)
+483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Light Heavyweight,Dalcha Lungiambula,Dequan Townsend,TKO (punches and elbows),3.0,42.0,Preliminary Card (ESPN)
+483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Light Heavyweight,Eryk Anders,Vinicius Moreira,KO (punches),1.0,78.0,Preliminary Card (ESPN)
+483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Lightweight,Jared Gordon,Dan Moret,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Preliminary Card (ESPN)
 483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Bantamweight,Ricardo Ramos,Journey Newson,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary Card (ESPN)
 483,UFC on ESPN: Ngannou vs. dos Santos,2019-06-29,Target Center,Minneapolis, Minnesota, US,10123.0,Women's Strawweight,Amanda Ribas,Emily Whitmire,Submission (rear-naked choke),2.0,130.0,Preliminary Card (ESPN)
 482,UFC Fight Night: Moicano vs. The Korean Zombie,2019-06-22,Bon Secours Wellness Arena,Greenville, South Carolina, US,7682.0,Women's Strawweight,Ashley Yoder,Syuri Kondo,"Decision (unanimous) (30–26, 30–25, 30–24)",3.0,300.0,Preliminary Card (ESPN)
@@ -2251,17 +2251,17 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 467,UFC on ESPN: Ngannou vs. Velasquez,2019-02-17,Talking Stick Resort Arena,Phoenix, Arizona, US,14269.0,Featherweight,Andre Fili,Myles Jury,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Main card
 467,UFC on ESPN: Ngannou vs. Velasquez,2019-02-17,Talking Stick Resort Arena,Phoenix, Arizona, US,14269.0,Bantamweight,Aljamain Sterling,Jimmie Rivera,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary Card (ESPN)
 467,UFC on ESPN: Ngannou vs. Velasquez,2019-02-17,Talking Stick Resort Arena,Phoenix, Arizona, US,14269.0,Featherweight,Kron Gracie,Alex Caceres,Submission (rear-naked choke),1.0,126.0,Main card
-466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Bantamweight,Ricky Simón,Rani Yahya,"Decision (unanimous) (30–27, 30–27, 30–25)",3.0,300.0,Main card
-466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Women's Flyweight,Montana De La Rosa,Nadia Kassem,Submission (armbar),2.0,157.0,Main card
-466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Lightweight,Lando Vannata,Marcos Rosa Mariano,Submission (kimura),1.0,295.0,Main card
-466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Middleweight,Israel Adesanya,Anderson Silva,"Decision (unanimous) (29–28, 30–27, 30–27)",3.0,300.0,Main card
-466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Light Heavyweight,Jimmy Crute,Sam Alvey,TKO (punches),1.0,169.0,Main card
 466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Featherweight,Shane Young,Austin Arnett,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary Card (ESPN)
 466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Flyweight,Kai Kara-France,Raulian Paiva,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Preliminary Card (ESPN)
 466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Lightweight,Devonte Smith,Dong Hyun Ma,TKO (punches),1.0,229.0,Preliminary Card (ESPN)
+466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Bantamweight,Ricky Simón,Rani Yahya,"Decision (unanimous) (30–27, 30–27, 30–25)",3.0,300.0,Main card
+466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Women's Flyweight,Montana De La Rosa,Nadia Kassem,Submission (armbar),2.0,157.0,Main card
 466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Bantamweight,Jonathan Martinez,Wuliji Buren,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Early Preliminary Card (UFC Fight Pass)
 466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Lightweight,Jalin Turner,Callan Potter,KO (punches),1.0,53.0,Early Preliminary Card (UFC Fight Pass)
+466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Lightweight,Lando Vannata,Marcos Rosa Mariano,Submission (kimura),1.0,295.0,Main card
 466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Bantamweight,Kang Kyung-ho,Teruto Ishihara,Technical Submission (rear-naked choke),1.0,239.0,Preliminary Card (ESPN)
+466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Middleweight,Israel Adesanya,Anderson Silva,"Decision (unanimous) (29–28, 30–27, 30–27)",3.0,300.0,Main card
+466,UFC 234: Adesanya vs. Silva,2019-02-10,Rod Laver Arena,,Melbourne, Australia,15238.0,Light Heavyweight,Jimmy Crute,Sam Alvey,TKO (punches),1.0,169.0,Main card
 465,UFC Fight Night: Assunção vs. Moraes 2,2019-02-02,Centro de Formação Olímpica do Nordeste,,Fortaleza, Brazil,10040.0,Women's Flyweight,Mara Romero Borella,Taila Santos,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Preliminary Card (ESPN+)
 465,UFC Fight Night: Assunção vs. Moraes 2,2019-02-02,Centro de Formação Olímpica do Nordeste,,Fortaleza, Brazil,10040.0,Catchweight (127 lb),Rogério Bontorin,Magomed Bibulatov,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Preliminary Card (ESPN+)
 465,UFC Fight Night: Assunção vs. Moraes 2,2019-02-02,Centro de Formação Olímpica do Nordeste,,Fortaleza, Brazil,10040.0,Lightweight,Charles Oliveira,David Teymur,Submission (anaconda choke),2.0,55.0,Main card
@@ -3126,9 +3126,9 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 390,UFC Fight Night: Lewis vs. Browne,2017-02-19,Scotiabank Centre,Halifax, Nova Scotia, Canada,8123.0,Middleweight,Johny Hendricks,Héctor Lombard,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Main card
 390,UFC Fight Night: Lewis vs. Browne,2017-02-19,Scotiabank Centre,Halifax, Nova Scotia, Canada,8123.0,Lightweight,Paul Felder,Alessandro Ricci,TKO (elbow and punches),1.0,284.0,Main card
 390,UFC Fight Night: Lewis vs. Browne,2017-02-19,Scotiabank Centre,Halifax, Nova Scotia, Canada,8123.0,Featherweight,Gavin Tucker,Sam Sicilia,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Main card
-389,UFC 208: Holm vs. de Randamie,2017-02-11,Barclays Center,Brooklyn, New York, US,15628.0,Women's Featherweight,Germaine de Randamie,Holly Holm,"Decision (unanimous) (48–47, 48–47, 48–47)",5.0,300.0,Main card
 389,UFC 208: Holm vs. de Randamie,2017-02-11,Barclays Center,Brooklyn, New York, US,15628.0,Flyweight,Wilson Reis,Ulka Sasaki,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary Card (Fox Sports 1)
 389,UFC 208: Holm vs. de Randamie,2017-02-11,Barclays Center,Brooklyn, New York, US,15628.0,Middleweight,Ronaldo Souza,Tim Boetsch,Submission (kimura),1.0,221.0,Main card
+389,UFC 208: Holm vs. de Randamie,2017-02-11,Barclays Center,Brooklyn, New York, US,15628.0,Women's Featherweight,Germaine de Randamie,Holly Holm,"Decision (unanimous) (48–47, 48–47, 48–47)",5.0,300.0,Main card
 389,UFC 208: Holm vs. de Randamie,2017-02-11,Barclays Center,Brooklyn, New York, US,15628.0,Welterweight,Ryan LaFlare,Roan Carneiro,"Decision (unanimous) (30–26, 30–27, 29–28)",3.0,300.0,Preliminary Card (UFC Fight Pass)
 389,UFC 208: Holm vs. de Randamie,2017-02-11,Barclays Center,Brooklyn, New York, US,15628.0,Lightweight,Islam Makhachev,Nik Lentz,"Decision (unanimous) (30–25, 30–25, 30–27)",3.0,300.0,Preliminary Card (Fox Sports 1)
 389,UFC 208: Holm vs. de Randamie,2017-02-11,Barclays Center,Brooklyn, New York, US,15628.0,Featherweight,Ricky Glenn,Phillipe Nover,"Decision (split) (27–30, 29–28, 29–28)",3.0,300.0,Preliminary Card (Fox Sports 1)
@@ -3160,17 +3160,17 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 387,UFC on Fox: Shevchenko vs. Peña,2017-01-28,Pepsi Center,Denver, Colorado, US,13233.0,Welterweight,Li Jingliang,Bobby Nash,KO (punches),2.0,285.0,Preliminary Card (Fox Sports 1)
 387,UFC on Fox: Shevchenko vs. Peña,2017-01-28,Pepsi Center,Denver, Colorado, US,13233.0,Middleweight,Eric Spicely,Alessio Di Chirico,Submission (triangle choke),1.0,134.0,Preliminary Card (Fox Sports 1)
 387,UFC on Fox: Shevchenko vs. Peña,2017-01-28,Pepsi Center,Denver, Colorado, US,13233.0,Heavyweight,Francis Ngannou,Andrei Arlovski,TKO (punches),1.0,92.0,Main card
-386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Heavyweight,Alexey Oleynik,Viktor Pešta,Submission (Ezekiel choke),1.0,177.0,Preliminary Card (Fox Sports 1)
 386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Welterweight,Ben Saunders,Court McGee,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Main card
+386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Lightweight,Joe Lauzon,Marcin Held,"Decision (split) (27–30, 29–28, 29–28)",3.0,300.0,Main card
+386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Featherweight,Yair Rodríguez,B.J. Penn,TKO (front kick and punches),2.0,24.0,Main card
+386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Heavyweight,Alexey Oleynik,Viktor Pešta,Submission (Ezekiel choke),1.0,177.0,Preliminary Card (Fox Sports 1)
 386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Light Heavyweight,Joachim Christensen,Bojan Mihajlović,TKO (punches),3.0,125.0,Preliminary Card (UFC Fight Pass)
 386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Women's Strawweight,Nina Ansaroff,Jocelyn Jones-Lybarger,Submission (rear-naked choke),3.0,219.0,Preliminary Card (UFC Fight Pass)
 386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Flyweight,Sergio Pettis,John Moraga,"Decision (unanimous) (29–28, 29–28, 30–27)",3.0,300.0,Main card
 386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Lightweight,Drakkar Klose,Devin Powell,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary Card (Fox Sports 1)
 386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Heavyweight,Walt Harris,Chase Sherman,KO (knee and punches),2.0,161.0,Preliminary Card (UFC Fight Pass)
 386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Lightweight,Anthony Rocco Martin,Alex White,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary Card (Fox Sports 1)
-386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Lightweight,Joe Lauzon,Marcin Held,"Decision (split) (27–30, 29–28, 29–28)",3.0,300.0,Main card
 386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Bantamweight,Augusto Mendes,Frankie Saenz,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Preliminary Card (Fox Sports 1)
-386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Featherweight,Yair Rodríguez,B.J. Penn,TKO (front kick and punches),2.0,24.0,Main card
 386,UFC Fight Night: Rodríguez vs. Penn,2017-01-15,Talking Stick Resort Arena,Phoenix, Arizona, US,11589.0,Heavyweight,Cyril Asker,Dmitry Smolyakov,TKO (punches and elbows),1.0,161.0,Preliminary Card (UFC Fight Pass)
 385,UFC 207: Nunes vs. Rousey,2016-12-30,T-Mobile Arena,Las Vegas, Nevada, US,18533.0,Bantamweight,T.J. Dillashaw,John Lineker,"Decision (unanimous) (30–26, 30–26, 30–26)",3.0,300.0,Main card
 385,UFC 207: Nunes vs. Rousey,2016-12-30,T-Mobile Arena,Las Vegas, Nevada, US,18533.0,Catchweight (173.5 lb),Neil Magny,Johny Hendricks,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary Card (Fox Sports 1)
@@ -4019,10 +4019,10 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 309,UFC Fight Night: Bigfoot vs. Mir,2015-02-22,Ginásio Gigantinho,,Porto Alegre, Brazil,5080.0,Bantamweight,Frankie Saenz,Iuri Alcântara,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Main card
 309,UFC Fight Night: Bigfoot vs. Mir,2015-02-22,Ginásio Gigantinho,,Porto Alegre, Brazil,5080.0,Featherweight,Mike De La Torre,Tiago Trator,TKO (punches),1.0,179.0,Preliminary Card (Fox Sports 1)
 309,UFC Fight Night: Bigfoot vs. Mir,2015-02-22,Ginásio Gigantinho,,Porto Alegre, Brazil,5080.0,Women's Bantamweight,Marion Reneau,Jéssica Andrade,Submission (triangle choke),1.0,114.0,Preliminary Card (Fox Sports 1)
+309,UFC Fight Night: Bigfoot vs. Mir,2015-02-22,Ginásio Gigantinho,,Porto Alegre, Brazil,5080.0,Lightweight,Ivan Jorge,Josh Shockley,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary Card (UFC Fight Pass)
 309,UFC Fight Night: Bigfoot vs. Mir,2015-02-22,Ginásio Gigantinho,,Porto Alegre, Brazil,5080.0,Lightweight,Adriano Martins,Rustam Khabilov,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Main card
 309,UFC Fight Night: Bigfoot vs. Mir,2015-02-22,Ginásio Gigantinho,,Porto Alegre, Brazil,5080.0,Welterweight,Santiago Ponzinibbio,Sean Strickland,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Main card
 309,UFC Fight Night: Bigfoot vs. Mir,2015-02-22,Ginásio Gigantinho,,Porto Alegre, Brazil,5080.0,Middleweight,Sam Alvey,Cezar Ferreira,KO (punches),1.0,214.0,Main card
-309,UFC Fight Night: Bigfoot vs. Mir,2015-02-22,Ginásio Gigantinho,,Porto Alegre, Brazil,5080.0,Lightweight,Ivan Jorge,Josh Shockley,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary Card (UFC Fight Pass)
 309,UFC Fight Night: Bigfoot vs. Mir,2015-02-22,Ginásio Gigantinho,,Porto Alegre, Brazil,5080.0,Bantamweight,Douglas Silva de Andrade,Cody Gibson,"Decision (unanimous) (29–28, 30–27, 29–28)",3.0,300.0,Preliminary Card (Fox Sports 1)
 308,UFC Fight Night: Henderson vs. Thatch,2015-02-14,1stBank Center,Broomfield, Colorado, US,5807.0,Catchweight (158 lb),James Moontasri,Cody Pfister,Submission (rear-naked choke),2.0,109.0,Preliminary Card (Fox Sports 1)
 308,UFC Fight Night: Henderson vs. Thatch,2015-02-14,1stBank Center,Broomfield, Colorado, US,5807.0,Lightweight,Kevin Lee,Michel Prazeres,"Decision (unanimous) (30–27, 29–28, 30–27)",3.0,300.0,Main card
@@ -4468,10 +4468,10 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 269,The Ultimate Fighter Nations Finale: Bisping vs. Kennedy,2014-04-16,Colisée Pepsi,Quebec City, Quebec, Canada,5029.0,Bantamweight,George Roop,Dustin Kimura,"Decision (unanimous) (29–28, 30–27, 29–26)",3.0,300.0,Preliminary card (Fox Sports 1)
 268,UFC Fight Night: Nogueira vs. Nelson,2014-04-11,du Arena,,Abu Dhabi, United Arab Emirates,7963.0,Heavyweight,Jared Rosholt,Daniel Omielańczuk,"Decision (unanimous) (30–27, 30–26, 30–27)",3.0,300.0,Preliminary card (UFC Fight Pass)
 268,UFC Fight Night: Nogueira vs. Nelson,2014-04-11,du Arena,,Abu Dhabi, United Arab Emirates,7963.0,Lightweight,Ramsey Nijem,Beneil Dariush,TKO (punches),1.0,260.0,Main card
+268,UFC Fight Night: Nogueira vs. Nelson,2014-04-11,du Arena,,Abu Dhabi, United Arab Emirates,7963.0,Featherweight,Jim Alers,Alan Omer,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Preliminary card (UFC Fight Pass)
 268,UFC Fight Night: Nogueira vs. Nelson,2014-04-11,du Arena,,Abu Dhabi, United Arab Emirates,7963.0,Welterweight,Ryan LaFlare,John Howard,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Main card
 268,UFC Fight Night: Nogueira vs. Nelson,2014-04-11,du Arena,,Abu Dhabi, United Arab Emirates,7963.0,Featherweight,Clay Guida,Tatsuya Kawajiri,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Main card
 268,UFC Fight Night: Nogueira vs. Nelson,2014-04-11,du Arena,,Abu Dhabi, United Arab Emirates,7963.0,Heavyweight,Roy Nelson,Antônio Rodrigo Nogueira,KO (punch),1.0,217.0,Main card
-268,UFC Fight Night: Nogueira vs. Nelson,2014-04-11,du Arena,,Abu Dhabi, United Arab Emirates,7963.0,Featherweight,Jim Alers,Alan Omer,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Preliminary card (UFC Fight Pass)
 268,UFC Fight Night: Nogueira vs. Nelson,2014-04-11,du Arena,,Abu Dhabi, United Arab Emirates,7963.0,Middleweight,Thales Leites,Trevor Smith,TKO (punches),1.0,45.0,Preliminary card (UFC Fight Pass)
 268,UFC Fight Night: Nogueira vs. Nelson,2014-04-11,du Arena,,Abu Dhabi, United Arab Emirates,7963.0,Bantamweight,Rani Yahya,Johnny Bedford,No Contest (accidental headbutt),1.0,39.0,Preliminary card (UFC Fight Pass)
 267,UFC Fight Night: Shogun vs. Henderson 2,2014-03-23,Ginásio Nélio Dias,,Natal, Brazil,6828.0,Light Heavyweight,Dan Henderson,Maurício Rua,TKO (punches),3.0,91.0,Main card
@@ -4485,18 +4485,18 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 267,UFC Fight Night: Shogun vs. Henderson 2,2014-03-23,Ginásio Nélio Dias,,Natal, Brazil,6828.0,Lightweight,Michel Prazeres,Mairbek Taisumov,"Decision (unanimous) (30–25, 30–25, 30–25)",3.0,300.0,Main card
 267,UFC Fight Night: Shogun vs. Henderson 2,2014-03-23,Ginásio Nélio Dias,,Natal, Brazil,6828.0,Flyweight,Jussier Formiga,Scott Jorgensen,Submission (rear-naked choke),1.0,187.0,Preliminary card (Fox Sports 1)
 267,UFC Fight Night: Shogun vs. Henderson 2,2014-03-23,Ginásio Nélio Dias,,Natal, Brazil,6828.0,Light Heavyweight,Hans Stringer,Francimar Barroso,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Preliminary card (Fox Sports 1)
-266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Flyweight,Justin Scoggins,Will Campuzano,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary card (UFC Fight Pass)
 266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Welterweight,Tyron Woodley,Carlos Condit,TKO (knee injury),2.0,120.0,Main card
-266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Welterweight,Kelvin Gastelum,Rick Story,"Decision (split) (28–29, 29–28, 30–27)",3.0,300.0,Preliminary card (Fox Sports 2)
-266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Featherweight,Robert Whiteford,Daniel Pineda,"Decision (unanimous) (30–27, 29–28, 29–28)",3.0,300.0,Preliminary card (UFC Fight Pass)
 266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Light Heavyweight,Ovince Saint Preux,Nikita Krylov,Technical Submission (Von Flue choke),1.0,89.0,Main card
 266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Welterweight,Johny Hendricks,Robbie Lawler,"Decision (unanimous) (48–47, 48–47, 48–47)",5.0,300.0,Main card
-266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Women's Bantamweight,Jéssica Andrade,Raquel Pennington,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Preliminary card (Fox Sports 2)
 266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Lightweight,Myles Jury,Diego Sanchez,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Main card
+266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Welterweight,Héctor Lombard,Jake Shields,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Main card
+266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Flyweight,Justin Scoggins,Will Campuzano,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary card (UFC Fight Pass)
+266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Welterweight,Kelvin Gastelum,Rick Story,"Decision (split) (28–29, 29–28, 30–27)",3.0,300.0,Preliminary card (Fox Sports 2)
+266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Featherweight,Robert Whiteford,Daniel Pineda,"Decision (unanimous) (30–27, 29–28, 29–28)",3.0,300.0,Preliminary card (UFC Fight Pass)
+266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Women's Bantamweight,Jéssica Andrade,Raquel Pennington,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Preliminary card (Fox Sports 2)
 266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Middleweight,Sean Strickland,Bubba McDaniel,Submission (rear-naked choke),1.0,273.0,Preliminary card (UFC Fight Pass)
 266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Featherweight,Dennis Bermudez,Jimy Hettes,TKO (punches and knee),3.0,177.0,Preliminary card (Fox Sports 2)
 266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Welterweight,Alex Garcia,Sean Spencer,"Decision (split) (29–28, 28–29, 30–27)",3.0,300.0,Preliminary card (Fox Sports 2)
-266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Welterweight,Héctor Lombard,Jake Shields,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Main card
 266,UFC 171: Hendricks vs. Lawler,2014-03-15,American Airlines Center,Dallas, Texas, US,19324.0,Catchweight (157 lb),Francisco Treviño,Renée Forte,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary card (UFC Fight Pass)
 265,UFC Fight Night: Gustafsson vs. Manuwa,2014-03-08,The O2 Arena,London, England, UK,14604.0,Welterweight,Igor Araújo,Danny Mitchell,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary card (UFC Fight Pass)
 265,UFC Fight Night: Gustafsson vs. Manuwa,2014-03-08,The O2 Arena,London, England, UK,14604.0,Welterweight,Gunnar Nelson,Omari Akhmedov,Submission (guillotine choke),1.0,276.0,Main card
@@ -4909,6 +4909,8 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 231,UFC 158: St-Pierre vs. Diaz,2013-03-16,Bell Centre,Montreal, Quebec, Canada,20145.0,Welterweight,Jordan Mein,Dan Miller,TKO (punches),1.0,282.0,Preliminary card (FX)
 231,UFC 158: St-Pierre vs. Diaz,2013-03-16,Bell Centre,Montreal, Quebec, Canada,20145.0,Middleweight,Chris Camozzi,Nick Ring,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Main card
 230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,,Saitama, Japan,14682.0,Middleweight,Yushin Okami,Héctor Lombard,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Main card
+230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,,Saitama, Japan,14682.0,Bantamweight,Alex Caceres,Kang Kyung-ho,No Contest,3.0,300.0,Preliminary card (Facebook and YouTube)
+230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,,Saitama, Japan,14682.0,Welterweight,Lim Hyun-gyu,Marcelo Guimarães,KO (knee and punches),2.0,240.0,Preliminary card (Facebook and YouTube)
 230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,,Saitama, Japan,14682.0,Heavyweight,Mark Hunt,Stefan Struve,TKO (punches),3.0,104.0,Main card
 230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,,Saitama, Japan,14682.0,Middleweight,Brad Tavares,Riki Fukuda,"Decision (unanimous) (29–28, 29–28, 30–27)",3.0,300.0,Preliminary card (Facebook and YouTube)
 230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,,Saitama, Japan,14682.0,Catchweight (158 lb),Diego Sanchez,Takanori Gomi,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Main card
@@ -4917,19 +4919,17 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,,Saitama, Japan,14682.0,Light Heavyweight,Wanderlei Silva,Brian Stann,KO (punches),2.0,248.0,Main card
 230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,,Saitama, Japan,14682.0,Bantamweight,Takeya Mizugaki,Bryan Caraway,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Preliminary card (Facebook and YouTube)
 230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,,Saitama, Japan,14682.0,Featherweight,Rani Yahya,Mizuto Hirota,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Main card
-230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,,Saitama, Japan,14682.0,Bantamweight,Alex Caceres,Kang Kyung-ho,No Contest,3.0,300.0,Preliminary card (Facebook and YouTube)
-230,UFC on Fuel TV: Silva vs. Stann,2013-03-03,Saitama Super Arena,,Saitama, Japan,14682.0,Welterweight,Lim Hyun-gyu,Marcelo Guimarães,KO (knee and punches),2.0,240.0,Preliminary card (Facebook and YouTube)
 229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Light Heavyweight,Lyoto Machida,Dan Henderson,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Main card
 229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Lightweight,Michael Chiesa,Anton Kuivanen,Submission (rear-naked choke),2.0,149.0,Preliminary Card (FX)
 229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Women's Bantamweight,Ronda Rousey (c),Liz Carmouche,Submission (armbar),1.0,289.0,Main card
 229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Bantamweight,Urijah Faber,Ivan Menjivar,Submission (rear-naked choke),1.0,274.0,Main card
-229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Welterweight,Neil Magny,Jon Manley,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Preliminary Card (Facebook)
 229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Welterweight,Robbie Lawler,Josh Koscheck,TKO (knee and punches),1.0,237.0,Main card
 229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Heavyweight,Brendan Schaub,Lavar Johnson,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary Card (FX)
 229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Lightweight,Sam Stout,Caros Fodor,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Preliminary Card (FX)
 229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Featherweight,Dennis Bermudez,Matt Grice,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Preliminary Card (FX)
 229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Welterweight,Court McGee,Josh Neer,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Main card
 229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Welterweight,Kenny Robertson,Brock Jardine,Submission (Suloev stretch)[11],1.0,177.0,Preliminary Card (Facebook)
+229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Welterweight,Neil Magny,Jon Manley,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Preliminary Card (Facebook)
 229,UFC 157: Rousey vs. Carmouche,2013-02-23,Honda Center,Anaheim, California, US,13257.0,Catchweight (175.8 lb),Nah-Shon Burrell,Yuri Villefort,"Decision (unanimous) (30–27, 29–28, 29–28)",3.0,300.0,Preliminary Card (Facebook)
 228,UFC on Fuel TV: Barão vs. McDonald,2013-02-16,Wembley Arena,London, England, UK,10349.0,Lightweight,Danny Castillo,Paul Sass,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Preliminary Card (Facebook and YouTube)
 228,UFC on Fuel TV: Barão vs. McDonald,2013-02-16,Wembley Arena,London, England, UK,10349.0,Featherweight,Andy Ogle,Josh Grispi,"Decision (unanimous) (29–28, 29–28, 30–27)",3.0,300.0,Preliminary Card (Facebook and YouTube)
@@ -5278,17 +5278,17 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 197,UFC 143: Diaz vs. Condit,2012-02-04,Mandalay Bay Events Center,Las Vegas, Nevada, US,9015.0,Bantamweight,Edwin Figueroa,Alex Caceres,"Decision (split) (28–27, 27–28, 28–27)",3.0,300.0,Preliminary card (FX)
 197,UFC 143: Diaz vs. Condit,2012-02-04,Mandalay Bay Events Center,Las Vegas, Nevada, US,9015.0,Middleweight,Rafael Natal,Michael Kuiper,"Decision (unanimous) (30–27, 30–27, 29–28)",3.0,300.0,Preliminary card (Facebook)
 196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Featherweight,José Aldo (c),Chad Mendes,KO (knee),1.0,299.0,Main card
+196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Light Heavyweight,Jon Jones (c),Rashad Evans,"Decision (unanimous) (49–46, 49–46, 50–45)",5.0,300.0,Main card
+196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Heavyweight,Junior dos Santos (c),Frank Mir,TKO (punches),2.0,184.0,Main card
+196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Lightweight,Benson Henderson,Frankie Edgar (c),"Decision (unanimous) (49–46, 48–47, 49–46)",5.0,300.0,Main card
+196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Welterweight,Carlos Condit,Nick Diaz,"Decision (unanimous) (49–46, 48–47, 49–46)",5.0,300.0,Main card
 196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Lightweight,Benson Henderson (c),Nate Diaz,"Decision (unanimous) (50–43, 50–45, 50–45)",5.0,300.0,Main card
 196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Middleweight,Anderson Silva (c),Chael Sonnen,TKO (knee and punches),2.0,115.0,Main card
 196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Welterweight,Georges St-Pierre (c),Carlos Condit (ic),"Decision (unanimous) (49–46, 50–45, 50–45)",5.0,300.0,Main card
 196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Lightweight,Benson Henderson (c),Frankie Edgar,"Decision (split) (48–47, 48–47, 46–49)",5.0,300.0,Main card
 196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Heavyweight,Cain Velasquez,Junior dos Santos (c),"Decision (unanimous) (50–45, 50–43, 50–44)",5.0,300.0,Main card
 196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Light Heavyweight,Jon Jones (c),Vitor Belfort,Submission (americana),4.0,54.0,Main card
-196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Light Heavyweight,Jon Jones (c),Rashad Evans,"Decision (unanimous) (49–46, 49–46, 50–45)",5.0,300.0,Main card
-196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Heavyweight,Junior dos Santos (c),Frank Mir,TKO (punches),2.0,184.0,Main card
-196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Lightweight,Benson Henderson,Frankie Edgar (c),"Decision (unanimous) (49–46, 48–47, 49–46)",5.0,300.0,Main card
 196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Flyweight,Demetrious Johnson,Joseph Benavidez,"Decision (split) (48–47, 47–48, 49–46)",5.0,300.0,Main card
-196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Welterweight,Carlos Condit,Nick Diaz,"Decision (unanimous) (49–46, 48–47, 49–46)",5.0,300.0,Main card
 196,UFC on Fox: Evans vs. Davis,2012-01-28,United Center,Chicago, Illinois, US,16963.0,Bantamweight,Renan Barão,Urijah Faber,"Decision (unanimous) (49–46, 50–45, 49–46)",5.0,300.0,Main card
 195,UFC on FX: Guillard vs. Miller,2012-01-20,Bridgestone Arena,Nashville, Tennessee, US,7728.0,Middleweight,Jorge Rivera,Eric Schafer,TKO (punches),2.0,91.0,Preliminary Card (Fuel TV)
 195,UFC on FX: Guillard vs. Miller,2012-01-20,Bridgestone Arena,Nashville, Tennessee, US,7728.0,Lightweight,Khabib Nurmagomedov,Kamal Shalorus,Submission (rear-naked choke),3.0,128.0,Preliminary Card (Fuel TV)
@@ -5374,17 +5374,17 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 188,UFC 138: Leben vs. Muñoz,2011-11-05,LG Arena,Birmingham, England, UK,10823.0,Bantamweight,Chris Cariaso,Vaughan Lee,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Preliminary card (Facebook)
 188,UFC 138: Leben vs. Muñoz,2011-11-05,LG Arena,Birmingham, England, UK,10823.0,Middleweight,Mark Muñoz,Chris Leben,TKO (corner stoppage),2.0,300.0,Main card
 188,UFC 138: Leben vs. Muñoz,2011-11-05,LG Arena,Birmingham, England, UK,10823.0,Featherweight,Michihiro Omigawa,Jason Young,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary card (Facebook)
-187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Featherweight,Hatsu Hioki,George Roop,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Main card
-187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Bantamweight,Scott Jorgensen,Jeff Curran,"Decision (unanimous) (29–28, 29–28, 30–27)",3.0,300.0,Main card
-187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Welterweight,Nick Diaz,B.J. Penn,"Decision (unanimous) (29–28, 29–27, 29–28)",3.0,300.0,Main card
-187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Heavyweight,Roy Nelson,Mirko Cro Cop,TKO (punches),3.0,90.0,Main card
-187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Heavyweight,Cheick Kongo,Matt Mitrione,"Decision (unanimous) (30–27, 30–28, 29–28)",3.0,300.0,Main card
 187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Catchweight (149 lb),Bart Palaszewski,Tyson Griffin,KO (punches),1.0,165.0,Preliminary card (Spike TV)
+187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Featherweight,Hatsu Hioki,George Roop,"Decision (split) (29–28, 28–29, 29–28)",3.0,300.0,Main card
 187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Middleweight,Francis Carmont,Chris Camozzi,"Decision (unanimous) (30–26, 30–27, 30–27)",3.0,300.0,Preliminary card (Facebook)
 187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Middleweight,Clifford Starks,Dustin Jacoby,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary card (Facebook)
+187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Bantamweight,Scott Jorgensen,Jeff Curran,"Decision (unanimous) (29–28, 29–28, 30–27)",3.0,300.0,Main card
+187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Welterweight,Nick Diaz,B.J. Penn,"Decision (unanimous) (29–28, 29–27, 29–28)",3.0,300.0,Main card
 187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Light Heavyweight,Brandon Vera,Eliot Marshall,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Preliminary card (Facebook)
+187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Heavyweight,Roy Nelson,Mirko Cro Cop,TKO (punches),3.0,90.0,Main card
 187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Lightweight,Ramsey Nijem,Danny Downes,"Decision (unanimous) (30–25, 30–26, 30–27)",3.0,300.0,Preliminary card (Facebook)
 187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Lightweight,Donald Cerrone,Dennis Siver,Submission (rear-naked choke),1.0,142.0,Preliminary card (Spike TV)
+187,UFC 137: Penn vs. Diaz,2011-10-29,Mandalay Bay Events Center,Las Vegas, Nevada, US,10313.0,Heavyweight,Cheick Kongo,Matt Mitrione,"Decision (unanimous) (30–27, 30–28, 29–28)",3.0,300.0,Main card
 186,UFC 136: Edgar vs. Maynard III,2011-10-08,Toyota Center,Houston, Texas, US,16164.0,Middleweight,Chael Sonnen,Brian Stann,Submission (arm-triangle choke),2.0,231.0,Main card
 186,UFC 136: Edgar vs. Maynard III,2011-10-08,Toyota Center,Houston, Texas, US,16164.0,Middleweight,Mike Massenzio,Steve Cantwell,"Decision (unanimous) (29–28, 30–27, 29–28)",3.0,300.0,Preliminary card (Facebook)
 186,UFC 136: Edgar vs. Maynard III,2011-10-08,Toyota Center,Houston, Texas, US,16164.0,Featherweight,Nam Phan,Leonard Garcia,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Main card
@@ -6486,11 +6486,11 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 078,UFC Fight Night 6.5,2006-10-10,Seminole Hard Rock Hotel and Casino,Hollywood, Florida, US,3510.0,Welterweight,Marcus Davis,Forrest Petz,Submission (guillotine choke),1.0,298.0,Preliminary Card
 077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,Anaheim, California, US,12604.0,Middleweight,Mike Swick,David Loiseau,"Decision (unanimous) (29–28, 29–28, 29–28)",3.0,300.0,Main card
 077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,Anaheim, California, US,12604.0,Welterweight,Matt Hughes (c),B.J. Penn,TKO (punches),3.0,233.0,Main card
-077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,Anaheim, California, US,12604.0,Light Heavyweight,Rashad Evans,Jason Lambert,KO (punches),2.0,142.0,Main card
-077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,Anaheim, California, US,12604.0,Lightweight,Melvin Guillard,Gabe Ruediger,TKO (punch to the body),2.0,61.0,Main card
 077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,Anaheim, California, US,12604.0,Lightweight,Jorge Gurgel,Danny Abbadi,"Decision (split) (28–29, 29–28, 29–28)",3.0,300.0,Preliminary Card
 077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,Anaheim, California, US,12604.0,Heavyweight,Eddie Sanchez,Mario Neto,KO (punches),2.0,17.0,Preliminary Card
+077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,Anaheim, California, US,12604.0,Light Heavyweight,Rashad Evans,Jason Lambert,KO (punches),2.0,142.0,Main card
 077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,Anaheim, California, US,12604.0,Lightweight,Joe Lauzon,Jens Pulver,TKO (punch),1.0,48.0,Main card
+077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,Anaheim, California, US,12604.0,Lightweight,Melvin Guillard,Gabe Ruediger,TKO (punch to the body),2.0,61.0,Main card
 077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,Anaheim, California, US,12604.0,Lightweight,Roger Huerta,Jason Dent,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Preliminary Card
 077,UFC 63: Hughes vs. Penn,2006-09-23,Arrowhead Pond of Anaheim,Anaheim, California, US,12604.0,Lightweight,Tyson Griffin,David Lee,Submission (rear-naked choke),1.0,110.0,Preliminary Card
 076,UFC 62: Liddell vs. Sobral,2006-08-26,Mandalay Bay Events Center,Las Vegas, Nevada, US,10503.0,Lightweight,Hermes França,Jamie Varner,Submission (armbar),3.0,211.0,Main card
@@ -6529,15 +6529,15 @@ cancelled,UFC Fight Night: Smith vs. Teixeira,2020-04-25,Pinnacle Bank Arena,Lin
 073,UFC Ultimate Fight Night 5,2006-06-28,Hard Rock Hotel and Casino,Las Vegas, Nevada, US,606.0,Middleweight,Anderson Silva,Chris Leben,KO (Knee),1.0,49.0,Main card
 073,UFC Ultimate Fight Night 5,2006-06-28,Hard Rock Hotel and Casino,Las Vegas, Nevada, US,606.0,Light Heavyweight,Rob MacDonald,Kristian Rothaermel,Submission (Armbar),1.0,241.0,Main card
 073,UFC Ultimate Fight Night 5,2006-06-28,Hard Rock Hotel and Casino,Las Vegas, Nevada, US,606.0,Light Heavyweight,Rashad Evans,Stephan Bonnar,"Decision (Majority) (30-27, 29-28, 28-28)",3.0,300.0,Main card
+071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Welterweight,Diego Sanchez,John Alessio,"Decision (unanimous) (30–27, 29–28, 29–28)",3.0,300.0,Main card
+071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Light Heavyweight,Dean Lister,Alessio Sakara,Submission (triangle choke),1.0,140.0,Main card
+071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Catchweight (175 lb),Matt Hughes,Royce Gracie,TKO (punches),1.0,279.0,Main card
 071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Middleweight,Jeremy Horn,Chael Sonnen,Submission (armbar),2.0,77.0,Preliminary Card
 071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Lightweight,Spencer Fisher,Matt Wiman,KO (flying knee),2.0,103.0,Preliminary Card
 071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Heavyweight,Gabriel Gonzaga,Fabiano Scherner,TKO (punches),2.0,24.0,Preliminary Card
 071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Lightweight,Melvin Guillard,Rick Davis,KO (punch),1.0,97.0,Preliminary Card
-071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Welterweight,Diego Sanchez,John Alessio,"Decision (unanimous) (30–27, 29–28, 29–28)",3.0,300.0,Main card
-071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Light Heavyweight,Dean Lister,Alessio Sakara,Submission (triangle choke),1.0,140.0,Main card
 071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Middleweight,Mike Swick,Joe Riggs,Submission (guillotine choke),1.0,139.0,Main card
 071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Heavyweight,Brandon Vera,Assuerio Silva,Submission (guillotine choke),1.0,159.0,Main card
-071,UFC 60: Hughes vs. Gracie,2006-05-27,Staples Center,Los Angeles, California, US,14765.0,Catchweight (175 lb),Matt Hughes,Royce Gracie,TKO (punches),1.0,279.0,Main card
 070,UFC 59: Reality Check,2006-04-15,Arrowhead Pond of Anaheim,Anaheim, California, US,13814.0,Heavyweight,Jeff Monson,Marcio Cruz,"Decision (split) (30–27, 29–28, 28–29)",3.0,300.0,Main card
 070,UFC 59: Reality Check,2006-04-15,Arrowhead Pond of Anaheim,Anaheim, California, US,13814.0,Light Heavyweight,Jason Lambert,Terry Martin,TKO (punches),2.0,157.0,Preliminary Card
 070,UFC 59: Reality Check,2006-04-15,Arrowhead Pond of Anaheim,Anaheim, California, US,13814.0,Welterweight,Sean Sherk,Nick Diaz,"Decision (unanimous) (30–27, 30–27, 30–27)",3.0,300.0,Main card
